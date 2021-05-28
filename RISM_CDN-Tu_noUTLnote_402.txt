@@ -1,0 +1,403 @@
+Composer	Title	RISM ID	A number	B number	UTL MMS ID								
+"Tenducci, Giusto Ferdinando$d1736c-1790$jAscertained$030003615"	Ricordati mio bene | M.|r Tenducci's rondo.	820000001			991106378691806196								
+"Bertoni, Ferdinando$d1725-1813$jAscertained$030000328"	La partenza | cantata à voce sola di contr'alto.	820000002			991106342211106196								
+"Palmerini, Luigi$d1768-1842$jVerified$030006416"	"Litanie a 3. voci con clarinetti, corni, e fagotto, e violone | di Luigi Palmieri"	820000229											
+"Mozart, Wolfgang Amadeus$d1756-1791$jAscertained$0115324"	Ascanio in Alba	820000228											
+"Duni, Egidio Romualdo$d1708-1775$030000905"	"Les sabots. Pièce en un acte ... représentée pour la 1|r|e fois sur le Théâtre des comédiens ital. ord. du Roi [Paris, auteur; aux adresses ordinaires; Lyon, Castaud (gravée par Dezauche); Castaud (imprimée par Monthulay)]"	990015522	DD 3795										
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"Les mariages samnites. Drame lyrique en trois actes et en prose, représenté ... le 12 juin 1776 [Paris, Houbaut; Lyon, Castaud (Dezauche, Basset)]"	990023174	G 4259										
+"Haydn, Joseph$d1732-1809$055803"	"The celebrated overture ... performed at Messrs. Bach & Abel's concerts adapted for the piano forte or harpsichord [London, Longman & Broderip]"	990028410	H 4260										
+"Haydn, Joseph$d1732-1809$055803"	"Grande sonate pour le forte-piano ... œuvre 92 [Paris, B. Viguerie (écrit par Ribière)]"	990028117	H 3964										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Dryden's ode on S|t Cecilia's Day. Composed by M|r Handel [Nr. 10-11 der Sammlung: The New Musical Magazine, veröffentlicht zusammen mit: Acis and Galatea, 1784] [[London], [Harrison & Co.]]"	990025320	H 1040										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Acis and Galatea. A masque. Composed by M|r Handel, for the voice, harpsichord, and violin [London, Harrison & Co.]"	990024713	H 385										
+"Galliard, John Ernest$d1680c-1749$030004454"	"The morning hymn, taken from the fifth book of Milton's Paradise lost ..., the overture, accompanyments & chorusses added by Benjamin Cooke. [London, Welcker]"	990019462	G 231										
+"Dibdin, Charles$d1745-1814$0164414"	"Cheap experience [London, author]"	990014144	D 2366										
+"Dibdin, Charles$d1745-1814$0164414"	"The tye wig volunteers [London, author]"	990014165	D 2387										
+"Dibdin, Charles$d1745-1814$0164414"	"The flowing can [London, author]"	990014287	D 2513										
+"Dibdin, Charles$d1745-1814$0164414"	"All the birds in the air [London, author]"	990014360	D 2587										
+"Dibdin, Charles$d1745-1814$0164414"	"Leap year [London, author]"	990014370	D 2597										
+"Dibdin, Charles$d1745-1814$0164414"	"The lucky escape [London, author]"	990014372	D 2599										
+"Dibdin, Charles$d1745-1814$0164414"	"The rara avis [London, author]"	990014381	D 2608										
+"Dibdin, Charles$d1745-1814$0164414"	"The reward of fidelity [London, author]"	990014382	D 2609										
+"Dibdin, Charles$d1745-1814$0164414"	"The royal nuptials [London, author]"	990014384	D 2611										
+"Dibdin, Charles$d1745-1814$0164414"	"The sailor's consolation [London, author]"	990014385	D 2612										
+"Dibdin, Charles$d1745-1814$0164414"	"The soldier's last retreat [London, author]"	990014392	D 2619										
+"Dibdin, Charles$d1745-1814$0164414"	"Tack and tack [London, author]"	990014393	D 2620										
+"Dibdin, Charles$d1745-1814$0164414"	"Tantivy [London, author]"	990014394	D 2621										
+"Dibdin, Charles$d1745-1814$0164414"	"Virtue [London, author]"	990014396	D 2623										
+"Dibdin, Charles$d1745-1814$0164414"	"The bowmen of Kent [London, author]"	990014413	D 2640										
+"Dibdin, Charles$d1745-1814$0164414"	"The etymology of quiz [London, author]"	990014415	D 2642										
+"Dibdin, Charles$d1745-1814$0164414"	"The fair [London, author]"	990014416	D 2643										
+"Dibdin, Charles$d1745-1814$0164414"	"The Grecian history [London, author]"	990014418	D 2645										
+"Dibdin, Charles$d1745-1814$0164414"	"A hint to the ladies [London, author]"	990014419	D 2646										
+"Dibdin, Charles$d1745-1814$0164414"	"Honesty in tatters [London, author]"	990014420	D 2647										
+"Dibdin, Charles$d1745-1814$0164414"	"The miseries of war [London, author]"	990014427	D 2654										
+"Dibdin, Charles$d1745-1814$0164414"	"A dose for the dons [London, author]"	990014523	D 2750										
+"Dibdin, Charles$d1745-1814$0164414"	"The constant sailor [London, author]"	990014538	D 2765										
+"Dibdin, Charles$d1745-1814$0164414"	"A drop of the creature [London, author]"	990014544	D 2771										
+"Dibdin, Charles$d1745-1814$0164414"	"Patrick O' Row [London, author]"	990014564	D 2791										
+"Dibdin, Charles$d1745-1814$0164414"	"Love's lesson [London, author]"	990014149	D 2371										
+"Dibdin, Charles$d1745-1814$0164414"	"The mad lover [London, author]"	990014150	D 2372										
+"Dibdin, Charles$d1745-1814$0164414"	"Mounseer Mong Tong Paw [London, author]"	990014153	D 2375										
+"Dibdin, Charles$d1745-1814$0164414"	"On gratitude [London, author]"	990014308	D 2534										
+"Dibdin, Charles$d1745-1814$0164414"	"Bill Bobstay [London, author]"	990014362	D 2589										
+"Dibdin, Charles$d1745-1814$0164414"	"The waggoner [London, author]"	990014397	D 2624										
+"Dibdin, Charles$d1745-1814$0164414"	"Humanity's cot [London, author]"	990014421	D 2648										
+"Dibdin, Charles$d1745-1814$0164414"	"The quietus [London, author]"	990014434	D 2661										
+"Dibdin, Charles$d1745-1814$0164414"	"The recompence of constancy [London, author]"	990014435	D 2662										
+"Dibdin, Charles$d1745-1814$0164414"	"Valentine's train [London, author]"	990014531	D 2758										
+"Dibdin, Charles$d1745-1814$0164414"	"Bonny Kate [London, author]"	990014533	D 2760										
+"Dibdin, Charles$d1745-1814$0164414"	"Irish Italian song [London, author]"	990014550	D 2777										
+"Dibdin, Charles$d1745-1814$0164414"	"Soldier Dick [London, author]"	990014577	D 2804										
+"Dibdin, Charles$d1745-1814$0164414"	"Nancy dear [London, author]"	990014159	D 2381										
+"Dibdin, Charles$d1745-1814$0164414"	"All the world's a masquerade [London, author]"	990014276	D 2502										
+"Dibdin, Charles$d1745-1814$0164414"	"Bachelor's hall [London, author]"	990014277	D 2503										
+"Dibdin, Charles$d1745-1814$0164414"	"The Greenwich pensioner [London, author]"	990014293	D 2519										
+"Dibdin, Charles$d1745-1814$0164414"	"The Indian song [London, author]"	990014299	D 2525										
+"Dibdin, Charles$d1745-1814$0164414"	"Poor Tom, or The sailor's epitaph [London, author]"	990014313	D 2539										
+"Dibdin, Charles$d1745-1814$0164414"	"Saturday night at sea [London, author]"	990014319	D 2545										
+"Dibdin, Charles$d1745-1814$0164414"	"Taffy and Griddy [London, author]"	990014326	D 2552										
+"Dibdin, Charles$d1745-1814$0164414"	"The beggar [London, author]"	990014361	D 2588										
+"Dibdin, Charles$d1745-1814$0164414"	"Meum and tuum [London, author]"	990014376	D 2603										
+"Dibdin, Charles$d1745-1814$0164414"	"Roses and lilies [London, author]"	990014383	D 2610										
+"Dibdin, Charles$d1745-1814$0164414"	"The blind sailor [London, author]"	990014411	D 2638										
+"Dibdin, Charles$d1745-1814$0164414"	"The Savoyard [London, author]"	990014436	D 2663										
+"Dibdin, Charles$d1745-1814$0164414"	"Every man's friend [London, author]"	990014524	D 2751										
+"Dibdin, Charles$d1745-1814$0164414"	"Jervis for ever [London, author]"	990014525	D 2752										
+"Dibdin, Charles$d1745-1814$0164414"	"Valentine's day [London, author]"	990014530	D 2757										
+"Dibdin, Charles$d1745-1814$0164414"	"Buxom Nan [London, author]"	990014534	D 2761										
+"Dibdin, Charles$d1745-1814$0164414"	"Love's concerto [London, author]"	990014558	D 2785										
+"Dibdin, Charles$d1745-1814$0164414"	"A savage love song [London, author]"	990014572	D 2799										
+"Dibdin, Charles$d1745-1814$0164414"	"Shenkin & Winny [London, author]"	990014573	D 2800										
+"Dibdin, Charles$d1745-1814$0164414"	"The true English sailor [London, author]"	990014588	D 2815										
+"Dibdin, Charles$d1745-1814$0164414"	"Jack's claim to Poll [London, author]"	990014148	D 2370										
+"Dibdin, Charles$d1745-1814$0164414"	"The sailor's maxim [London, author]"	990014164	D 2386										
+"Dibdin, Charles$d1745-1814$0164414"	"The lamplighter [London, author]"	990014305	D 2531										
+"Dibdin, Charles$d1745-1814$0164414"	"Peggy Perkins [London, author]"	990014309	D 2535										
+"Dibdin, Charles$d1745-1814$0164414"	"The complaint [London, author]"	990014522	D 2749										
+"Dibdin, Charles$d1745-1814$0164414"	"Death alive [London, author]"	990014540	D 2767										
+"Dibdin, Charles$d1745-1814$0164414"	"Morality in the foretop [London, author]"	990014559	D 2786										
+"Dibdin, Charles$d1745-1814$0164414"	"Swizzy [London, author]"	990014586	D 2813										
+"Dibdin, Charles$d1745-1814$0164414"	"True friendship [London, author]"	990014590	D 2817										
+"Dibdin, Charles$d1745-1814$0164414"	"The woodman [London, author]"	990014597	D 2824										
+"Dibdin, Charles$d1745-1814$0164414"	"Wigs, or the Inundation [London, author]"	990014594	D 2821										
+"Dibdin, Charles$d1745-1814$0164414"	"The virtue of drunkeness [London, author]"	990014591	D 2818										
+"Dibdin, Charles$d1745-1814$0164414"	"The watery grave [London, author]"	990014592	D 2819										
+"Dibdin, Charles$d1745-1814$0164414"	"The wily fox [London, author]"	990014595	D 2822										
+"Gagliano, Marco da$d1582-1643$030003811"	CANTO | IL SESTO LIBRO | DE MADRIGALI A CINQVE VOCI | DI MARCO DA GAGLIANO | Maestro di Cappella Del Serenissimo | Gran Duca di Toscana. | AL MOLTO ILL.re SIG.r E PATRON MIO COLLENDISSIMO | IL SIGNOR COSIMO DEL SERA. | Nuonamente [!] Stampati. | [printer's mark] | STAMPA DEL GARDANO IN VENETIA A MDCXVII. | Appresso Bartholomeo Magni.	990019381	G 116										
+"Haydn, Joseph$d1732-1809$055803"	"Doctr. Haydn's twelve original ballads for the pianoforte or harpsichord [Dublin, Edmund Lee]"	990026796	H 2633										
+"Haydn, Joseph$d1732-1809$055803"	"[vol. 1, title page:] HAYDN'S JAHRESZEITEN | ERSTE ABTHEILUNG. | LES SAISONS | PAR | JOSEPH HAYDN. | PREMIERE PARTIE."	990026708	H 2543										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Athalia. An oratorio or sacred drama in score, the music composed in the year 1733 [London, Samuel Arnold; John Longman; Broderip]"	990025736	H 1494										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Te Deum [B] in score, composed for His Grace the Duke of Chandos (in the year 1719) [London, Samuel Arnold; John Longman; Broderip]"	990025740	H 1498										
+"Händel, Georg Friedrich$d1685-1759$036552"	"A grand Te Deum, composed in the year 1713 for the peace of Utrecht [London, Samuel Arnold; John Longman; Broderip]"	990025741	H 1499										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Te Deum, composed in the year 1743 for the victory at Dettingen [London, Samuel Arnold; John Longman; Broderip]"	990025743	H 1501										
+"Händel, Georg Friedrich$d1685-1759$036552"	"The musick for the royal fireworks, performed in the year 1749 [London, Samuel Arnold; John Longman; Broderip]"	990025748	H 1506										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Samson. A sacred oratorio in score, the words taken from Milton, the musick composed in the year 1742 [London, Samuel Arnold; John Longman; Broderip]"	990025757	H 1515										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem VI|a: As pants the hart] ... Anthem VIII [London, Samuel Arnold; John Longman; Broderip]"	990025772	H 1530										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem IX: O praise the Lord with one consent] ... Anthem XI [London, Samuel Arnold; John Longman; Broderip]"	990025775	H 1533										
+"Händel, Georg Friedrich$d1685-1759$036552"	"A third set of lessons for the harpsichord [London, Samuel Arnold; John Longman; Broderip]"	990025790	H 1548										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Deborah. A sacred oratorio in score, composed in the year 1739 [London, Samuel Arnold; John Longman; Broderip]"	990025795	H 1553										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Anthem. For the victory at Dettingen, composed in the year 1743 [London, Samuel Arnold; John Longman; Broderip]"	990025801	H 1559										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Concertos (commonly called the hautboy concertos) for two violins, two hautboys, two german flutes, two tenors, two bassoons, two violoncellos, and a basso continuo, chiefly composed at Cannons, in the year 1720, and published about the year 1729 [op. 3] [London, Samuel Arnold; John Longman; Broderip]"	990025810	H 1568										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Two trios, and four cantatas, in score [London, Samuel Arnold; John Longman; Broderip]"	990025811	H 1569										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Thirteen chamber duetto's and twelve cantatas [London, Samuel Arnold; John Longman; Broderip]"	990025812	H 1570										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Sosarme. Opera in tre atti, rappresentata al Teatro del Re nel Mercato del Fieno a Londra nell'anno 1732 [London, Samuel Arnold; John Longman; Broderip]"	990025746	H 1504										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Seven sonatas or trios [op. 5] for two violins or two german flutes and a violoncello, composed and published in the year 1739 [London, Samuel Arnold; John Longman; Broderip]"	990025756	H 1514										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem III: Have mercy upon me] ... Anthem IV [London, Samuel Arnold; John Longman; Broderip]"	990025768	H 1526										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem X: The Lord is my light] ... Anthem IX [London, Samuel Arnold; John Longman; Broderip]"	990025773	H 1531										
+"Händel, Georg Friedrich$d1685-1759$036552"	"The occasional oratorio in score, composed in the year 1745 [London, Samuel Arnold; John Longman; Broderip]"	990025781	H 1539										
+"Händel, Georg Friedrich$d1685-1759$036552"	"A second set of six concertos, in score, for the organ or harpsichord, with accompanyments for two violins, two hautboys, viola & violoncello ...concerto I-VI [op. 7] [London, Samuel Arnold; John Longman; Broderip]"	990025787	H 1545										
+"Händel, Georg Friedrich$d1685-1759$036552"	"A second set of lessons for the harpsichord [London, Samuel Arnold; John Longman; Broderip]"	990025789	H 1547										
+"Händel, Georg Friedrich$d1685-1759$036552"	"La resurrezione. Oratorio sacro in partizione [London, Samuel Arnold; John Longman; Broderip]"	990025808	H 1566										
+"Händel, Georg Friedrich$d1685-1759$036552"	"The works of Handel, in score, correct, uniform, and complete. Consisting of his oratorios, operas, duets, anthems, concertos, lessons, Te Deums, trios, fugues &c. Elegantly engraved, on large folio plates, under the immediate direction of Dr. Arnold [[London], S. Arnold; L. Longman; Broderip]"	990025735	H 1493										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Symphony to the Jubilate [London, Samuel Arnold; John Longman; Broderip]"	990025744	H 1502										
+"Händel, Georg Friedrich$d1685-1759$036552"	"The celebrated water musick in score, composed in the year 1716 [London, Samuel Arnold; John Longman; Broderip]"	990025747	H 1505										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Acis and Galatea. A serenata, composed for the Duke of Chandos in the year 1720 [London, Samuel Arnold; John Longman; Broderip]"	990025750	H 1508										
+"Händel, Georg Friedrich$d1685-1759$036552"	"An ode or serenata for the birthday of Queen Ann, composed in the year 1713 [London, Samuel Arnold; John Longman; Broderip]"	990025758	H 1516										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Joseph. A sacred oratorio in score, composed in the year 1746 [London, Samuel Arnold; John Longman; Broderip]"	990025783	H 1541										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Twelve sonatas or solo's for the german flute, hautboy and violin, published about the year 1724 [London, Samuel Arnold; John Longman; Broderip]"	990025794	H 1552										
+"Händel, Georg Friedrich$d1685-1759$036552"	"L'Allegro, il pensieroso, ed il moderato. The words taken from Milton, the musick composed in the year 1739 [London, Samuel Arnold; John Longman; Broderip]"	990025797	H 1555										
+"Händel, Georg Friedrich$d1685-1759$036552"	"A short Te Deum [D] in score, composed for Her late Majesty Queen Caroline in the year 1737 [London, Samuel Arnold; John Longman; Broderip]"	990025739	H 1497										
+"Händel, Georg Friedrich$d1685-1759$036552"	"A grand Jubilate, composed in the year 1713 for the peace of Utrech[t] [London, Samuel Arnold; John Longman; Broderip]"	990025742	H 1500										
+"Händel, Georg Friedrich$d1685-1759$036552"	"The Choice of Hercules. In score, composed in the year 1745 [London, Samuel Arnold; John Longman; Broderip]"	990025759	H 1517										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem IV: O sing unto the Lord] ... Anthem VI [London, Samuel Arnold; John Longman; Broderip]"	990025770	H 1528										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Saul. A sacred oratorio in score, composed in the year 1740 [London, Samuel Arnold; John Longman; Broderip]"	990025784	H 1542										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Jephtha. A sacred oratorio. In score, composed in the year 1751 [London, Samuel Arnold; John Longman; Broderip]"	990025785	H 1543										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Lessons for the harpsichord, first published in the year 1720 [London, Samuel Arnold; John Longman; Broderip]"	990025788	H 1546										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Agrippina. Opera in tre atti rappresentata al teatro di Venizzia nell' anno 1709 [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025796	H 1554										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem XIV: Sing unto God]. Anthem, for the wedding of Frederick Prince of Wales, and the Princess of Saxa-Gotha, composed in the year 1736 [London, Samuel Arnold; John Longman; Broderip]"	990025798	H 1556										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Coronation anthems I: Zadock, the priest]. Anthem, for the coronation of George II, composed in the year 1727 [London, Samuel Arnold; John Longman; Broderip]"	990025803	H 1561										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Terpsicore/Il pastor fido]. Masque consisting of a prelude, airs, duettes, a chorus, and dances [London, Samuel Arnold; John Longman; Broderip]"	990025805	H 1563										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Hercules. An oratorio in score, composed in the year 1744 [London, Samuel Arnold; John Longman; Broderip]"	990025752	H 1510										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Judas Macchabaeus. A sacred oratorio in score, with all the additional alterations, composed in the year 1746 [London, Samuel Arnold; John Longman; Broderip]"	990025753	H 1511										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Six sonatas [op. 2] for two violins, two hautboys, or two german flutes and a violoncello, first published at Amsterdam 1731 [London, Samuel Arnold; John Longman; Broderip]"	990025755	H 1513										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Belshazzar. A sacred oratorio, in score, composed in the year 1743 [London, Samuel Arnold; John Longman; Broderip]"	990025764	H 1522										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem XI|a: Let God arise] ... Anthem III [London, Samuel Arnold; John Longman; Broderip]"	990025767	H 1525										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem II: In the Lord put I my trust] ... Anthem X [London, Samuel Arnold; John Longman; Broderip]"	990025774	H 1532										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Alcides [Alceste]. An English opera in score [London, Samuel Arnold; John Longman; Broderip]"	990025777	H 1535										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Solomon. A sacred oratorio in score, with all the additional alterations, composed in the year 1749 [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025778	H 1536										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Coronation anthem IV: Let thy hand be strengthened]. Anthem, for the coronation of George II, composed in the year 1727 [London, Samuel Arnold; John Longman; Broderip]"	990025802	H 1560										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Coronation anthem III: My heart is inditing]. Anthem, for the coronation of George II, composed in the year 1727 [London, Samuel Arnold; John Longman; Broderip]"	990025804	H 1562										
+"Händel, Georg Friedrich$d1685-1759$036552"	"The triumph of time and truth. An oratorio in score, composed in the year 1751 [London, Samuel Arnold; John Longman; Broderip]"	990025807	H 1565										
+"Händel, Georg Friedrich$d1685-1759$036552"	"The music in the Alchymist [= Ouverture und Ballettmusik aus: Rodrigo] [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025762	H 1520										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem V|a: I will magnify thee]. Anthem, in score, composed at Cannons, for His Grace the Duke of Chandos between the year's 1718 & 1720 ... Anthem Ist [London, Samuel Arnold; John Longman; Broderip]"	990025765	H 1523										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem XI|b: Let God arise] ... Anthem II [London, Samuel Arnold; John Longman; Broderip]"	990025766	H 1524										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem VIII: O come let us sing unto the Lord] ... Anthem V [London, Samuel Arnold; John Longman; Broderip]"	990025769	H 1527										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem VII: My song shall be always] ... Anthem VII [London, Samuel Arnold; John Longman; Broderip]"	990025771	H 1529										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem XII: O praise the Lord, ye angels of His] ... Anthem XII [London, Samuel Arnold; John Longman; Broderip]"	990025776	H 1534										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Concertante in nine parts [= Concerto grosso C], for two violins and a violoncello obligati, composed in the year 1738 [London, Samuel Arnold; John Longman; Broderip]"	990025780	H 1538										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Six concertos, in score, for the organ or harpsichord, with accompanyments for two violins, two hautboys, viola & violoncello ... concerto I-VI [op. 4] [London, Samuel Arnold; John Longman; Broderip]"	990025786	H 1544										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Six fugues or voluntary's for the organ or harpsichord [London, Samuel Arnold; John Longman; Broderip]"	990025791	H 1549										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Alexander Balus. An oratorio in score, composed in the year 1747 [London, Samuel Arnold; John Longman; Broderip]"	990025806	H 1564										
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Coronation anthem II: The King shall rejoice]. Anthem for the coronation of Georg II, composed in the year 1727 [London, Samuel Arnold; John Longman; Broderip]"	990025809	H 1567										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Concertos &c. for the organ in score, now first published 1797 [London, Samuel Arnold; John Longman; Broderip]"	990025813	H 1571										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Giulio Cesare. Opera in tre atti, rappresentata al Teatro del Re nel Mercato del Fieno a Londra nell' anno 1723 [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025754	H 1512										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Susanna. A sacred oratorio. In score, composed in the year 1743 [London, Samuel Arnold; John Longman; Broderip]"	990025792	H 1550										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Esther. A sacred oratorio. In score, composed in the year 1720 [London, Samuel Arnold; John Longman; Broderip]"	990025793	H 1551										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Anthem, for the funeral of Queen Caroline, composed in the year 1737 [London, Samuel Arnold; John Longman; Broderip]"	990025800	H 1558										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Messiah. A sacred oratorio in score with all the additional alterations, composed in the year 1741 [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025738	H 1496										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Te Deum [A] in score, composed for His Grace the Duke of Chandos (in the year 1720) [London, Samuel Arnold; John Longman; Broderip]"	990025745	H 1503										
+"Händel, Georg Friedrich$d1685-1759$036552"	"Teseo. Opera in cinque atti, rappresentata al Teatro del Re nel Mercato del Fieno a Londra nell' anno 1713 [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025751	H 1509										
+"Corelli, Arcangelo$d1653-1713$030000734"	PARTE PRIMA | SONATE A VIOLINO E VIOLONE O CIMBALO | DEDICATE ALL ALTEZZA SERENISSIMA ELETTORALE DI | SOFIA CARLOTTA | ELETTRICE DI BRANDENBVRGO | PRINCIPESSA DI BRVNSWICH ET LVNEBVRGO DVCHESSA DI | PRVSSIA E DI MAGDEBVRGO CLEVES GIVLIERS BERGA STETINO | POMERANIA CASSVBIA E DE VANDALI IN SILESIA CROSSEN | BVRGRAVIA DI NORIMBERG PRINCIPESSA DI HALBERSTATT | MINDEN E CAMIN CONTESSA DI HOHENZOLLERN E | RAVENSPVRG RAVENSTAIN LAVENBVRG E BVTTAV | DA ARCANGELO CORELLI DA FVSIGNANO | OPERA QVINTA. | Si vendono a Pasquino all' Insegna della Stella da Filippo Farinelli. [space] Jncisa da Gasparo Pietra Santa	990011186	C 3801										
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"Méthode simple pour apprendre à préluder en peu de temps avec toutes les ressources de l'harmonie [Paris, Imprimerie de la République]"	990023439	G 4581										
+Gillier the younger$d18.sc$030011663	"Six setts of lessons [G, c, F, A, F, E] for the harpsichord, opera seconda. [London, John Johnson]"	990021214	G 2042										
+"Festing, Michael Christian$d1705-1752$030005118"	"Eight solos [A, c, E, D, b, B, F, e] for a violin and thorough-bass ... opera quarta [London, William Smith; author]"	990017898	F 673										
+"Finger, Gottfried$d1660c-1730$030001069"	"Six sonatas [F, c, C, B, g, G] of two parts for two flutes ... opera secunda [London, John Walsh & Joseph Hare]"	990018066	F 847										
+"Ducray-Duminil, François-Guillaume$d1761-1819$023691"	"L'autre nuit je réfléchissais. La croisée. Romance ... avec accompagnement de clavecin ou harpe [Paris, Imbault]"	990015377	D 3626										
+"Dibdin, Charles$d1745-1814$0164414"	"Anne Hathewaye [London, author]"	990014143	D 2365										
+"Dibdin, Charles$d1745-1814$0164414"	"The good of the nation [London, author]"	990014145	D 2367										
+"Dibdin, Charles$d1745-1814$0164414"	"The Irish echo [London, author]"	990014146	D 2368										
+"Dibdin, Charles$d1745-1814$0164414"	"Meg of Wapping [London, author]"	990014151	D 2373										
+"Dibdin, Charles$d1745-1814$0164414"	"The portrait [London, issued with ""The By-Stander""]"	990014316	D 2542										
+"Dibdin, Charles$d1745-1814$0164414"	"Sly old Hodge [London, author]"	990014324	D 2550										
+"Dibdin, Charles$d1745-1814$0164414"	"The tar for all weathers [London, author]"	990014328	D 2554										
+"Dibdin, Charles$d1745-1814$0164414"	"The drummer [London, author]"	990014366	D 2593										
+"Dibdin, Charles$d1745-1814$0164414"	"Jack's gratitude [London, author]"	990014368	D 2595										
+"Dibdin, Charles$d1745-1814$0164414"	"Life's a pun [London, author]"	990014371	D 2598										
+"Dibdin, Charles$d1745-1814$0164414"	"Poor Peg [London, author]"	990014379	D 2606										
+"Dibdin, Charles$d1745-1814$0164414"	"Jack at the windlass [London, author]"	990014423	D 2650										
+"Dibdin, Charles$d1745-1814$0164414"	"None so pretty [London, author]"	990014433	D 2660										
+"Dibdin, Charles$d1745-1814$0164414"	"A Welch love song [London, author]"	990014437	D 2664										
+"Dibdin, Charles$d1745-1814$0164414"	"Wit and beauty [London, author]"	990014438	D 2665										
+"Dibdin, Charles$d1745-1814$0164414"	"The Irish wedding [London, author]"	990014147	D 2369										
+"Dibdin, Charles$d1745-1814$0164414"	"Negro philosophy [London, author]"	990014160	D 2382										
+"Dibdin, Charles$d1745-1814$0164414"	"Pope Joan [London, author]"	990014162	D 2384										
+"Dibdin, Charles$d1745-1814$0164414"	"The rustic Orpheus [London, author]"	990014163	D 2385										
+"Dibdin, Charles$d1745-1814$0164414"	"Ben Backstay [London, author]"	990014281	D 2507										
+"Dibdin, Charles$d1745-1814$0164414"	"The sailor's return [London, author]"	990014389	D 2616										
+"Dibdin, Charles$d1745-1814$0164414"	"The compact of freedom [London, author]"	990014414	D 2641										
+"Dibdin, Charles$d1745-1814$0164414"	"The camp of pleasure [London, author]"	990014536	D 2763										
+"Dibdin, Charles$d1745-1814$0164414"	"Family likeness [London, author]"	990014546	D 2773										
+"Dibdin, Charles$d1745-1814$0164414"	"Happy Jerry [London, author]"	990014547	D 2774										
+"Dibdin, Charles$d1745-1814$0164414"	"Jack in his element [London, author]"	990014551	D 2778										
+"Dibdin, Charles$d1745-1814$0164414"	"The joys of the country [London, author]"	990014553	D 2780										
+"Dibdin, Charles$d1745-1814$0164414"	"Nautical philosophy [London, author]"	990014561	D 2788										
+"Dibdin, Charles$d1745-1814$0164414"	"Sound argument [London, author]"	990014584	D 2811										
+"Dibdin, Charles$d1745-1814$0164414"	"Every inch a sailor ... sung by Mr. Incledon ... at Vauxhall [London, author]"	990014285	D 2511										
+"Dibdin, Charles$d1745-1814$0164414"	"An Irish drinking song [London, author]"	990014301	D 2527										
+"Dibdin, Charles$d1745-1814$0164414"	"Mock Italian song [London, author]"	990014307	D 2533										
+"Dibdin, Charles$d1745-1814$0164414"	"Conjugal comfort [London, author]"	990014365	D 2592										
+"Dibdin, Charles$d1745-1814$0164414"	"Nothing but drunk [London, author]"	990014377	D 2604										
+"Dibdin, Charles$d1745-1814$0164414"	"Moggy [London, author]"	990014428	D 2655										
+"Dibdin, Charles$d1745-1814$0164414"	"Neighbour Sly [London, author]"	990014429	D 2656										
+"Dibdin, Charles$d1745-1814$0164414"	"Ninety-three [London, author]"	990014431	D 2658										
+"Dibdin, Charles$d1745-1814$0164414"	"The patent coffin [London, author]"	990014526	D 2753										
+"Dibdin, Charles$d1745-1814$0164414"	"The shipwrecked tar [London, author]"	990014528	D 2755										
+"Dibdin, Charles$d1745-1814$0164414"	"The taylor's daughter [London, author]"	990014529	D 2756										
+"Dibdin, Charles$d1745-1814$0164414"	"Celia [London, author]"	990014537	D 2764										
+"Dibdin, Charles$d1745-1814$0164414"	"Death or victory [London, author]"	990014543	D 2770										
+"Dibdin, Charles$d1745-1814$0164414"	"The dustman [London, author]"	990014545	D 2772										
+"Dibdin, Charles$d1745-1814$0164414"	"The Indian death song [London, author]"	990014549	D 2776										
+"Dibdin, Charles$d1745-1814$0164414"	"Little Ben [London, author]"	990014554	D 2781										
+"Dibdin, Charles$d1745-1814$0164414"	"The negro and his banjer [London, author]"	990014562	D 2789										
+"Dibdin, Charles$d1745-1814$0164414"	"The Olympian hunt [London, author]"	990014563	D 2790										
+"Dibdin, Charles$d1745-1814$0164414"	"The pleasures of the chase [London, author]"	990014568	D 2795										
+"Dibdin, Charles$d1745-1814$0164414"	"The shipwreck [London, author]"	990014574	D 2801										
+"Dibdin, Charles$d1745-1814$0164414"	"The soldier's adieu [London, author]"	990014578	D 2805										
+"Pleyel, Ignace$d1757-1831$024761"	"Three quartetts dedicated to His Majesty the King of Prussia ... book 3 [London, Preston]"	990050684	P 3260										
+"Pleyel, Ignace$d1757-1831$024761"	"Three quartetts dedicated to His Majesty the King of Prussia ... book 4 [London, Preston]"	990050708	P 3284										
+"Pleyel, Ignace$d1757-1831$024761"	"Six quartetts for two violins, a tenor and violoncello ... op. 1 [London, Preston]"	990050550	P 3125										
+"Pleyel, Ignace$d1757-1831$024761"	"Six quartetts for two violins, tenor and violoncello dedicated to His Royal Highness the Prince of Wales ... ([Kopftitel:] Pleyels 7th sett) [London, Preston]"	990050730	P 3306										
+"Pleyel, Ignace$d1757-1831$024761"	"Three quartetts dedicated to His Majesty the King of Prussia ... book 1 [London, Preston]"	990050635	P 3210										
+"Pleyel, Ignace$d1757-1831$024761"	"Three quartetts dedicated to His Majesty the King of Prussia ... book 2 [London, Preston]"	990050660	P 3236										
+"Philidor, François-André$d1726-1795$030002505"	"The maid of the mill. A comick opera ... for the voice, harpsichord or violin. [London, Robert Bremner]"	990049420	P 1932										
+"Paisiello, Giovanni$d1740-1816$01874"	"Le barbier de Séville. Opéra comique en quatre actes ... remis en français ... et parodié ... par Mr. Framery. [Paris, Le Duc]"	990047826	P 194										
+"Rousseau, Jean-Jacques$d1712-1778$067075"	"Fragmens de Daphnis et Chloé, composés du premier acte, de l'esquisse du prologue et de différens morceaux préparés pour le second acte et le divertissement. [Paris, Esprit (Richomme)]"	990056204	R 2897										
+"Scarlatti, Domenico$d1685-1757$030002849"	"Forty two suits of lessons for the harpsichord. [London, John Johnson]"	990057649	S 1191										
+"Rameau, Jean-Philippe$d1683-1764$0169730"	"[caption title, p. 341:] LIVRE TROISIÈME | QUINQUE."	990053593	R 172										
+"Stanley, John$d1712-1786$030004420"	"Six solo's [a, e, G, h, D, D] for a german flute, violin or harpsicord, opera quarto [!] [London, John Johnson]"	990060996	S 4678										
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 32:] Ermunterung die Schrift zu lesen."	1001072985											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 38:] Die Güte Gottes."	1001072990											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 40:] In Krankheit."	1001072992											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 41:] Vom Tode."	1001072993											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 42:] Lied am Geburtstage."	1001072994											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 43:] Versicherung der Gnade Gottes."	1001072995											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 48:] Am Communionstage."	1001073000											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 51:] Die Liebe der Feinde."	1001073529											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 52:] Demuth."	1001073530											
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto I. [right side:] Der 149. Psalm.	1001077532											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 45:] Allgemeines Gebet."	1001072997											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 47:] Weihnachtslied."	1001072999											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 50:] Bußlied."	1001073002											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 56:] Vertraun auf Gottes Vorsehung."	1001073536											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 60:] Die Wachsamkeit."	1001073546											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 34:] Warnung vor der Wollust."	1001072987											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 33:] Trost der Erlösung."	1001072986											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 36:] Abendlied."	1001072988											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 37:] Das natürliche Verderben des Menschen."	1001072989											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 49:] Am neuen Jahre."	1001073001											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 53:] Wider den Uebermuth."	1001073533											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 54:] Wider den Aufschub der Bekehrung."	1001073535											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 59:] Wider den Geiz."	1001073542											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 57:] Beständige Erinnerung des Todes."	1001073538											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 58:] Der Kampf der Tugend."	1001073541											
+"Cherubini, Luigi$d1760-1842$050253"	"Lodoïska Comédie Héroïque En Trois Actes Par le C-en. Fillette-Loraux Représentée pour la premier fois sur le Théâtre de la Rue Feÿdeau le 18 Juil-te. 1791. Mise En Musique Par Le C-en Cherubini. - Paris, Chez H. Nadermann, Editeur, Facteur de Harpe, et autres Instruments de Musique, Rue d'Argenteuil, Butte St. Roche, à Apollon Et aux Asresses Ordinaires. (Gravée par Huguet Musicuen Pensionnaire de la Comédie Italienne)."	991015930	"CC 2028 I,311"										
+"Cherubini, Luigi$d1760-1842$050253"	"Eliza ou le voyage aux glaciers du Mont St. Bernard. Opera en deux actes. Représenté ... 1794 [Paris, imprimerie du conservatoire (gravé par le Roy)]"	991015820	"CC 2028 I,201"										
+"Cherubini, Luigi$d1760-1842$050253"	"Médée, Opéra En III Actes. Paroles d'Hoffmann Musique de Cherubini Représenté Sur le Théâtre de la Faydeau le 23 Ventose l'An 5. 13. Mars 1797 vieux style. - Paris: chez Jmbault M-d. de Musique, Rue Honoré No. 200. entre la Rue des Poulies et la Maison d'Aligre, (Gravé par Huguet, L. Aubert scrp.)"	991015979	"CC 2028 I,359"										
+"Cherubini, Luigi$d1760-1842$050253"	"Anacréon ou l'amour fugitif, opéra ballet en deux actes [Paris, Méhul Magasin de musique dirigé par MM. Chérubini, Kreutzer, Rode, Isouard et Boieldieu; Lyon, Garnier]"	991015699	"CC 2028 I,79"										
+"Cherubini, Luigi$d1760-1842$050253"	"Démophoon, tragédie lyrique en trois actes. Représentée pour la première fois ... 1788 [Paris, Le Suisse (gravée par Huguet)]"	991015732	"CC 2028 I,112"										
+"Cherubini, Luigi$d1760-1842$050253"	"... [Paris, Guillaume Gaveaux aîné]"	991015744	"CC 2028 I,124"										
+"Gelinek, Josef$d1758-1825$0477310"	"VIII Variations [F] pour le clavecin ou piano-forte sur un air russe ... No. 22 [London, Robert Birchall]"	991018884	GG 985a										
+"Gerstenberg, Johann Daniel$d1758-1841$030003443"	"Pesennik, ili polnoe sobranie starych i novych rossijskich narodnych i protčich pesen dlja forte-piano. (1.-2. Teil) [St. Petersburg, Gerstenberg & Dittmar]"	991019033	GG 1653a										
+"Cherubini, Luigi$d1760-1842$050253"	"Messe à trois voix et choeurs avec accompagnemens [Paris, Magasin de musique]"	991015620	"CC 2028 I,1"										
+"Lusse, Charles de$d1720c-1774p$030006393"	"Recueil de romances historiques, tendres et burlesques, tant anciennes que modernes avec les airs notés par M. D. L. [vol. I, vol. II nicht von Lusse] [s.l., s.n.]"	992006220	L 3093										
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto II.	1001081289											
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto III.	1001081290											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 7:] Prüfung am Abend."	1001072964											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 11:] Der thätige Glaube."	1001072968											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 13:] Um Ergebung in den göttlichen Willen."	1001072970											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 18:] Trost des ewigen Lebens."	1001072974											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 22:] Das Gebet."	1001072978											
+"Aird, James$d1750-1795$030016993"	"Vol. I-V [Glasgow, J. McFadyen]"	991012435	"AA 549 I,3"										
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 24:] Osterlied."	1001072979											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 25:] Passionslied."	1001072980											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 26:] Trost eines schwermüthigen Christen."	1001072981											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 4:] Vom Worte Gottes."	1001072961											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 8:] Danklied."	1001072965											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 14:] Passionslied."	1001072971											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 20:] Die Liebe des Nächsten."	1001072976											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 28:] Betrachtung des Todes."	1001072982											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 29:] Preis des Schöpfers."	1001072983											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 30:] Von der Quelle der guten Werte."	1001072984											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 39:] Der Weg des Frommen."	1001072991											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 44:] Gelassenheit."	1001072996											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 46:] Osterlied."	1001072998											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 5:] Weihnachtslied."	1001072962											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 9:] Bitten."	1001072966											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 16:] Morgengesang."	1001072972											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 6:] Geduld."	1001072963											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 17:] Gottes Macht und Vorsehung."	1001072973											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 19:] Die Ehre Gottes aus der Natur."	1001072975											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 3:] Das Glück eines guten Gewissens."	1001072960											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 10:] Osterlied."	1001072967											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 12:] Der Schutz der Kirche."	1001072969											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 21:] Auf die Himmelfahrt des Erlösers."	1001072977											
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto V.	1001081295											
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto IV.	1001081294											
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto VI.	1001081297											
+"Purcell, Henry$d1659-1695$033668"	"The songs in The Indian queen: as it is now compos'd into an opera. [London, John May; John Hudgbutt (J. Heptinstall)]"	990053145	P 5887										
+"Rousseau, Jean-Jacques$d1712-1778$067075"	"Les consolations des misères de ma vie, ou Recueil d'airs, romances et duos. [Paris, De Roullède; La Chevardière; Esprit (C. Benazech / Richomme)]"	990056239	R 2938										
+"Lully, Jean-Baptiste$d1632-1687$0132446"	"ACHILLE | ET POLIXENE, | TRAGEDIE. | MISE EN MUSIQUE. | Le premier Acte, | Par Feu MONSIEUR DE LULLY, | Le Prologue, & les quatre autres Actes, | Par MONSIEUR COLLASSE, | Maître de la Chapelle du Roi. | Sur la Copie de Paris | A AMSTERDAM, | Chez ANTOINE POINTEL, dans le Kalver-Straat, vis à vis la Chapelle, au Rosier. | Et se trouve, | Chez HENRI DESBORDES, Marchand Libraire, dans le Kalver-Straat. | M.DC.LXXXVIII. [D-Mbs]"	990038564	L 2931										
+"Le Jeune, Claude$d1528p-1600$030006876"	"... mis en musique à quatre parties [Paris, Robert Ballard]"	990037456	L 1687										
+"Méhul, Etienne-Nicolas$d1763-1817$0101056"	"Joseph en Egypte. Opéra en III actes. Comp. par F. Méhul. Arrangé pour le Pianoforte à quatre mains par F. de Boyneburgk [Leipzig, F. Hoffmeister]"	990040627	M 1942										
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 10:] II. | Uber das Evangelium am Andern | Advents Sontage/ | [...] | Dises Lied kan auch gesungen werden auf die Melo= | dei des Kirchengesanges: | Wacht auf Jhr Christen alle/ u.s.w."	1001067412											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 16:] III. | Uber das Evangelium am dritten | Advents Sontage/ | [...] | Dises Lied kan auch gesungen werden auff die Melo= | dei des überal [!] bekanten Gesanges: | Kompt her zu mir/ spricht GOttes Sohn/ [&]c."	1001067418											
+"Woodward, Richard$d1743c-1777$030014117"	"Songs, canons and catches for one, two, three, four, six and eight voices ... opera prima. [London, Peter Welcker; for the author]"	990069266	W 1863										
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 348 (recte 346):] LVII. | Uber das Evangelium am sechs und zwantzig= | sten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan gesungen werden auff die Melodei deß | bekanten Lides: | O Welt Jch muß Dich lassen/ u.s.w."	1001068546											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 302:] L. | Uber das Evangelium am neunzehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan gesungen werden auf die Melodei deß bekanten | Passion=Lides: | O wir arme Sünder/ u.s.w."	1001068534											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 334:] LV. | Uber das Evangelium am vier und zwantzig= | sten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan auch gesungen werden auf die Melodei deß | schönen Gebeht Lides: | Allein zu Dir HErr Jesu Christ/ u.s.w."	1001068542											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 340:] LVI. | Uber das Evangelium am fünf und zwantzig= | sten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan auch gesungen werden auf die Melodei | des bekanten Buhs Lideß: | Erbarm dich mein O HErre Gott/ u.s.w."	1001068543											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 308:] LI. | Uber das Evangelium am zwantzigsten Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei des | geistreichen Lideß: | Wachet auf/ ruffet uns sie Stimme."	1001068536											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 314:] LII. | Uber das Evangelium am ein und zwantzigsten | Sont. nach dem Feste der H. Dreifaltigk. | [...] | Dises kan man singen auff die Melodei des schönen | Kirchengesanges: | Durch Adams Fall ist gantz verderbt/ u.s.w."	1001068537											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 322:] LIII. | Uber das Evangelium am zwei und zwantzig= | sten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan man singen auf die Melodei deß bekandten | Lides: | Komt her zu mir/ spricht Gottes Sohn/ u.s.w."	1001068538											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 328:] LIV. | Uber das Evangelium am drei und zwantzig= | sten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan gesungen werden auff die Melodei deß | schönen Lideß: | Jn Dich hab Jch gehoffet HErr/ u.s.w."	1001068540											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 352:] LVIII. | Uber das Evangelium am sieben und zwan= | zigsten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei deß | Christlichen Abscheid [!] Liedes: | Hertzlich thut mich verlangen nach einem seligen End."	1001068547											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 94:] XVI. | Uber das Evangelium deß Fastnacht Sonta= | ges/ von den Alten Quinquagesima | oder Estomihi genant/ | [...] | Dises kan gesungen werden auf die Melodei deß auß= | führlichen Passion Lideß: | O Mensch bewein dein Sünde groß/ u.s.w."	1001067508											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 1:] Abendlied."	1001070779											
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 2:] Zufriedenheit mit seinem Zustande."	1001070781											
+"Viotti, Giovanni Battista$d1755-1824$0144451"	"A third grand concerto [a], arranged for the piano forte, with or without additional keys, with accompaniments for violin, alto & bass, &c., by Mr. Dussek. [London, Edinburgh, Corri, Dussek & Co.]"	990066853	V 1865										
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 4:] I. | Uber das Evangelium am Ersten | Advents Sontage/ | [...] | Dises Lied kan auch gesungen werden auf die Melo= | dei des sonst bekanten Gesanges: | HErr Christ thu mir verleihen/ u.s.w."	1001066708											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 22:] IV. | Uber das Evangelium am Vierten | Advents Sontage/ | [...] | Dises Lied kan man auch singen auff die Weise deß | schönen Kirchengesanges: | HErr Christ der Einig GOttes Sohn/ [&]c."	1001067419											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 58:] X. | Uber das Evangelium des dritten Sontages | nach dem Feste der H. drei Könige/ | [...] | Dises Lied kan man auch singen auf die Melodei | des schönen Lides: | Von allen Menschen abgewand."	1001067436											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 46:] VIII. | Uber das Evangelium des ersten Sontages | nach dem Fest der Heiligen drei Könige/ | [...] | Dises kan man singen auff die Melodei des | Morgen Lides: | Aus meines Hertzen Grunde. u.s.w."	1001067431											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 52:] IX. | Uber das Evangelium am andern Sontages | nach dem Fest der H. drei Könige/ | [...] | Dises Lied kan man auch singen nach der Weise | deß bekanten Liedes: | Auff meinen lieben GOTT/ [&]c."	1001067435											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 40:] VII. | Uber das Evangelium am Sontage nach dem | Fest der Beschneidung Christi/ oder | H. Neuen Jahrstage/ | [...] | Dises kan man auch singen auf die Melodei des gahr | wolbekanten Liedes: | Warum betrübst du dich mein Hertz."	1001067430											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 34:] VI. | Uber das Evangelium am Sontage | nach dem H. Christage. | [...] | Dises Lied kan auch gesungen werden auf die Melo= | dei des gahr alten schönen Weihenachtgesanges: | Ein Kindelein so Löbelich. u.s.w."	1001067423											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 28:] V. | Uber das Evangelium am heiligen | Christtage/ | [...] | Dises Lied kan man auch singen auf die ge= | bräuchliche Weise deß schönen Weihnachtliedes: | Gelobet seystu Jesu Christ:"	1001067421											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 64:] XI. | Uber das Evangelium des vierdten Sontages | nach dem Feste der H. drei Könige/ | [...] | Dises kan man singen auf die Melodei des geist= | reichen Kirchen Liedes: | Jch ruff zu Dir HErr JEsu CHrist."	1001067439											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 70:] XII. | Uber das Evangelium des fünften Sontages | nach dem Feste der H. drei Könige/ | [...] | Dises kan man auch singen nach der Weise | des schönen Lideß: | Es wolt uns GOTT genädig sein. u.s.w."	1001067446											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 82:] XIV. | Uber das Evangelium des Sontages/ von den | Alten Septuagesima genant/ | [...] | Dises kan auch gesungen werden auff die Melodei | deß gahr schönen Kirchengesanges: | An Wasserflüssen Babilon/ u.s.w."	1001067455											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 76:] XIII. | Uber das Evangelium des sechsten Sontags | nach dem Feste der Heil. drei Könige/ | [...] | Dises Lied kan man auch singen auf die Melodei des | gahr herlichen und schönen Kirchen gesanges: | Nun freuet Euch liben Christen gemein/ [&]c."	1001067451											
+"Schobert, Johann$d1735c-1767$030002916"	"A complete collection of the works of Mons|r Schobert, for the harpsichord or piano forte [42 Sonaten, 293p., zum Teil mit eigenem Titelblatt] [London, J. Bland]"	990058461	S 2029										
+"Sacchini, Antonio$d1730-1786$030002777"	"[Paris, Le Duc (écrit par Ribière, imprimé par Basset)]"	990056683	S 133										
+"Sacchini, Antonio$d1730-1786$jAscertained$030002777"	Evelina. Opéra en trois actes ... représenté pour la première fois ... le mardi 29 avril 1788.	990056638	S 87										
+"Sacchini, Antonio$d1730-1786$030002777"	"Chimène, ou Le Cid ... réduite pour piano et chant par Eugène Gigout. [Paris, T. Michaelis]"	990056688	S 138										
+"Marcello, Benedetto$d1686-1739$030002070"	"[vol. 1, f. 3r, title page:] ESTRO | Poetico-Armonico. | PARAFRASI | Sopra li primi | VENTICINQUE SALMI. | POESIA | di | GIROLAMO ASCANIO GIUSTINIANI, | MUSICA | di | BENEDETTO MARCELLO | PATRIZI VENETI. | TOMO PRIMO. [engraving] | VENEZIA MDCCXXIV. [London, Welcker]"	990039175	M 428										
+"Méhul, Etienne-Nicolas$d1763-1817$0101056"	"Stratonice. Comédie héroïque en un acte et en vers, par Hoffman. Représentée ... le jeudi, 3 mai 1792 [Paris, Cousineau père et fils (Huguet)]"	990040716	M 2033										
+"Lemaire, Louis$d1694c-1750c$030001921"	"... (8|e) cantatille nouvelle ... [Paris, auteur; Boivin; Le Clerc (gravé par Dumont)]"	990037524	L 1755										
+"Martini, Johann Paul Aegidius$d1741-1816$0477616"	"École d'orgue, divisée en trois parties [Paris, Imbault]"	990039870	M 1164	"I, 1616 16"									
+"Pleyel, Ignace$d1757-1831$024761"	"Six sonatas for the piano forte or harpsichord with an accompaniment for a flute or violin ... dedicated (by permission) to Her Majesty The Queen of Great Britain [[London], G. Walker]"	990052064	P 4651										
+"Pepusch, Johann Christoph$d1667-1752$030002471"	"The beggar's opera. As it is acted at the Theatre-Royal in Lincolns-Inn-Fields, written by Mr. Gay, 2. edition: to which is added the ouverture in score; and the musick prefix'd to each song. [London, John Watts]"	990048774	P 1194										
+"Paixaõ Ribeiro, Manuel da$d18.sc$030013306"	"Nova arte de viola ... divida em duas partes ... com estampas das posturas ... e com alguns minuettes, e modinhas por musica, e por cifra. [Coimbra, ""na Real Officina da Universidade""]"	990048245	P 647										
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 188:] XXXI. | Uber daß Evangelium am Festtage der Heili= | gen Dreifaltigkeit/ | [...] | Dises kan auch gesungen werden auf die Weise Un= | sers wolbekanten Kirchengesanges vom Glauben: | Wir gläuben all an Einen Gott/ u.s.w."	1001068401											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 212:] XXXV. | Uber das Evangelium am Vierten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Melodei deß | schönen Lides: | Auff dich hab ich gehoffet HERR/ u.s.w."	1001068423											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 260:] XLIII. | Uber das Evangelium am zwölfften Sonta= | ge nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei deß | Lides: | Ach Gott thu dich erbarmen/ u.s.w."	1001068456											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 272:] XLV. | Uber das Evangelium am vierzehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan gesungen werden auf die Melodei deß wol= | bekanten Gebeht Lides: | Jch ruff zu dir HErr Jesu Christ."	1001068465											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 296:] XLIX. | Uber das Evangelium am achtzehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei deß | schönen Tauff Lides: | Christ unser HErr zum Jordan kahm."	1001068485											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 194:] XXXII. | Uber das Evangelium am ersten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan gesungen werden auf die Melodei deß | bekanten Lides: | O Wir arme Sünder/ Unser Missethat/ u.s.w."	1001068408											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 254:] XLII. | Uber das Evangelium am Elfften Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan auch gesungen werden auff die Weise des | bekanten BuhßLides: | Aus tieffer Noht schrei Jch zu dir/ u.s.w."	1001068452											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 266:] XLIV. | Uber das Evangelium am dreizehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei deß | bekanten Morgengesanges: | Aus meines Hertzen Grunde/ u.s.w."	1001068459											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 108:] XVIII. | Uber das Evangelium am andern Sontage | in der Fasten/ Reminiscere genant/ | [...] | Dises kan man auch singen auf die Weise des Gesanges. | Hilf Gott/ daß Mir gelinge/ u.s.w."	1001067510											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 150:] XXV. | Uber das Evangelium am andern Sontage | nach Ostern/ Misericordias Domini | genant/ | [...] | Dises kan man auch singen auf die Melodei deß | 23. Psalms: | Waß kan unß kommen an für Noht/ u.s.w."	1001067527											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 156:] XXVI. | Uber das Evangelium am dritten Sontage | nach Ostern/ Jubilate genant: | [...] | Dises kan man auch singen auf die Melodei des herli= | chen Lob Psalmes: | Nun lob meine Seele den HErren/ u.s.w."	1001067529											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 138:] XXIII. | Uber das Evangelium am Hochheiligen | Ostertage. | [...] | Dises Festlied kan gesungen werden auff die Weise | deß schönen Ostergesanges: | Christ lag in Todes Banden/ u.s.w."	1001067524											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 144:] XXIV. | Uber das Evangelium am ersten Sontage | nach Ostern/ Quasimodogeniti | geheissen/ | [...] | Dises kan man auch singen auf die Melodei des schö= | nen Oster Lideß: | Jesus Christus wahr Gottes Sohn/ u.s.w."	1001067526											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 126:] XXI. | Uberdas Evangelium am Fünften Sontage | in der Fasten/ Judica genant/ | [...] | Dises kan man auch singen auf die Weise deß feinen | Lideß: | HErr Christ thu Mir verleihen. u.s.w."	1001067518											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 88:] XV. | Uber das Evangelium des Sontages/ von | den Alten Sexagesima genant/ | [...] | Dises kan auch gesungen werden auf die Weise un= | sers bekanten Gebeth Liedeß: | Vater unser im Himmelreich/ [&]c.u.s.w."	1001067463											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 100:] XVII. | Uber das Evangelium am ersten Sontage in | der Fasten/ sonst Jnvocavit genant/ | [...] | Dises kan man auch singen auff die Melodei des an= | dächtigen Lideß: | Da Jesus an dem Kreutze stund/ u.s.w."	1001067509											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 120:] XX. | Uber das Evangelium am vierten Sontage | in der Fasten/ Lætare genant/ | [...] | Dises kan man singen auf die Melodei deß wolbe= | bekanten Hauß= und KirchenGesanges: | Singen wir auß Hertzen grund/ u.s.w."	1001067514											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 170:] XXVIII. | Uber das Evangelium am Fünften Sontage | nach Ostern/ Vocem Jukunditatis genant/ | [...] | Dises kan man singen auf die Melodei des Tauff= | Liedes: | Christ unser HErr zum Jordan kahm:"	1001067534											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 114:] XIX. | Uber das Evangelium am dritten Sontage | in der Fasten/ Okuli genant/ | [...] | Dises kan gesungen werden auf die Melodei des | bekanten Kirchen Lideß: | Gott der Vatter wohn unß bey/ u.s.w."	1001067512											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 132:] XXII. | Uber das Evangelium am Palmsontage/ | [...] | Dises kan man singen auf die Weise des Lideß: | O Welt/ Jch muß dich lassen/ u.s.w."	1001067523											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 162:] XXVII. | Uber das Evangelium am vierten Sontage | nach Ostern/ Kantate genant. | [...] | Dises kan man auch singen auf die Melodei des be= | kanten Lideß. | Wie Eß Gott gefält/ so gefält mirß auch/ u.s.w."	1001067532											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 176:] XXIX. | Uber das Evangelium am Sechsten Sontage | nach Ostern/ Exaudi genant/ | [...] | Dises kan man auch singen auff die Melodie des | schönen Pfingst Lideß: | Komm Heiliger Geist/ HERRE Gott/ u.s.w."	1001067537											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 200:] XXXIII. | Uber das Evangelium am andern Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan gesungen werden auf die Melodei deß | schönen Kirchen Liedeß: | Durch Adamß Fall ist gantz verderbt/ u.s.w."	1001068413											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 218:] XXXVI. | Uber das Evangelium am fünften Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Melodei deß | bekanten Kirchen Gesanges: | Allein zu dir HERR JEsu Christ/ u.s.w."	1001068424											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 224:] XXXVII. | Uber daß Evangelium am sechsten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Weise deß gahr | schönen KirchenGesanges: | Eß ist daß Heil Unß kommen her/ u.s.w."	1001068427											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 230:] XXXVIII. | Uber das Evangelium am siebenden Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Weise des überall | bekanten Morgenliedes: | Jch danke dir liber HERRE/ u.s.w."	1001068431											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 242:] XL. | Uber das Evangelium am neunten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Weise des sehr | schönen Buhs Lideß: | O HERRE GOtt begnade mich/ u.s.w."	1001068444											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 278:] XLVI. | Uber das Evangelium am funfzehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan auch gesungen werden auf die Melodei des | bekanten Tischgesanges: | Singen wir aus Hertzen Grund."	1001068468											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 206:] XXXIV. | Uber das Evangelium am dritten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Melodei deß wol= | bekanten Lideß: | Komt her zu Mir/ spricht Gottes Sohn/ u.s.w."	1001068421											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 290:] XLVIII. | Uber das Evangelium am siebenzehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Weise deß be= | kanten Kirchen Lides: | Diß sind die heiligen zehn Gebot."	1001068479											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 248:] XLI. | Uber das Evangelium am zehenden Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Melodei des | schönen Lides: | An Waserflüssen Babilon/ u.s.w."	1001068450											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 284:] XLVII. | Uber das Evangelium am sechszehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei des | bekanten Lideß: | HErr Christ thu mir verleihen."	1001068470											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 182:] XXX. | Uber das Evangelium am Heiligen Pfingst= | Tage/ | [...] | Dises kan auch gesungen werden auf die Melodei deß | schönen Gesangeß: | Es woll Unß Gott genädig sein/ u.s.w."	1001068394											
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 236:] XXXIX. | Uber das Evangelium am achten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Melodei deß be= | weglichen BuhßLides: | Erbarm dich Mein/ O HErre Gott/ u.s.w."	1001068437											
+"Storace, Stephen$d1762-1796$jAscertained$030003060"	"The favorite overture ... arranged as a duett, for two performers on the piano forte, by T. Haigh. [London, Lewis Lavenu]"	990063012	S 6728										
+"Mozart, Leopold$d1719-1787$0115317"	"[title page:] Leopold Mozarts | Hochfürstl. Salzburgischen Vice-Capellmeisters | gründliche Violinschule, | mit vier Kupfertafeln | und | einer Tabelle. | Zweyte vermehrte Auflage | Auf Kosten des Verfassers. | Augsburg, | gedruckt bey Johann Jacob Lotter. 1770"	990042613	M 4037										
+"Just, Johann August$d1750c-1791$030001643"	"The second divertimento [B] for the harpsichord or piano forte, with a flute accompanyment ... op.: I|s|t. [[London], J. Bland]"	990032794	J 746										
+"Just, Johann August$d1750c-1791$030001643"	"The fifth divertimento [C] for harpsichord or piano forte, with a flute accompanyment ... op: I|s|t. [[London], J. Bland]"	990032795	J 747										
+"Kuhnau, Johann$d1660-1722$0477141"	[title:] Musicalische Vorstellung | Einiger | Biblischer Historien/ | In 6. Sonaten/ | Auff dem Claviere zu spielen/ | Allen Liebhabern zum Vergnügen | versuchet | von | Johann Kuhnauen. | Leipzig/ | Gedruckt bey Immanuel Tietzen/ | Anno MDCC.	990035758	K 2997										
+"Kreutzer, Rodolphe$d1766-1831$053845"	"... par les Comédiens Italiens, mise en musique par M. Kreutzer [Paris, Rodolphe Kreutzer; Sieber (Nicolas-Antoine Huguet)]"	990034860	K 2074										
+"Keller, Gottfried$d1704+$030011387"	"A compleat method for attaining to play a thorough bass upon either organ, harpsicord, or theorbo-lute ... with variety of proper lessons and fuges, explaining the several rules throughout the whole work [London, J. Cullen; J. Young]"	990033095	K 258										
+"Boyce, William$d1711-1779$030004115"	"Solomon. A serenata, taken from the Canticles [London, John Walsh; for the author]"	990006740	B 4074										
+"Brown, John$d1715-1766$jConjectural$030012060"	"A Dissertation on the Rise, Union, and Power, The Progressions, Separations, and Corruptions, of Poetry and Music. To which is prefixed. The cure of Saul. A sacred ode [London, L. Davis & C. Reymers; London, L. Davis & C. Reymers; London, L. Davis & C. Reymers]"	990007224	B 4614										
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO I	1001094038											
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO III	1001097031											
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO IV	1001097032											
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO V	1001097033											
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO VI	1001097034											
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO II	1001097030											
+"Bach, Johann Sebastian$d1685-1750$02539"	"[caption title:] Motetto I. | Der 149. Psalm.$c[Bach, Johann Sebastian] | 1685-1750"	403008806											
+"Bach, Johann Sebastian$d1685-1750$02539"	"[caption title:] Motetto II.$c[Bach, Johann Sebastian] | 1685-1750"	403008807											
+"Bach, Johann Christoph$d1642-1703$jDoubtful$020000414"	"[caption title:] Motetto III.$c?Bach, Johann Christoph? | 1642-1703"	403008808											
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Largo con Sordini | Sonata. VII."	406002248											
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Il Terremoto | Presto e con tutta | la forza."	406002249											
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] L'Introduzione | Maestoso | ed Adagio"	406002241											
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Grave e Cantabile | Sonata. II."	406002243											
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Grave | Sonata. III."	406002244											
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Largo. | Sonata. IV."	406002245											
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Adagio | Sonata V."	406002246											
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Lento | Sonata. VI."	406002247											
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Largo | Sonata. I."	406002242											
+"Pleyel, Ignace$d1757-1831$024761"	"A favorite sonata for the harpsichord or piano forte with an accompaniment for a violin [London, Preston & son]"	990051832	P 4420										
+"Courteville, Raphael$d1735c+$030014039"	"Sonatas [F, c, a, G, g, F] of two parts, compos'd and purposly [!] contrived for two flutes [London, s.n.]"	990011698	C 4345										

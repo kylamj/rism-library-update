@@ -1,0 +1,864 @@
+Composer	Title	RISM ID	A number	B number
+"Tenducci, Giusto Ferdinando$d1736c-1790$jAscertained$030003615"	Ricordati mio bene | M.|r Tenducci's rondo.	820000001		
+"Bertoni, Ferdinando$d1725-1813$jAscertained$030000328"	La partenza | cantata à voce sola di contr'alto.	820000002		
+"Palmerini, Luigi$d1768-1842$jVerified$030006416"	"Litanie a 3. voci con clarinetti, corni, e fagotto, e violone | di Luigi Palmieri"	820000229		
+"Mozart, Wolfgang Amadeus$d1756-1791$jAscertained$0115324"	Ascanio in Alba	820000228		
+"Duni, Egidio Romualdo$d1708-1775$030000905"	"Les sabots. Pièce en un acte ... représentée pour la 1|r|e fois sur le Théâtre des comédiens ital. ord. du Roi [Paris, auteur; aux adresses ordinaires; Lyon, Castaud (gravée par Dezauche); Castaud (imprimée par Monthulay)]"	990015522	D 3795; DD 3795	
+"Dussek, Jan Ladislav$d1760-1812$025967"	"Concerto [Es] pour le piano forte avec accompagnement de grand orchestre ... œuvre 15 [London, Longman & Broderip]"	990015724	D 4014	
+"Dussek, Jan Ladislav$d1760-1812$025967"	"Trois sonates [C, F, G] pour le piano forte ou le clavecin avec accompagnement d'un violon non obligé ... op. XVI [London, Longman & Broderip]"	990015901	D 4195; DD 4195	
+"Fesch, Willem de$d1687-1761$030001054"	"Twelve sonatas for two german flutes, or two violins; with a bass for the violoncello or harpsichord ... opera XII [London, John Walsh]"	990017874	F 638; FF 638	
+"Gluck, Christoph Willibald$d1714-1787$067338"	"ORPHÉE | ET | EURIDICE | TRAGÉDIE | Opera en trois Actes. | Dédiée | A LA REINE. | Par Monsieur le Chevalier | GLUCK. | Representé pour la première fois par l'Academie | Royale de Musique, le Mardi, 2. Aoust, 1774. | Les Parolles [!] sont de M.|R MOLINE. | Gravée par Madame Lobry. | Prix 24|t|t | A PARIS | Chez M.|r Lemarchand, Editeur, de tous les Ouvrages de cet | Autheur. M.|d de Musique, rue Fromanteau, Maison du Sellier. | A.P.D.R. | Ecrit par Ribiere"	990021969	G 2852; GG 2852	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"[title page:] ŒUVRE II.|E | LUCILE | COMEDIE EN UN ACTE | Et en Vers | DÉDIÉE | A son Excellence, Monseigneur, | LE COMTE D'OULTREMONT | Frere et Premier Ministre de son Altesse Monseigneur | le Prince-Ev^que de Liege | Mise en Musique | PAR | ANDRE GRETRY | De L'accadémie des Philarmoniques de Boulonge. | Représentée pour la première fois, par les Comédiens Ital. ordin|e|s du Roi le 5 janvier 1769 | Gravée par Dézauche | Prix 15.|f|f | A PARIS | Aux Adresses ordinaires.  A LION M. Castaud vis à vis la Comédie. | avec privilege du Roi. De l'Imprimerie de Montulay."	990023151	G 4225; GG 4225	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"L'épreuve villageoise. Opéra bouffon en deux actes en vers, par M. Desforges, représenté ... le jeudi 24 juin 1784 ... œuvre XXIII [Paris, Houbaut (Huguet, Basset); Lyon, Castaud]"	990023067	G 4114; GG 4114	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"Guillaume Tell. Drame en trois actes, en prose et en vers, par le citoyen Sedaine, représenté ... au mois de mars 1791 ... œuvre XXXI [Paris, auteur (Huguet)]"	990023114	G 4179; GG 4179	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"Songs, duets, trios & chorusses ... adapted to the English words by M. Linley [London, S., A. & P. Thompson]"	990023250	G 4346; GG 4346	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"Les mariages samnites. Drame lyrique en trois actes et en prose, représenté ... le 12 juin 1776 [Paris, Houbaut; Lyon, Castaud (Dezauche, Basset)]"	990023174	G 4259; GG 4259	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"Richard Cœur-de-Lion. Comédie en trois actes en prose et en vers par M. Sedaine, représentée ... le 2 octobre 1784 ... œuvre XXIV [Paris, Houbaut (Huguet)]"	990023229	G 4325; GG 4325	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"Le tableau parlant. Comédie parade en un acte et en vers, représentée ... le 20 septembre 1769 [Paris, aux adresses ordinaires; Lyon, Castaud (Dezauche, Montulay)]"	990023344	G 4466; GG 4466	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"[title page:] ŒUVRE VII.|E | ZEMIRE ET AZOR | COMÉDIE-BALLET | En Vers et en Quatre Actes | Représentée devant sa Majesté à fontainebleau le 9 novemb. | 1771 et à la Comédie Italienne le lundi 16 Décembre 1771. | Dédiée à Madame La Comtesse | DU BARRY | PAR | M. GRETRY | Pensionnaire du Roi | Et de l'Académie des Philarmoniques de Boulongne. | Prix 24|f|f | Gravée par J. Dezauche. | A PARIS Chés Houbaut rue Mauconseil prés la Cmedie Italienne, et | chés qui l'on trouvera les Parties gravées separement. | Imprimée par Mentulay"	990023365	G 4497; GG 4497	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"... [Paris, J. Frey]"	990023100	G 4157; GG 4157	
+"Jackson, William$d1730-1803$030004143"	"Twelve songs (1 V, Streicher und bc; No. 10 mit cor) ... opera quarta. [London, at the music shops; for the author (William Clark)]"	990032181	J 96; JJ 96	
+"Jackson, William$d1730-1803$030004143"	"The lord of the manor. A comic opera ... opera XII. [London, John Preston]"	990032222	J 141; JJ 141	
+"Jackson, William$d1730-1803$030004143"	"... [ohne Opuszahl] [London, Harrison & Co.]"	990032207	J 124	
+"Haydn, Joseph$d1732-1809$055803"	"The celebrated overture ... performed at Messrs. Bach & Abel's concerts adapted for the piano forte or harpsichord [London, Longman & Broderip]"	990028410	H 4260	
+"Haydn, Joseph$d1732-1809$055803"	"Grande sonate pour le forte-piano ... œuvre 92 [Paris, B. Viguerie (écrit par Ribière)]"	990028117	H 3964	
+"Haydn, Joseph$d1732-1809$055803"	"... opera 36 [London, Longman & Broderip]"	990028431	H 4282; HH 4282	
+"Haydn, Joseph$d1732-1809$055803"	"A new grand sonata, for the piano forte ... op. 78 [London, Longman, Clementi & Co.]"	990028116	H 3963; HH 3963	
+"Haydn, Joseph$d1732-1809$055803"	"Twelve elegant & familiar canzonetts ... accommodated to English words (chiefly written on purpose) and adapted for the piano forte or harpsichord, with accompaniments ad libitum [London, S., A. & P. Thompson]"	990028201	H 4050; HH 4050	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Alexander's feast, or The power of musick. An ode wrote in honour of St. Cecilia by M|r Dryden, set to musick by M|r Handel, with the recitativo's, songs, symphonys and chorus's for voices & instruments, together with the cantata, duet, and songs, as perform'd at the Theatre Royal, in Covent Garden, publish'd by the author [enthält auch die italienische Kantate: Cecilia volgi un sguardo, sowie An additional song sung by Sigr. Hannibali: Sei del ciel dono perfetto] [London, W. Randall]"	990025278	H 995; HH 995	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Dryden's ode on S|t Cecilia's Day. Composed by M|r Handel [Nr. 10-11 der Sammlung: The New Musical Magazine, veröffentlicht zusammen mit: Acis and Galatea, 1784] [[London], [Harrison & Co.]]"	990025320	H 1040; HH 1040	
+"Händel, Georg Friedrich$d1685-1759$036552"	"A new edition of six concertos for the harpsicord or organ [London, W. Randall]"	990025459	H 1213; HH 1213	
+"Händel, Georg Friedrich$d1685-1759$036552"	"New edition, Messiah, an oratorio [London, Bland & Weller; London, Bland & Weller]"	990025019	H 721; HH 721	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Acis and Galatea. A masque. Composed by M|r Handel, for the voice, harpsichord, and violin [London, Harrison & Co.]"	990024713	H 385; HH 385	
+"Händel, Georg Friedrich$d1685-1759$036552"	"The grand Dettingen Te Deum; composed by M|r Handel, for the voice, harpsichord, and violin, with the chorusses in score [London, Harrison & Co.]"	990025440	H 1194; HH 1194	
+"Hüllmandel, Nicolas-Joseph$d1756-1823$030001580"	"... op. XI [London, Longman & Broderip]"	990031740	H 7799	
+"Humphries, John$d1707c-1733$030012422"	"XII Sonatas [G, e, c, f, D, a, e, Es, E, c, g, F] for two violins; with a through bass for the harpsichord ... opera prima [London, David Rutherford]"	990031863	H 7926	
+"Hook, James$d1746-1827$098817"	"Ma chère amie. A favorite song, sung by Mr. Incledon at Vauxhall [London, Longman & Broderip]"	990031033	H 7004; HH 7004	
+"Howard, Samuel$d1710-1782$030004494"	"Songs and cantatas ... for the germanflute [London, Harrison & Co.]"	990031482	H 7486; HH 7486	
+"Hook, James$d1746-1827$098817"	"The double disguise. A comic opera ... opera 32 [London, John Preston]"	990030513	H 6467; HH 6467	
+"Gagliano, Marco da$d1582-1643$030003811"	"Il quinto libro de madrigali, a cinque voci [Venezia, Angelo Gardano & fratelli]"	990019379	G 114; GG 114	
+"Galliard, John Ernest$d1680c-1749$030004454"	"The morning hymn, taken from the fifth book of Milton's Paradise lost ..., the overture, accompanyments & chorusses added by Benjamin Cooke. [London, Welcker]"	990019462	G 231	
+"Gallo, Alberto$d18.sc$030003943"	"Twelve sinfonie or sonatas in 4 parts, for two violins, a tenor, with a bass for the violoncello & harpsicord, compos'd in an easy and pleasing stile ... opera 2|d|a [London, John Walsh]"	990019483	G 260	
+"Galuppi, Baldassare$d1706-1785$041444"	"IL | MONDO ALLA ROVERSA, | O SIA | LE DONNE CHE COMANDANO; | DRAMMA GIOCOSO PER MUSICA | DAL | Sgr. BALDASSERO GALUPPI | DETTO IL BURANELLO. | ACCOMODATO PER IL CLAVICEMBALO | DAL ORIGINALE VENETIANO. | [printer's mark] |  IN LIPSIA | Presso GIO. GOTTL. IMAN. BREITKOPF. | 1758."	990019502	G 279; GG 279	
+"Galuppi, Baldassare$d1706-1785$041444"	"Sonate [C, d, a, D, F, As] per cembalo ... [op. 1] [London, John Walsh]"	990019519	G 298; GG 298	
+"Frescobaldi, Girolamo$d1583-1643$077850"	"[5. Auflage mit neuen Kompositionen, in:] Toccate d'intavolatura di cimbalo et organo, partite di diverse arie e corrente, balletti, ciaccone, passachagli... libro 1|o [Roma, Nicolò Borboni]"	990019013	F 1859; FF 1859	
+"Geminiani, Francesco$d1687-1762$0487103"	"Celebrated six concertos, as perform'd by Mr. Cramer ... adapted for the harpsichord, organ, or pianoforte ([handschriftlich:] op. 2) [London, G. Goulding]"	990020661	G 1464	
+"Geminiani, Francesco$d1687-1762$0487103"	"[Op. 1, Nr. 7-12:] Sonatas of three parts for two violins, a violoncello and thorough bass made out of Geminianis solos ... by Francesco Barsanti. [London, John Walsh]"	990020695	G 1499	
+"Geminiani, Francesco$d1687-1762$0487103"	"Concerti grossi [D, B, C, F, g, A] con due violini, viola e violoncello di concertino obligati, e due altri violini, e basso di concerto grosso ... composti delli sei soli della prima parte dell'opera quinta d'Arcangelo Corelli [London, John Walsh]"	990020718	G 1525; GG 1525	
+"Geminiani, Francesco$d1687-1762$0487103"	"Sonatas ... for two violins with a thorough bass for the harpsichord or violoncello, made from the solos of Francesco Geminiani. [London, John Walsh]"	990020696	G 1500	
+"Edelmann, Jean-Frédéric$d1749-1794$035814"	"A favourite overture for the harpsichord or pianoforte, with accompaniments for two violins, two french horns, and violoncello ad libitum ... opera 4|t|h [London, John Welcker]"	990016769	E 386; EE 386	
+"Edelmann, Jean-Frédéric$d1749-1794$035814"	"Edelman's celebrated overture for the harpsichord or piano forte, with an accompaniment for a violin [London, J. Cooper]"	990016774	E 392	
+"Edelmann, Jean-Frédéric$d1749-1794$035814"	"Six grand lessons for the forte piano or harpsichord [London, Welcker]"	990016749	E 366	
+"Eberl, Anton$d1765-1807$jAscertained$030000926"	"Air with variations ... [London, Monzani & Cimador]"	990016580	E 151	
+"Egli, Johann Heinrich$d1742-1810$030000942"	"Lieder der Weisheit und Tugend zur Bildung des Gesangs und des Herzens. In Musik gesetzt [für 1-4 Singstimmen mit bc] [Zürich, David Bürckli]"	990016862	E 480; EE 480	
+"Eberl, Anton$d1765-1807$030000926"	"The last composition of the celebrated Mozart: a sonata in C minor, the accompaniments of which were left unfinished, and which were accomplished by Mr. Pleyel [London, Edinburgh, Corri, Dussek & Co.]"	990016575	E 146	
+"Eckard, Johann Gottfried$d1735-1809$030000935"	"Minuet d'Exaudet, commonly called Marshal Saxe's minuet, with variations for the harpsichord, or piano forte [London, Robert Bremner]"	990016735	E 352	
+"Dalayrac, Nicolas-Marie$d1753-1809$027764"	"Philippe et Georgette. Comédie en un acte en prose par le citoyen Monvel ... œuvre XVI [Paris, Nicolas-Marie Dalayrac (Nicolas-Antoine Huguet)]"	990012419	D 492; DD 492	
+"Destouches, André Cardinal$d1672-1749$jAscertained$08699"	"AMADIS | DE GRECE, | TRAGEDIE | EN MUSIQUE, | Représenté pour la premiere fois, par l'Academie Royale de Musique, | le vingt.sixiéme Mars 1699. | Troisiéme Edition revuë, corrigée, & augmentée, de tous les Changements | & Additions; conformément à la Remise du trois Novembre 1711. | A PARIS, | Chez CHRISTOPHE BALLARD, seil Imprimeur du Roy pour la Musique, ruë S. JEAN de Beauvais, au Mont-Parnasse. | M. DCCXII. | Avec Privilege de Sa Majesté."	990013649	D 1818; DD 1818	
+"Dibdin, Charles$d1745-1814$0164414"	"Cheap experience [London, author]"	990014144	D 2366; DD 2366	
+"Dibdin, Charles$d1745-1814$0164414"	"The tye wig volunteers [London, author]"	990014165	D 2387; DD 2387	
+"Dibdin, Charles$d1745-1814$0164414"	"The flowing can [London, author]"	990014287	D 2513; DD 2513	
+"Dibdin, Charles$d1745-1814$0164414"	"All the birds in the air [London, author]"	990014360	D 2587; DD 2587	
+"Dibdin, Charles$d1745-1814$0164414"	"Leap year [London, author]"	990014370	D 2597; DD 2597	
+"Dibdin, Charles$d1745-1814$0164414"	"The lucky escape [London, author]"	990014372	D 2599; DD 2599	
+"Dibdin, Charles$d1745-1814$0164414"	"The rara avis [London, author]"	990014381	D 2608; DD 2608	
+"Dibdin, Charles$d1745-1814$0164414"	"The reward of fidelity [London, author]"	990014382	D 2609; DD 2609	
+"Dibdin, Charles$d1745-1814$0164414"	"The royal nuptials [London, author]"	990014384	D 2611; DD 2611	
+"Dibdin, Charles$d1745-1814$0164414"	"The sailor's consolation [London, author]"	990014385	D 2612; DD 2612	
+"Dibdin, Charles$d1745-1814$0164414"	"The soldier's last retreat [London, author]"	990014392	D 2619; DD 2619	
+"Dibdin, Charles$d1745-1814$0164414"	"Tack and tack [London, author]"	990014393	D 2620; DD 2620	
+"Dibdin, Charles$d1745-1814$0164414"	"Tantivy [London, author]"	990014394	D 2621; DD 2621	
+"Dibdin, Charles$d1745-1814$0164414"	"Virtue [London, author]"	990014396	D 2623; DD 2623	
+"Dibdin, Charles$d1745-1814$0164414"	"The bowmen of Kent [London, author]"	990014413	D 2640; DD 2640	
+"Dibdin, Charles$d1745-1814$0164414"	"The etymology of quiz [London, author]"	990014415	D 2642; DD 2642	
+"Dibdin, Charles$d1745-1814$0164414"	"The fair [London, author]"	990014416	D 2643; DD 2643	
+"Dibdin, Charles$d1745-1814$0164414"	"The Grecian history [London, author]"	990014418	D 2645; DD 2645	
+"Dibdin, Charles$d1745-1814$0164414"	"A hint to the ladies [London, author]"	990014419	D 2646; DD 2646	
+"Dibdin, Charles$d1745-1814$0164414"	"Honesty in tatters [London, author]"	990014420	D 2647; DD 2647	
+"Dibdin, Charles$d1745-1814$0164414"	"The miseries of war [London, author]"	990014427	D 2654; DD 2654	
+"Dibdin, Charles$d1745-1814$0164414"	"A dose for the dons [London, author]"	990014523	D 2750; DD 2750	
+"Dibdin, Charles$d1745-1814$0164414"	"The constant sailor [London, author]"	990014538	D 2765; DD 2765	
+"Dibdin, Charles$d1745-1814$0164414"	"A drop of the creature [London, author]"	990014544	D 2771; DD 2771	
+"Dibdin, Charles$d1745-1814$0164414"	"Patrick O' Row [London, author]"	990014564	D 2791; DD 2791	
+"Dibdin, Charles$d1745-1814$0164414"	"Love's lesson [London, author]"	990014149	D 2371; DD 2371	
+"Dibdin, Charles$d1745-1814$0164414"	"The mad lover [London, author]"	990014150	D 2372; DD 2372	
+"Dibdin, Charles$d1745-1814$0164414"	"Mounseer Mong Tong Paw [London, author]"	990014153	D 2375; DD 2375	
+"Dibdin, Charles$d1745-1814$0164414"	"On gratitude [London, author]"	990014308	D 2534; DD 2534	
+"Dibdin, Charles$d1745-1814$0164414"	"Bill Bobstay [London, author]"	990014362	D 2589; DD 2589	
+"Dibdin, Charles$d1745-1814$0164414"	"The waggoner [London, author]"	990014397	D 2624; DD 2624	
+"Dibdin, Charles$d1745-1814$0164414"	"Humanity's cot [London, author]"	990014421	D 2648; DD 2648	
+"Dibdin, Charles$d1745-1814$0164414"	"The quietus [London, author]"	990014434	D 2661; DD 2661	
+"Dibdin, Charles$d1745-1814$0164414"	"The recompence of constancy [London, author]"	990014435	D 2662; DD 2662	
+"Dibdin, Charles$d1745-1814$0164414"	"Valentine's train [London, author]"	990014531	D 2758; DD 2758	
+"Dibdin, Charles$d1745-1814$0164414"	"Bonny Kate [London, author]"	990014533	D 2760; DD 2760	
+"Dibdin, Charles$d1745-1814$0164414"	"Irish Italian song [London, author]"	990014550	D 2777; DD 2777	
+"Dibdin, Charles$d1745-1814$0164414"	"Soldier Dick [London, author]"	990014577	D 2804; DD 2804	
+"Dibdin, Charles$d1745-1814$0164414"	"Nancy dear [London, author]"	990014159	D 2381; DD 2381	
+"Dibdin, Charles$d1745-1814$0164414"	"All the world's a masquerade [London, author]"	990014276	D 2502; DD 2502	
+"Dibdin, Charles$d1745-1814$0164414"	"Bachelor's hall [London, author]"	990014277	D 2503; DD 2503	
+"Dibdin, Charles$d1745-1814$0164414"	"The Greenwich pensioner [London, author]"	990014293	D 2519; DD 2519	
+"Dibdin, Charles$d1745-1814$0164414"	"The Indian song [London, author]"	990014299	D 2525; DD 2525	
+"Dibdin, Charles$d1745-1814$0164414"	"Poor Tom, or The sailor's epitaph [London, author]"	990014313	D 2539; DD 2539	
+"Dibdin, Charles$d1745-1814$0164414"	"Saturday night at sea [London, author]"	990014319	D 2545; DD 2545	
+"Dibdin, Charles$d1745-1814$0164414"	"Taffy and Griddy [London, author]"	990014326	D 2552; DD 2552	
+"Dibdin, Charles$d1745-1814$0164414"	"The beggar [London, author]"	990014361	D 2588; DD 2588	
+"Dibdin, Charles$d1745-1814$0164414"	"Meum and tuum [London, author]"	990014376	D 2603; DD 2603	
+"Dibdin, Charles$d1745-1814$0164414"	"Roses and lilies [London, author]"	990014383	D 2610; DD 2610	
+"Dibdin, Charles$d1745-1814$0164414"	"The blind sailor [London, author]"	990014411	D 2638; DD 2638	
+"Dibdin, Charles$d1745-1814$0164414"	"The Savoyard [London, author]"	990014436	D 2663; DD 2663	
+"Dibdin, Charles$d1745-1814$0164414"	"Every man's friend [London, author]"	990014524	D 2751; DD 2751	
+"Dibdin, Charles$d1745-1814$0164414"	"Jervis for ever [London, author]"	990014525	D 2752; DD 2752	
+"Dibdin, Charles$d1745-1814$0164414"	"Valentine's day [London, author]"	990014530	D 2757; DD 2757	
+"Dibdin, Charles$d1745-1814$0164414"	"Buxom Nan [London, author]"	990014534	D 2761; DD 2761	
+"Dibdin, Charles$d1745-1814$0164414"	"Love's concerto [London, author]"	990014558	D 2785; DD 2785	
+"Dibdin, Charles$d1745-1814$0164414"	"A savage love song [London, author]"	990014572	D 2799; DD 2799	
+"Dibdin, Charles$d1745-1814$0164414"	"Shenkin & Winny [London, author]"	990014573	D 2800; DD 2800	
+"Dibdin, Charles$d1745-1814$0164414"	"The true English sailor [London, author]"	990014588	D 2815; DD 2815	
+"Dibdin, Charles$d1745-1814$0164414"	"Jack's claim to Poll [London, author]"	990014148	D 2370; DD 2370	
+"Dibdin, Charles$d1745-1814$0164414"	"The sailor's maxim [London, author]"	990014164	D 2386; DD 2386	
+"Dibdin, Charles$d1745-1814$0164414"	"The lamplighter [London, author]"	990014305	D 2531; DD 2531	
+"Dibdin, Charles$d1745-1814$0164414"	"Peggy Perkins [London, author]"	990014309	D 2535; DD 2535	
+"Dibdin, Charles$d1745-1814$0164414"	"The padlock. A comic opera [London, John Johnston; for the author]"	990014331	D 2557; DD 2557	
+"Dibdin, Charles$d1745-1814$0164414"	"The complaint [London, author]"	990014522	D 2749; DD 2749	
+"Dibdin, Charles$d1745-1814$0164414"	"Death alive [London, author]"	990014540	D 2767; DD 2767	
+"Dibdin, Charles$d1745-1814$0164414"	"Morality in the foretop [London, author]"	990014559	D 2786; DD 2786	
+"Dibdin, Charles$d1745-1814$0164414"	"Swizzy [London, author]"	990014586	D 2813; DD 2813	
+"Dibdin, Charles$d1745-1814$0164414"	"True friendship [London, author]"	990014590	D 2817; DD 2817	
+"Dibdin, Charles$d1745-1814$0164414"	"The woodman [London, author]"	990014597	D 2824; DD 2824	
+"Dibdin, Charles$d1745-1814$0164414"	"Wigs, or the Inundation [London, author]"	990014594	D 2821; DD 2821	
+"Dibdin, Charles$d1745-1814$0164414"	"The virtue of drunkeness [London, author]"	990014591	D 2818; DD 2818	
+"Dibdin, Charles$d1745-1814$0164414"	"The watery grave [London, author]"	990014592	D 2819; DD 2819	
+"Dibdin, Charles$d1745-1814$0164414"	"The wily fox [London, author]"	990014595	D 2822; DD 2822	
+"Fontanelli, Alfonso$d1557-1622$030009406"	"... tertia impressione [Venezia, stampa del Gardano; appresso Bartolomeo Magni]"	990018667	F 1480; FF 1480	
+"Fischer, Johann Christian$d1733-1800$030001084"	"[Arrangement:] A favourite concerto [adapted] for the harpsichord [London, Welcker]"	990018208	F 990; FF 990	
+"Fischer, Johann Christian$d1733-1800$030001084"	"[Arrangement:] A third concerto adapted for the harpsicord or piano forte [London, Welcker]"	990018216	F 998	
+"Freake, John George$d18.sc$030012300"	"Six sonatas in three parts for two violins or two german flutes (or one german flute and violin) with a bass ... opera seconda [London, William Smith]"	990018978	F 1823	
+"Frescobaldi, Girolamo$d1583-1643$077850"	"Il secondo libro di toccate, canzone, versi d'hinni, Magnificat, gagliarde, correnti, et altre partite d'intavolatura di cimbalo et organo [[Roma], [Roma, Nicolò Borboni]"	990019021	F 1867; FF 1867	
+"Fontanelli, Alfonso$d1557-1622$030009406"	"[...] [Venezia, stampa del Gardano; appresso Bartolomeo Magni]"	990018670	F 1483; FF 1483	
+"Gagliano, Marco da$d1582-1643$030003811"	CANTO | IL SESTO LIBRO | DE MADRIGALI A CINQVE VOCI | DI MARCO DA GAGLIANO | Maestro di Cappella Del Serenissimo | Gran Duca di Toscana. | AL MOLTO ILL.re SIG.r E PATRON MIO COLLENDISSIMO | IL SIGNOR COSIMO DEL SERA. | Nuonamente [!] Stampati. | [printer's mark] | STAMPA DEL GARDANO IN VENETIA A MDCXVII. | Appresso Bartholomeo Magni.	990019381	G 116; GG 116;	B/I 1617 14
+"Galuppi, Baldassare$d1706-1785$041444"	"The favourite songs in the opera call'd Il filosofo di campagna [book 1 (2), mit Stücken aus: Il mondo nella luna, davon 1 Stück von G. Cocchi] [London, John Walsh]"	990019500	G 277; GG 277	
+"Gagliano, Marco da$d1582-1643$030003811"	"CANTO | DI MARCO | DA GAGLIANO, | IL QVARTO LIBRO | DE MADRIGALI. | A CINQVE VOCI. | Nouamente Stampato. | [printer's mark] | IN VENETIA. | APPRESSO ANGELO GARDANO. | M D C V I."	990019377	G 112; GG 112;	B/I 1606 11
+"Garth, John$d1721-1810c$030006204"	"Six sonatas [G, F, c, Es, A, E] for the harpsichord, piano forte, and organ; with accompanyments for two violins, and a violoncello ... opera seconda [London, Robert Bremner; R. Johnson; T. Smith; York, T. Haxby; for the author]"	990019647	G 434; GG 434	
+"Gasparini, Quirino$d1721-1778$030001239"	"[ohne Vornamen, Zuweisung fraglich:] VI Trii [G, B, F, Es, A, F] per due violini e violoncello [ [London, John Johnson]"	990019679	G 468; GG 468	
+"Dussek, Jan Ladislav$d1760-1812$025967"	"A sonata [A] for the pianoforte ... op. 43 [London, Longman, Clementi & Co. (engraved by Scarratts)]"	990016127	D 4421	
+"Dance, William$d1755-1840$030014659"	"[93] Preludes for the piano forte, in various keys [London, Lewis Lavenu]"	990012780	D 884; DD 884	
+"Desaubrys, John Phillip$d18.sc$030012664"	"Eight sonatas [B, A, c, B, E, Es, G, F] for two violins, a violoncello, and a thorough bass for the harpsichord [London, John Johnson; for the author]"	990013521	D 1683; DD 1683	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Judas Maccabeus. An oratorio, composed by M|r Handel, for the voice, harpsichord, and violin, with the chorusses in score [London, Harrison & Co.]"	990024943	H 641; HH 641	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Semele. As it is perform'd at the Theatre Royal in Covent Garden, set to musick by M|r Handel [London, J. Walsh]"	990025200	H 907; HH 907	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Overture in Samson [[London], J. Bland]"	990025133	H 839; HH 839	
+"Corelli, Arcangelo$d1653-1713$030000734"	"Sonate a tre ... nouvelle édition trez exactement corrigée par Estienne Roger sur la partition [London, Benjamin Cooke (i)]"	990011068	C 3683; CC 3683	
+"Corelli, Arcangelo$d1653-1713$030000734"	"Concerti grossi ... XII great concertos, or sonatas, for two violins and a violoncello: or for two violins more, a tenor, and a thorough-bass: which may be doubled at pleasure, being the sixth and last work of Arcangelo Corelli [London, John Walsh & John Hare]"	990011230	C 3845; CC 3845	
+"Gluck, Christoph Willibald$d1714-1787$067338"	"... [troisième édition] [Paris, Des Lauriers]"	990021872	G 2749; GG 2749	
+"Hasse, Johann Adolf$d1699-1783$051928"	"[op. 4, Nr. 1:] A favourite concerto [F] in eight parts ... [London, John Johnson]"	990026468	H 2283	
+"Haydn, Joseph$d1732-1809$055803"	"[p.1:] DIE SCHOEPFUNG. │ Ein │ Oratorium │ in Musik gesetzt │von │ JOSEPH HAYDN │ Doctor der Tonkunst, der königl. Schwedischen Academie der │ Musik Mitglied, und Kapellmeister in wirklichen Diensten │ seiner Durchlaucht des Herrn Fürsten von Esterhazy. │ THE CREATION. │ An │ Oratorio │ Composed by │ JOSEPH HAYDN. │ Doctor of Musik [!], and Member of the royal Society of Musik in Sweden, in actuel [!] Service of his Highness │ the Prince of Esterhazy. │ Vienna 1800."	990026686	H 2521; HH 2521	
+"Haydn, Joseph$d1732-1809$055803"	"Doctr. Haydn's twelve original ballads for the pianoforte or harpsichord [Dublin, Edmund Lee]"	990026796	H 2633; HH 2633	
+"Haydn, Joseph$d1732-1809$055803"	"[vol. 1, f. 1r, title:] DIE JAHRESZEITEN | nach Thomson. | in Musik gesetzt von | JOSEPH HAYDN. | PARTITUR | [vignette] | Originalausgabe. | Bey Breitkopf & Härtel in Leipzig."	990026707	H 2542; HH 2542	
+"Haydn, Joseph$d1732-1809$055803"	"[vol. 1, title page:] HAYDN'S JAHRESZEITEN | ERSTE ABTHEILUNG. | LES SAISONS | PAR | JOSEPH HAYDN. | PREMIERE PARTIE."	990026708	H 2543; HH 2543	
+"Gluck, Christoph Willibald$d1714-1787$067338"	"ARMIDE | DRAME HÉROIQUE | Mis en Musique | par | GLUCK | Réprésenté pour la première Fois, | par l'Académie Nat.|l|e de Musique | le 23. Septembre 1777. | Prix 40.|t|t | [troisième édition] A PARIS. | Chez DESLAURIERS M.d de Papier, rue S.|t Honoré à côté de celles des Prouvaires | Et aux Adresses ordinaires."	990021809	G 2679; GG 2679	
+"Gluck, Christoph Willibald$d1714-1787$067338"	"Echo et Narcisse. Drame lyrique en trois actes avec un prologue par Mr. le Baron de T. ... représenté pour la première fois par l'Académie royale de musique le mardy 21 septembre 1779 [Paris, Des Lauriers]"	990021864	G 2739; GG 2739	
+"Gluck, Christoph Willibald$d1714-1787$067338"	"Alceste. Tragédie. Opéra en trois actes ... représentée pour la première fois par l'Académie royale de musique le 30 avril, 1776 [Paris, Bureau d'Abonnement Musical; Lyon, Castaud]"	990021769	G 2638; GG 2638	
+"Gossec, François-Joseph$d1734-1829$079417"	"Les pêcheurs. Comédie en un acte représentée pour la première fois par les comédiens italiens ordinaires du roy, le 7 juin 1766 ... œuvre X|e [Paris, auteur; Mme Bérault; aux adresses ordinaires]"	990022149	G 3050; GG 3050	
+"Gow, Niel$d1727-1807$030012348"	"A third collection of strathspey reels &c. with a bass for the violoncello or harpsichord [Edinburgh, N. & M. Stewart]"	990022338	G 3252; GG 3252	
+"Gow, John$d1764c-1826$030009243"	"[mit Andrew Gow:] A collection of slow airs, strathspeys and reels, with a bass for the violincello [!], harpsichord or piano forte [London, W. Campbell]"	990022310	G 3224; GG 3224	
+"Gow, Nathaniel$d1763-1831$030006078"	"A complete collection of originall German valtz [!], for the piano forte or violin, and violincello with a second violin accompaniment [Edinburgh, Gow & Shepherd]"	990022312	G 3226; GG 3226	
+"Graeff, Johann Georg$d18/19$030012301"	"Six solos [G, C, D, A, F, G] for a german flute, with a figur'd bass, for the harpsichord or violoncello ... op. 5 [London, J. Bland]"	990022364	G 3280; GG 3280	
+"Gow, Nathaniel$d1763-1831$030006078"	"The union, composed from ... God save the King ... to which are added four favorite tunes ... [pf] [Edinburgh, Gow & Shepherd]"	990022327	G 3241; GG 3241	
+"Gow, Niel$d1727-1807$030012348"	"A fourth collection of strathspey reels, &c. for the piano forte, violin & violoncello [Edinburgh, Gow & Shepherd]"	990022340	G 3254; GG 3254	
+"Fiala, Joseph$d1748-1816$049050"	"[title page:] TROIS QUATUORS | pour | Deux Violons, Alto & Basse | Composés par | Joseph Fiala | Oeuvre III|m|e | C. P. S. C. M."	990017928	F 704	
+"Fiala, Joseph$d1748-1816$049050"	"Trois quatuors pour deux violons, alto & basse ... œuvre ([handschriftlich:] 4) [Wien, Artaria & Co.]"	990017929	F 705; FF 705	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Acis and Galatea a mask as it was originally compos'd with the overture, recitativo's, songs, duets & choruses, for voices and instruments. Set to musick by M|r Handel [London, John Walsh]"	990024708	H 380; HH 380	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Athalia. An oratorio or sacred drama in score, the music composed in the year 1733 [London, Samuel Arnold; John Longman; Broderip]"	990025736	H 1494; HH 1494	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Theodora. An oratorio in score, composed in the year 1750 [London, Samuel Arnold; John Longman; Broderip]"	990025737	H 1495; HH 1495	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Te Deum [B] in score, composed for His Grace the Duke of Chandos (in the year 1719) [London, Samuel Arnold; John Longman; Broderip]"	990025740	H 1498; HH 1498	
+"Händel, Georg Friedrich$d1685-1759$036552"	"A grand Te Deum, composed in the year 1713 for the peace of Utrecht [London, Samuel Arnold; John Longman; Broderip]"	990025741	H 1499; HH 1499	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Te Deum, composed in the year 1743 for the victory at Dettingen [London, Samuel Arnold; John Longman; Broderip]"	990025743	H 1501; HH 1501	
+"Händel, Georg Friedrich$d1685-1759$036552"	"The musick for the royal fireworks, performed in the year 1749 [London, Samuel Arnold; John Longman; Broderip]"	990025748	H 1506; HH 1506	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Samson. A sacred oratorio in score, the words taken from Milton, the musick composed in the year 1742 [London, Samuel Arnold; John Longman; Broderip]"	990025757	H 1515; HH 1515	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Joshua. A sacred oratorio, in score, composed in the year 1747 [London, Samuel Arnold; John Longman; Broderip]"	990025760	H 1518; HH 1518	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem VI|a: As pants the hart] ... Anthem VIII [London, Samuel Arnold; John Longman; Broderip]"	990025772	H 1530; HH 1530	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem IX: O praise the Lord with one consent] ... Anthem XI [London, Samuel Arnold; John Longman; Broderip]"	990025775	H 1533; HH 1533	
+"Händel, Georg Friedrich$d1685-1759$036552"	"A third set of lessons for the harpsichord [London, Samuel Arnold; John Longman; Broderip]"	990025790	H 1548; HH 1548	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Deborah. A sacred oratorio in score, composed in the year 1739 [London, Samuel Arnold; John Longman; Broderip]"	990025795	H 1553; HH 1553	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Anthem. For the victory at Dettingen, composed in the year 1743 [London, Samuel Arnold; John Longman; Broderip]"	990025801	H 1559; HH 1559	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Concertos (commonly called the hautboy concertos) for two violins, two hautboys, two german flutes, two tenors, two bassoons, two violoncellos, and a basso continuo, chiefly composed at Cannons, in the year 1720, and published about the year 1729 [op. 3] [London, Samuel Arnold; John Longman; Broderip]"	990025810	H 1568; HH 1568	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Two trios, and four cantatas, in score [London, Samuel Arnold; John Longman; Broderip]"	990025811	H 1569; HH 1569	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Thirteen chamber duetto's and twelve cantatas [London, Samuel Arnold; John Longman; Broderip]"	990025812	H 1570; HH 1570	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Sosarme. Opera in tre atti, rappresentata al Teatro del Re nel Mercato del Fieno a Londra nell'anno 1732 [London, Samuel Arnold; John Longman; Broderip]"	990025746	H 1504; HH 1504	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Semele. A dramatick performance in score, the words altered from Congreve, the musick composed in the year 1743 [London, Samuel Arnold; John Longman; Broderip]"	990025749	H 1507; HH 1507	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Seven sonatas or trios [op. 5] for two violins or two german flutes and a violoncello, composed and published in the year 1739 [London, Samuel Arnold; John Longman; Broderip]"	990025756	H 1514; HH 1514	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem III: Have mercy upon me] ... Anthem IV [London, Samuel Arnold; John Longman; Broderip]"	990025768	H 1526; HH 1526	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem X: The Lord is my light] ... Anthem IX [London, Samuel Arnold; John Longman; Broderip]"	990025773	H 1531; HH 1531	
+"Händel, Georg Friedrich$d1685-1759$036552"	"The occasional oratorio in score, composed in the year 1745 [London, Samuel Arnold; John Longman; Broderip]"	990025781	H 1539; HH 1539	
+"Händel, Georg Friedrich$d1685-1759$036552"	"A second set of six concertos, in score, for the organ or harpsichord, with accompanyments for two violins, two hautboys, viola & violoncello ...concerto I-VI [op. 7] [London, Samuel Arnold; John Longman; Broderip]"	990025787	H 1545; HH 1545	
+"Händel, Georg Friedrich$d1685-1759$036552"	"A second set of lessons for the harpsichord [London, Samuel Arnold; John Longman; Broderip]"	990025789	H 1547; HH 1547	
+"Händel, Georg Friedrich$d1685-1759$036552"	"La resurrezione. Oratorio sacro in partizione [London, Samuel Arnold; John Longman; Broderip]"	990025808	H 1566; HH 1566	
+"Haigh, Thomas$d1769-1808c$030004004"	"A favorite duett [B] for two performers on one piano forte, in which is introduced the Portugueze hymn on the Nativity. [London, Thomas Preston]"	990026036	H 1801	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Mio cor - II confine della vita. Aria nel Muzio Scaevola di Sig|r Handel. [[London], [Benjamin Goodison]]"	990024570	H 208	
+"Händel, Georg Friedrich$d1685-1759$036552"	"The works of Handel, in score, correct, uniform, and complete. Consisting of his oratorios, operas, duets, anthems, concertos, lessons, Te Deums, trios, fugues &c. Elegantly engraved, on large folio plates, under the immediate direction of Dr. Arnold [[London], S. Arnold; L. Longman; Broderip]"	990025735	H 1493; HH 1493	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Symphony to the Jubilate [London, Samuel Arnold; John Longman; Broderip]"	990025744	H 1502; HH 1502	
+"Händel, Georg Friedrich$d1685-1759$036552"	"The celebrated water musick in score, composed in the year 1716 [London, Samuel Arnold; John Longman; Broderip]"	990025747	H 1505; HH 1505	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Acis and Galatea. A serenata, composed for the Duke of Chandos in the year 1720 [London, Samuel Arnold; John Longman; Broderip]"	990025750	H 1508; HH 1508	
+"Händel, Georg Friedrich$d1685-1759$036552"	"An ode or serenata for the birthday of Queen Ann, composed in the year 1713 [London, Samuel Arnold; John Longman; Broderip]"	990025758	H 1516; HH 1516	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Joseph. A sacred oratorio in score, composed in the year 1746 [London, Samuel Arnold; John Longman; Broderip]"	990025783	H 1541; HH 1541	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Twelve sonatas or solo's for the german flute, hautboy and violin, published about the year 1724 [London, Samuel Arnold; John Longman; Broderip]"	990025794	H 1552; HH 1552	
+"Händel, Georg Friedrich$d1685-1759$036552"	"L'Allegro, il pensieroso, ed il moderato. The words taken from Milton, the musick composed in the year 1739 [London, Samuel Arnold; John Longman; Broderip]"	990025797	H 1555; HH 1555	
+"Händel, Georg Friedrich$d1685-1759$036552"	"A short Te Deum [D] in score, composed for Her late Majesty Queen Caroline in the year 1737 [London, Samuel Arnold; John Longman; Broderip]"	990025739	H 1497; HH 1497	
+"Händel, Georg Friedrich$d1685-1759$036552"	"A grand Jubilate, composed in the year 1713 for the peace of Utrech[t] [London, Samuel Arnold; John Longman; Broderip]"	990025742	H 1500; HH 1500	
+"Händel, Georg Friedrich$d1685-1759$036552"	"The Choice of Hercules. In score, composed in the year 1745 [London, Samuel Arnold; John Longman; Broderip]"	990025759	H 1517; HH 1517	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem IV: O sing unto the Lord] ... Anthem VI [London, Samuel Arnold; John Longman; Broderip]"	990025770	H 1528; HH 1528	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Saul. A sacred oratorio in score, composed in the year 1740 [London, Samuel Arnold; John Longman; Broderip]"	990025784	H 1542; HH 1542	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Jephtha. A sacred oratorio. In score, composed in the year 1751 [London, Samuel Arnold; John Longman; Broderip]"	990025785	H 1543; HH 1543	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Lessons for the harpsichord, first published in the year 1720 [London, Samuel Arnold; John Longman; Broderip]"	990025788	H 1546; HH 1546	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Agrippina. Opera in tre atti rappresentata al teatro di Venizzia nell' anno 1709 [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025796	H 1554; HH 1554	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem XIV: Sing unto God]. Anthem, for the wedding of Frederick Prince of Wales, and the Princess of Saxa-Gotha, composed in the year 1736 [London, Samuel Arnold; John Longman; Broderip]"	990025798	H 1556; HH 1556	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Coronation anthems I: Zadock, the priest]. Anthem, for the coronation of George II, composed in the year 1727 [London, Samuel Arnold; John Longman; Broderip]"	990025803	H 1561; HH 1561	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Terpsicore/Il pastor fido]. Masque consisting of a prelude, airs, duettes, a chorus, and dances [London, Samuel Arnold; John Longman; Broderip]"	990025805	H 1563; HH 1563	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Hercules. An oratorio in score, composed in the year 1744 [London, Samuel Arnold; John Longman; Broderip]"	990025752	H 1510; HH 1510	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Judas Macchabaeus. A sacred oratorio in score, with all the additional alterations, composed in the year 1746 [London, Samuel Arnold; John Longman; Broderip]"	990025753	H 1511; HH 1511	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Six sonatas [op. 2] for two violins, two hautboys, or two german flutes and a violoncello, first published at Amsterdam 1731 [London, Samuel Arnold; John Longman; Broderip]"	990025755	H 1513; HH 1513	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Belshazzar. A sacred oratorio, in score, composed in the year 1743 [London, Samuel Arnold; John Longman; Broderip]"	990025764	H 1522; HH 1522	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem XI|a: Let God arise] ... Anthem III [London, Samuel Arnold; John Longman; Broderip]"	990025767	H 1525; HH 1525	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem II: In the Lord put I my trust] ... Anthem X [London, Samuel Arnold; John Longman; Broderip]"	990025774	H 1532; HH 1532	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Alcides [Alceste]. An English opera in score [London, Samuel Arnold; John Longman; Broderip]"	990025777	H 1535; HH 1535	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Solomon. A sacred oratorio in score, with all the additional alterations, composed in the year 1749 [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025778	H 1536; HH 1536	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Israel in Egypt. A sacred oratorio in score composed in the year 1738 [London, Samuel Arnold; John Longman; Broderip]"	990025779	H 1537; HH 1537	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Ode on St. Cecilia's day, the words by Dryden, set to musick in the year 1736 [London, Samuel Arnold; John Longman; Broderip]"	990025782	H 1540; HH 1540	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Coronation anthem IV: Let thy hand be strengthened]. Anthem, for the coronation of George II, composed in the year 1727 [London, Samuel Arnold; John Longman; Broderip]"	990025802	H 1560; HH 1560	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Coronation anthem III: My heart is inditing]. Anthem, for the coronation of George II, composed in the year 1727 [London, Samuel Arnold; John Longman; Broderip]"	990025804	H 1562; HH 1562	
+"Händel, Georg Friedrich$d1685-1759$036552"	"The triumph of time and truth. An oratorio in score, composed in the year 1751 [London, Samuel Arnold; John Longman; Broderip]"	990025807	H 1565; HH 1565	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Twelve grand concertos [op. 6], in score, composed in the year 1737 [London, Samuel Arnold; John Longman; Broderip]"	990025761	H 1519; HH 1519	
+"Händel, Georg Friedrich$d1685-1759$036552"	"The music in the Alchymist [= Ouverture und Ballettmusik aus: Rodrigo] [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025762	H 1520; HH 1520	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Alexander's feast, an ode on Saint Cecilia's Day. The words by Dryden, the musick composed in the year 1736 [London, Samuel Arnold; John Longman; Broderip]"	990025763	H 1521; HH 1521	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem V|a: I will magnify thee]. Anthem, in score, composed at Cannons, for His Grace the Duke of Chandos between the year's 1718 & 1720 ... Anthem Ist [London, Samuel Arnold; John Longman; Broderip]"	990025765	H 1523; HH 1523	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem XI|b: Let God arise] ... Anthem II [London, Samuel Arnold; John Longman; Broderip]"	990025766	H 1524; HH 1524	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem VIII: O come let us sing unto the Lord] ... Anthem V [London, Samuel Arnold; John Longman; Broderip]"	990025769	H 1527; HH 1527	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem VII: My song shall be always] ... Anthem VII [London, Samuel Arnold; John Longman; Broderip]"	990025771	H 1529; HH 1529	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Anthem XII: O praise the Lord, ye angels of His] ... Anthem XII [London, Samuel Arnold; John Longman; Broderip]"	990025776	H 1534; HH 1534	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Concertante in nine parts [= Concerto grosso C], for two violins and a violoncello obligati, composed in the year 1738 [London, Samuel Arnold; John Longman; Broderip]"	990025780	H 1538; HH 1538	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Six concertos, in score, for the organ or harpsichord, with accompanyments for two violins, two hautboys, viola & violoncello ... concerto I-VI [op. 4] [London, Samuel Arnold; John Longman; Broderip]"	990025786	H 1544; HH 1544	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Six fugues or voluntary's for the organ or harpsichord [London, Samuel Arnold; John Longman; Broderip]"	990025791	H 1549; HH 1549	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Alexander Balus. An oratorio in score, composed in the year 1747 [London, Samuel Arnold; John Longman; Broderip]"	990025806	H 1564; HH 1564	
+"Händel, Georg Friedrich$d1685-1759$036552"	"[Coronation anthem II: The King shall rejoice]. Anthem for the coronation of Georg II, composed in the year 1727 [London, Samuel Arnold; John Longman; Broderip]"	990025809	H 1567; HH 1567	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Concertos &c. for the organ in score, now first published 1797 [London, Samuel Arnold; John Longman; Broderip]"	990025813	H 1571; HH 1571	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Giulio Cesare. Opera in tre atti, rappresentata al Teatro del Re nel Mercato del Fieno a Londra nell' anno 1723 [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025754	H 1512; HH 1512	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Susanna. A sacred oratorio. In score, composed in the year 1743 [London, Samuel Arnold; John Longman; Broderip]"	990025792	H 1550; HH 1550	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Esther. A sacred oratorio. In score, composed in the year 1720 [London, Samuel Arnold; John Longman; Broderip]"	990025793	H 1551; HH 1551	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Anthem, for the funeral of Queen Caroline, composed in the year 1737 [London, Samuel Arnold; John Longman; Broderip]"	990025800	H 1558; HH 1558	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Messiah. A sacred oratorio in score with all the additional alterations, composed in the year 1741 [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025738	H 1496; HH 1496	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Te Deum [A] in score, composed for His Grace the Duke of Chandos (in the year 1720) [London, Samuel Arnold; John Longman; Broderip]"	990025745	H 1503; HH 1503	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Teseo. Opera in cinque atti, rappresentata al Teatro del Re nel Mercato del Fieno a Londra nell' anno 1713 [London, Samuel Arnold; John Longman; Broderip; London, Samuel Arnold; John Longman; Broderip]"	990025751	H 1509; HH 1509	
+"Cimarosa, Domenico$d1749-1801$052222"	"L'Italienne à Londre. Opéra bouffon en trois actes musique ... représenté au théâtre de Monsieur ([andere Ausgabe:] représenté au théâtre de la rue Feydeau) [Paris, Sieber]"	990009739	C 2293; CC 2293	
+"Cimarosa, Domenico$d1749-1801$052222"	"Il matrimonio segreto. Dramma giocoso in due atti, ou Le mariage secret, opéra comique en deux actes ... paroles françaises de Moline [Paris, Imbault (Louis Aubert)]"	990009750	C 2304; CC 2304	
+"Dale, Joseph$d1750-1821$030012177"	"Three sonatas [G, D, E] for the piano forte or harpsichord with accompaniments for a flute and violoncello ... opera VIII [London, author]"	990012656	D 753; DD 753	
+"Corri, Natale$d1765-1822$030013564"	"Three sonatas [Es, C, D] for the piano forte or harpsichord, with an accompanyment for a violin ... op. 1st [Edinburgh, Corri & Sutherland]"	990011498	C 4132	
+"Dalayrac, Nicolas-Marie$d1753-1809$027764"	"Adolphe et Clara, ou Les deux prisonniers. Comédie en un acte et en prose. Paroles de B. J. Marsollier [Paris, Pleyel (Huguet)]"	990011971	D 22; DD 22	
+"Dance, William$d1755-1840$030014659"	"Three lessons for the piano forte with an accompanyment for a violin and eight preludes in different keys ... opera terza [London, Longman & Broderip; author]"	990012779	D 883	
+"Carter, Thomas$d1735c-1804$030005090"	"Canons, glees, and catches, for two, three, and four voices ... op. XII [London, Harrison & Co.]"	990008961	C 1304; CC 1304	
+"Corelli, Arcangelo$d1653-1713$030000734"	"Six setts of aires for two flutes and a bass ... being the choicest of his preludes, allmands, sarabands, corants, minuets, and jiggs, collected out of his several opera's, transpos'd and fitted to y|e flute [London, John Walsh & J. Hare]"	990011278	C 3894; CC 3894	
+"Corfe, Joseph$d1740-1820$030015941"	"Twelve glees, for three and four voices, composed from ancient Scotch melodies [book I] [London, to be had at the principal music shops]"	990011294	C 3917; CC 3917	
+"Corelli, Arcangelo$d1653-1713$030000734"	"Six solos for a flute and a bass by Arcangelo Corelli being the second part of his fifth opera ... the whole exactly transpos'd and made fitt for a flute and a bass with the aprobation of several eminent masters [London, John Walsh & J. Hare]"	990011268	C 3884; CC 3884	
+"Dalayrac, Nicolas-Marie$d1753-1809$027764"	"Œuvre XII. Camille, ou Le souterrain. Comédie en trois actes en prose par M|r Marsollier [Paris, Pleyel (Huguet)]"	990012079	D 138; DD 138	
+"Dalayrac, Nicolas-Marie$d1753-1809$027764"	"La dot. Comédie en trois actes et en prose, par M. Desfontaines ... œuvre IV [Paris, auteur (Huguet)]"	990012169	D 236	
+"Cramer, Wilhelm$d1746-1799$030000759"	"Six trios for two violins and a bass, op. III [London, William Napier]"	990011741	C 4391; CC 4391	
+"Corfe, Joseph$d1740-1820$030015941"	"A third set of twelve glees, for three and four voices, arranged from the melodies of Sacchini, Paisello, Haydn, Pleyel, Storace, &c [London, Bath, to be hat at the principal music shops]"	990011299	C 3923; CC 3923	
+"Dauvergne, Antoine$d1713-1797$030000801"	[title page] LES | TROQUEURS | INTERMEDE | PAR | M.|R DAUVERGNE | Ordinaire de la Musique de la Chambre du Roy | Et de L'Academie Royale de Musique. | Prix en Blanc 12.|t|t | Gravé par Les.|r Hue. | A PARIS | Chez {L'Auteur Rue plastriere la quatrieme porte-cochere a gauche | Entrant par la Rue grenette. | M.|r Vernade Rue du roule à la Croix d'Or. | M.|r Bayard Rue Saint Honore à la Regle d'Or. | Avec Approbation et Privilege | du Roy. | Imprimé par Auguste de Loraine.	990012977	D 1097; DD 1097	
+"Dance, William$d1755-1840$030014659"	"God save the king. Arranged for the piano forte, with new variations, and an introductery movement, and coda [London, Lewis Lavenu]"	990012781	D 886; DD 886	
+"Cocchi, Gioacchino$d1712-1796$030000691"	"The favourite songs in the opera call'd Zenobia [vgl. auch Demetrio] [London, John Walsh]"	990010650	C 3238; CC 3238	
+"Corelli, Arcangelo$d1653-1713$030000734"	"The score of the four operas ... the whole revis'd and carefully corrected by Dr. Pepusch [London, John Walsh]"	990011183	C 3798; CC 3798	
+"Corelli, Arcangelo$d1653-1713$030000734"	"Twelve sonatas for the harpsichord or organ, with accompaniments [London, Harrison & Co.]"	990011076	C 3691; CC 3691	
+"Corelli, Arcangelo$d1653-1713$030000734"	"Sonate a violino e violono ... da Arcangelo Corelli [London, Benjamin Cooke]"	990011209	C 3824; CC 3824	
+"Corelli, Arcangelo$d1653-1713$030000734"	PARTE PRIMA | SONATE A VIOLINO E VIOLONE O CIMBALO | DEDICATE ALL ALTEZZA SERENISSIMA ELETTORALE DI | SOFIA CARLOTTA | ELETTRICE DI BRANDENBVRGO | PRINCIPESSA DI BRVNSWICH ET LVNEBVRGO DVCHESSA DI | PRVSSIA E DI MAGDEBVRGO CLEVES GIVLIERS BERGA STETINO | POMERANIA CASSVBIA E DE VANDALI IN SILESIA CROSSEN | BVRGRAVIA DI NORIMBERG PRINCIPESSA DI HALBERSTATT | MINDEN E CAMIN CONTESSA DI HOHENZOLLERN E | RAVENSPVRG RAVENSTAIN LAVENBVRG E BVTTAV | DA ARCANGELO CORELLI DA FVSIGNANO | OPERA QVINTA. | Si vendono a Pasquino all' Insegna della Stella da Filippo Farinelli. [space] Jncisa da Gasparo Pietra Santa	990011186	C 3801; CC 3801	
+"Corelli, Arcangelo$d1653-1713$030000734"	"Corelli's celebrated concerto as performed by M|r. Cramer ... adapted for the organ, harpsichord, or piano forte by Thomas Billington, opera IX [London, Longman & Broderip]"	990011272	C 3888	
+"Corfe, Joseph$d1740-1820$030015941"	"... 2d edition [London, to be had at all the principal music shops]"	990011298	C 3921	
+"Hayes, William$d1708-1777$030004689"	"Harmonia Wiccamica. The original music in score of the graces, Jam lucis, and Dulce domum ... collated, revised & corrected by P. Hayes [mit ""Let omnibus Wiccamicis in a bumper now go round"" a 3v, von W. Hayes] [London, editor]"	990029026	H 4888	
+"Hayes, William$d1708-1777$030004689"	"Vocal and instrumental musick, in three parts, containing, I. the overture and songs in the masque of Circe. II. a sonata or trio, and songs of different kinds, viz. ballads, airs and cantatas. III. an ode, being part of an exercise perform'd for a bachelor's degree in musick. [[Oxford], author]"	990029037	H 4899	
+"Haydn, Joseph$d1732-1809$055803"	"A favorite lesson for the piano forte [London, Harrison & Co.]"	990027508	H 3350; HH 3350	
+"Haydn, Joseph$d1732-1809$055803"	"Trois quatuors pour deux violons, taille et violoncelle ... œuvre XXIX, libro I [Berlin, J. J. Hummel; Amsterdam, grand magazin de musique]"	990027657	H 3500; HH 3500	
+"Haydn, Joseph$d1732-1809$055803"	"Trois sonates pour le piano-forte avec accompagnement de violon & violoncello ... op. 70 [London, Longman & Broderip]"	990027870	H 3714; HH 3714	
+"Haydn, Joseph$d1732-1809$055803"	"Trois sonates pour le piano forte avec accompagnement de violon & violoncello ... op. 73 [London, Longman & Broderip]"	990027893	H 3737; HH 3737	
+"Haydn, Joseph$d1732-1809$055803"	"3d sonata from op. 17 [London, Birchall & Andrews]"	990028059	H 3906	
+"Haydn, Joseph$d1732-1809$055803"	"A favourite overture ... adapted for the piano-forte or harpsichord with an accompanyment for a violin by Charles Frederic Horn [London, Longman & Broderip]"	990028718	H 4570; HH 4570	
+"Haydn, Joseph$d1732-1809$055803"	"... [London, Longman & Broderip]"	990027810	H 3653	
+"Haydn, Joseph$d1732-1809$055803"	"Trois sonates pour clavecin ou fortépiano avec violon et violoncelle ... œuvre 79 [Paris, Sieber]"	990027886	H 3730	
+"Haydn, Joseph$d1732-1809$055803"	"Haydn's sonata IIII from op. 17 [London, J. Bland]"	990028065	H 3912	
+"Haydn, Joseph$d1732-1809$055803"	"... libro II [Berlin, Amsterdam, Johann Julius Hummel]"	990027658	H 3501; HH 3501	
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, cover title:] Musica Instrumentale | Sopra le sette ultime Parole del nostro Redentore in Croce | o sieno | Sette Sonate | con un Introduzione ed al Fine un Teremoto | Composte e ridotte | in Quartetti | Per due Violini, Viola, e Violoncello | dal Sig|r|e | Giuseppe Haydn | Maestro di Capella di S. A. S. il Principe d'Esterhazy | Opera 48. | in Vienna | presso Artaria Compagni."	990027660	H 3503; HH 3503	
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	"[title page:] SIX QUATUORS | ou | DIVERTISSEMENTS | A | DEUX VIOLONS, TAILLE | et BASSE. | Composés | Par | JOSEPH HAYDN. | Oeuvre XIX | [on the left:] N|o 527. [on the right:] Prix f. 6.- | Chés Jean Julien Hummel | à Berlin avec Privilège du Roi, | à Amsterdam au Grand Magazin de Musique et aux Adresses ordinaires."	990027638	H 3481; HH 3481	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Handel's songs, selected from his oratorios, for the harpsichord, voice, hoboy, or german flute, vol. I(-IV) [London, J. Walsh]"	990025355	H 1075; HH 1075	
+"Händel, Georg Friedrich$d1685-1759$036552"	"Alexander's feast, or The power of musick. An ode wrote in honour of St. Cecilia by M|r Dryden, set to musick by M|r Handel, with the recitativo's, songs, symphonys and chorus's for voices & instruments, together with the cantata, duet, and songs, as perform'd at the Theatre Royal, in Covent Garden, publish'd by the author [enthält auch die italienische Kantate: Cecilia volgi un sguardo, sowie An additional song sung by Sigr. Hannibali: Sei del ciel dono perfetto] [London, J. Walsh]"	990025277	H 994; HH 994	
+"Giordani, Tommaso$d1733c-1806$063972"	"Sei quartetti [Es, F, C, A, B, d/D] per due violini, viola, e violoncello ... opera VIII. [London, William Napier]"	990021427	G 2278	
+"Gluck, Christoph Willibald$d1714-1787$067338"	"Iphigénie en Tauride. Tragédie en quatre actes, par M. Guillard, mise en musique et dédié à la Reine ... représentée pour la première fois par l'Académie royale de musique le mardi 18 may 1779 [Paris, Bureau du journal de musique]"	990021934	G 2815; GG 2815	
+"Gow, Niel$d1727-1807$030012348"	"A collection of strathspey reels, with a bass for the violoncello or harpsichord [Edinburgh, Neil Stewart; for the author]"	990022331	G 3245; GG 3245	
+"Gow, Niel$d1727-1807$030012348"	"A third collection of strathspey reels &c. with a bass for the violoncello or harpsichord [Edinburgh, author]"	990022337	G 3251; GG 3251	
+"Gow, Niel$d1727-1807$030012348"	"Part first (-fourth) of the complete repository of original Scots slow strathspeys and dances ... for the harp, piano-forte, violin and violoncello [Edinburgh, Gow & Shepherd]"	990022344	G 3258; GG 3258	
+"Gram, Hans$d1754-1804$030011738"	"[mit Samuel Holyoke und Oliver Holden:] The Massachusetts compiler of theoretical and practical elements of sacred vocal music, together with a musical dictionary and a variety of psalm tunes, chorusses, &c., chiefly selected or adapted from modern Eupopean publications [Boston, Isaiah Thomas & Ebenezer T. Andrews]"	990022466	G 3385; GG 3385	
+"Granom, Lewis Christian Austin$d1700c-1782$030013029"	"Six sonatas for two german flutes or two violins, with a thorough bass for the harpsicord or violoncello ... opera seconda. [London, John Simpson]"	990022594	G 3526	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"[title page:] ŒUVRE VI. | L'AMITIÉ | A L'ÉPREUVE | COMÉDIE | En deux Actes mêlée d'Ariettes | Représentée devant Sa Majesté à fontainebleau, le 13 Novembre | 1770. Et à Paris le 17. Janvier 1771. | DÉDIÉE À MADAME | LA DAUPHINE | PAR M. GRETRY | De l'Académie de Boulogne. | Gravée par le S.|r Dezauche. | Prix 15.|f|f | A PARIS | Aux Adresses ordinaires de Musique. | A Lion. M. Castaud vis à vis la Comédie | A P D R | Imprimé par Montulay."	990022934	G 3939; GG 3939	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"Aucassin et Nicolette, ou Les mœurs du bon vieux temps. Comédie en trois actes, représentée le 30 décembre 1779 ... œuvre XX [Paris, Houbaut (Huguet, Basset)]"	990022970	G 3982; GG 3982	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"Barbe Bleue. Comédie en prose et en trois actes, paroles de M. Sedaine ... représentée ... le lundi 2 mars 1789 ... œuvre XXVIII [Paris, auteur (Huguet)]"	990022974	G 3992; GG 3992	
+"Grétry, André-Ernest-Modeste$d1741-1813$083932"	"Méthode simple pour apprendre à préluder en peu de temps avec toutes les ressources de l'harmonie [Paris, Imprimerie de la République]"	990023439	G 4581; GG 4581	
+"Guerini, Francesco$d18.sc$030001392"	"Six sonatas or duets for two violins. [London, A. Hummell]"	990023708	G 4858	
+"Gaveaux, Pierre$d1760-1825$030001251"	"Le petit matelot. Opéra en un acte ... représenté pour la première fois sur le théâtre de la rue Faydeau le 7 janvier 1796 (vieux style) [Paris, les frères Gaveaux (gravé par la cioyenne Le Roy)]"	990019874	G 669; GG 669	
+"Gesualdo, Carlo$d1566-1613$030010374"	"Madrigali a cinque voci, libro quarto. [Venezia, Angelo Gardano & fratelli]"	990020926	G 1737; GG 1737	
+"Gesualdo, Carlo$d1566-1613$030010374"	"... tertia impressione [Venezia, stampa del Gardano; appresso Bartolomeo Magni]"	990020913	G 1724; GG 1724	
+"Giardini, Felice$d1716-1796$062183"	"... nouvelle édition, revue et corrigée de 554 fautes [Paris, Bayard; Le Clerc; Mlle Castagnery]"	990021089	G 1908; GG 1908	
+"Gesualdo, Carlo$d1566-1613$030010374"	"Madrigali a cinque voci, libro terzo. [Venezia, stampa del Gardano; appresso Bartolomeo Magni]"	990020923	G 1734; GG 1734	
+Gillier the younger$d18.sc$030011663	"Six setts of lessons [G, c, F, A, F, E] for the harpsichord, opera seconda. [London, John Johnson]"	990021214	G 2042	
+"Greene, Maurice$d1696-1755$030004140"	"Cathedral music, or Forty select anthems. [London, Thomas Bennett]"	990022774	G 3739	
+"Greene, Maurice$d1696-1755$030004140"	"Twelve voluntarys for the organ or harpsichord [London, John Bland]"	990022810	G 3798; GG 3798	
+"Festing, Michael Christian$d1705-1752$030005118"	"Eight solos [A, c, E, D, b, B, F, e] for a violin and thorough-bass ... opera quarta [London, William Smith; author]"	990017898	F 673; FF 673	
+"Fiala, Joseph$d1748-1816$049050"	"Six quatuors concertants à deux violons, taille & violoncel ... œuvre I [Berlin, Johann Julius Hummel; Amsterdam, grand magazin de musique, aux adresses ordinaires]"	990017926	F 702	
+"Finger, Gottfried$d1660c-1730$030001069"	"Six sonatas [F, c, C, B, g, G] of two parts for two flutes ... opera secunda [London, John Walsh & Joseph Hare]"	990018066	F 847; FF 847	
+"Gesualdo, Carlo$d1566-1613$030010374"	"Madrigali a cinque voci [libro secondo] [Venezia, stampa del Gardano; appresso Bartolomeo Magni]"	990020918	G 1729; GG 1729	
+"Gesualdo, Carlo$d1566-1613$030010374"	"Madrigali a cinque voci, libro sesto. [ [Venezia, stampa del Gardano; appresso Bartolomeo Magni]"	990020931	G 1742; GG 1742	
+"Ducray-Duminil, François-Guillaume$d1761-1819$023691"	"L'autre nuit je réfléchissais. La croisée. Romance ... avec accompagnement de clavecin ou harpe [Paris, Imbault]"	990015377	D 3626; DD 3626	
+"Duni, Egidio Romualdo$d1708-1775$030000905"	"Ariettes séparées [à 1 et 2 voix] [Paris, auteur; aux adresses ordinaires (gravées par le S|r Hue)]"	990015505	D 3772; DD 3772	
+"Duni, Egidio Romualdo$d1708-1775$jAscertained$030000905"	"[title page:] NINETTE | A | LA COUR | Parodie de Bertholde à la Ville | Comédie en deux Actes, | melés d'Ariettes | PAR | M.|R FAVART. | Representée sur le Theatre de la Comedie Italiene | prix 12.|t|t |  A PARIS | Chez { M.|r de la Chevardiere, Editeur successeur de M.|r le Clerc, | ruë du Roule à la Croix d'Or. | M.|r Bayard, ruë S.|t Honoré à la Regle d'Or. | M.|e|l|l|e Castagnierie, ruë des Prouvenaires à la musique royale. | M.|r Lormel, ruë du Foin à l'Image S.|t|e Genevieve. | A LYON | M.|r|s les Freres Legoux, Place des Cordeliers. | AVEC PRIVILEGE DU ROY. | Gravé par M.|e|l|l|e Vendome"	990015509	D 3781; DD 3781	
+"Dupuis, Thomas Sanders$d1733-1796$030004483"	"Six sonatas [G, C, D, F, B, A] for the piano forte or harpsichord with an accompanyment for a violin ... op. VI [London, Longman & Broderip]"	990015619	D 3908	
+"Cumming, Angus$d1750c*$030009348"	"A collection of strathspey's, or old highland reels ... with a bass for the violoncello, harpsichord or piano forte [Edinburgh, s.n.]"	990011912	C 4581; CC 4581	
+"Duni, Egidio Romualdo$d1708-1775$030000905"	"Ariettes ... en 4 parties [Paris, Duchesne (gravée par Mlle Vendôme)]"	990015511	D 3783; DD 3783	
+"Dibdin, Charles$d1745-1814$0164414"	"Anne Hathewaye [London, author]"	990014143	D 2365; DD 2365	
+"Dibdin, Charles$d1745-1814$0164414"	"The good of the nation [London, author]"	990014145	D 2367; DD 2367	
+"Dibdin, Charles$d1745-1814$0164414"	"The Irish echo [London, author]"	990014146	D 2368; DD 2368	
+"Dibdin, Charles$d1745-1814$0164414"	"Meg of Wapping [London, author]"	990014151	D 2373; DD 2373	
+"Dibdin, Charles$d1745-1814$0164414"	"The portrait [London, issued with ""The By-Stander""]"	990014316	D 2542; DD 2542	
+"Dibdin, Charles$d1745-1814$0164414"	"Sly old Hodge [London, author]"	990014324	D 2550; DD 2550	
+"Dibdin, Charles$d1745-1814$0164414"	"The tar for all weathers [London, author]"	990014328	D 2554; DD 2554	
+"Dibdin, Charles$d1745-1814$0164414"	"The drummer [London, author]"	990014366	D 2593; DD 2593	
+"Dibdin, Charles$d1745-1814$0164414"	"Jack's gratitude [London, author]"	990014368	D 2595; DD 2595	
+"Dibdin, Charles$d1745-1814$0164414"	"Life's a pun [London, author]"	990014371	D 2598; DD 2598	
+"Dibdin, Charles$d1745-1814$0164414"	"Poor Peg [London, author]"	990014379	D 2606; DD 2606	
+"Dibdin, Charles$d1745-1814$0164414"	"Jack at the windlass [London, author]"	990014423	D 2650; DD 2650	
+"Dibdin, Charles$d1745-1814$0164414"	"None so pretty [London, author]"	990014433	D 2660; DD 2660	
+"Dibdin, Charles$d1745-1814$0164414"	"A Welch love song [London, author]"	990014437	D 2664; DD 2664	
+"Dibdin, Charles$d1745-1814$0164414"	"Wit and beauty [London, author]"	990014438	D 2665; DD 2665	
+"Dibdin, Charles$d1745-1814$0164414"	"The Irish wedding [London, author]"	990014147	D 2369; DD 2369	
+"Dibdin, Charles$d1745-1814$0164414"	"Negro philosophy [London, author]"	990014160	D 2382; DD 2382	
+"Dibdin, Charles$d1745-1814$0164414"	"Pope Joan [London, author]"	990014162	D 2384; DD 2384	
+"Dibdin, Charles$d1745-1814$0164414"	"The rustic Orpheus [London, author]"	990014163	D 2385; DD 2385	
+"Dibdin, Charles$d1745-1814$0164414"	"Ben Backstay [London, author]"	990014281	D 2507; DD 2507	
+"Dibdin, Charles$d1745-1814$0164414"	"The sailor's return [London, author]"	990014389	D 2616; DD 2616	
+"Dibdin, Charles$d1745-1814$0164414"	"The compact of freedom [London, author]"	990014414	D 2641; DD 2641	
+"Dibdin, Charles$d1745-1814$0164414"	"The camp of pleasure [London, author]"	990014536	D 2763; DD 2763	
+"Dibdin, Charles$d1745-1814$0164414"	"Family likeness [London, author]"	990014546	D 2773; DD 2773	
+"Dibdin, Charles$d1745-1814$0164414"	"Happy Jerry [London, author]"	990014547	D 2774; DD 2774	
+"Dibdin, Charles$d1745-1814$0164414"	"Jack in his element [London, author]"	990014551	D 2778; DD 2778	
+"Dibdin, Charles$d1745-1814$0164414"	"The joys of the country [London, author]"	990014553	D 2780; DD 2780	
+"Dibdin, Charles$d1745-1814$0164414"	"Nautical philosophy [London, author]"	990014561	D 2788; DD 2788	
+"Dibdin, Charles$d1745-1814$0164414"	"Sound argument [London, author]"	990014584	D 2811; DD 2811	
+"Dibdin, Charles$d1745-1814$0164414"	"Every inch a sailor ... sung by Mr. Incledon ... at Vauxhall [London, author]"	990014285	D 2511; DD 2511	
+"Dibdin, Charles$d1745-1814$0164414"	"An Irish drinking song [London, author]"	990014301	D 2527; DD 2527	
+"Dibdin, Charles$d1745-1814$0164414"	"Mock Italian song [London, author]"	990014307	D 2533; DD 2533	
+"Dibdin, Charles$d1745-1814$0164414"	"Conjugal comfort [London, author]"	990014365	D 2592; DD 2592	
+"Dibdin, Charles$d1745-1814$0164414"	"Nothing but drunk [London, author]"	990014377	D 2604; DD 2604	
+"Dibdin, Charles$d1745-1814$0164414"	"Moggy [London, author]"	990014428	D 2655; DD 2655	
+"Dibdin, Charles$d1745-1814$0164414"	"Neighbour Sly [London, author]"	990014429	D 2656; DD 2656	
+"Dibdin, Charles$d1745-1814$0164414"	"Ninety-three [London, author]"	990014431	D 2658; DD 2658	
+"Dibdin, Charles$d1745-1814$0164414"	"The patent coffin [London, author]"	990014526	D 2753; DD 2753	
+"Dibdin, Charles$d1745-1814$0164414"	"The shipwrecked tar [London, author]"	990014528	D 2755; DD 2755	
+"Dibdin, Charles$d1745-1814$0164414"	"The taylor's daughter [London, author]"	990014529	D 2756; DD 2756	
+"Dibdin, Charles$d1745-1814$0164414"	"Celia [London, author]"	990014537	D 2764; DD 2764	
+"Dibdin, Charles$d1745-1814$0164414"	"Death or victory [London, author]"	990014543	D 2770; DD 2770	
+"Dibdin, Charles$d1745-1814$0164414"	"The dustman [London, author]"	990014545	D 2772; DD 2772	
+"Dibdin, Charles$d1745-1814$0164414"	"The Indian death song [London, author]"	990014549	D 2776; DD 2776	
+"Dibdin, Charles$d1745-1814$0164414"	"Little Ben [London, author]"	990014554	D 2781; DD 2781	
+"Dibdin, Charles$d1745-1814$0164414"	"The negro and his banjer [London, author]"	990014562	D 2789; DD 2789	
+"Dibdin, Charles$d1745-1814$0164414"	"The Olympian hunt [London, author]"	990014563	D 2790; DD 2790	
+"Dibdin, Charles$d1745-1814$0164414"	"The pleasures of the chase [London, author]"	990014568	D 2795; DD 2795	
+"Dibdin, Charles$d1745-1814$0164414"	"The shipwreck [London, author]"	990014574	D 2801; DD 2801	
+"Dibdin, Charles$d1745-1814$0164414"	"The soldier's adieu [London, author]"	990014578	D 2805; DD 2805	
+"Chilcot, Thomas$d1707c-1766$030014395"	"Six concertos [C, A, F, D, G, C] for the harpsichord, accompanied with four violins, viola, violoncello, and basso-ripieno [London, John Johnson (engraved by William Clark)]"	990009505	C 2053; CC 2053	
+"Chetham, John$d1688-1746$030012138"	"... the ninth edition with large additions [Leeds, Griffith White]"	990009494	C 2038	
+"Klöffler, Johann Friedrich$d1725-1790$023415"	"A concerto [D] for the harpsichord or piano forte with accompaniments for two violins, two horns, two german flutes or oboes, a tenor & violoncello [London, William Napier]"	990033742	K 929	
+"Kočvara, František$d1750c-1791$030001735"	"The battle of Prague. A favourite sonata for the piano forte or harpsichord with accompaniments for a violin, violoncello ... opera 13 [Edinburgh, London, Corri & Co.]"	990033903	K 1095	
+"Koželuh, Leopold$d1747-1818$035531"	"Three grand sonatas or trios for the harpsichord, or piano forte, violin and violoncello ... op. 15 or 21 [London, J. Bland]"	990034295	K 1495	
+"Nares, James$d1715-1783$030004036"	"Twenty anthems in score for 1. 2. 3. 4. and 5. voices. [London, author (T. Bennett)]"	990046624	N 55	
+"Nenna, Pomponio$d1556-1618c$030013880"	"... quarta impressione. [Venezia, stampa del Gardano; appresso Bartolomeo Magni]"	990046951	N 396; NN 396	
+"Nenna, Pomponio$d1556-1618c$030013880"	"... terza impressione. [Venezia, stampa del Gardano; appresso Bartolomeo Magni]"	990046940	N 385; NN 385	
+"Nenna, Pomponio$d1556-1618c$030013880"	"... quarta impressione. [Venezia, stampa del Gardano; appresso Bartolomeo Magni]"	990046946	N 391	
+"Philidor, François-André$d1726-1795$030002505"	"Le bûcheron, ou Les trois souhaits. Comédie en un acte, mêlée d'ariettes représentée à Versailles ... le mardi 15 mars 1763. [Paris, de La Chevardière (imprimé par Montulay)]"	990049334	P 1812; PP 1812	
+"Philidor, François-André$d1726-1795$030002505"	"Le jardinier de Sidon. Comédie en deux actes ... représentée sur le théâtre de la Comédie italienne (1768). [Paris, de La Chevardière, aux adresses ordinaires; Lyon, Castaud]"	990049355	P 1844; PP 1844	
+"Pleyel, Ignace$d1757-1831$024761"	"Six quatuors pour deux violons, alto et violoncelle ... œuvre 5 [Offenbach, Johann André, aux adresses ordinaires]"	990050609	P 3184; PP 3184	
+"Pleyel, Ignace$d1757-1831$024761"	"Three quartetts dedicated to His Majesty the King of Prussia ... book 3 [London, Preston]"	990050684	P 3260; PP 3260	
+"Pleyel, Ignace$d1757-1831$024761"	"Trois quatuors à deux violons, taille et violoncelle dédiés à Sa Majesté le Roi de Prusse ... œuvre X [Amsterdam, Berlin, Johann Julius Hummel]"	990050650	P 3226; PP 3226	
+"Pleyel, Ignace$d1757-1831$024761"	"Three quartetts dedicated to His Majesty the King of Prussia ... book 4 [London, Preston]"	990050708	P 3284; PP 3284	
+"Pleyel, Ignace$d1757-1831$024761"	"&mdksh; Trois quatuors à deux violons, taille et violoncelle dédiés à Sa Majesté le Roi de Prusse ... œuvre IX [Amsterdam, Berlin, Johann Julius Hummel]"	990050624	P 3199; PP 3199	
+"Pleyel, Ignace$d1757-1831$024761"	"Trois quatuors à deux violons, taille et violoncelle dédiés à Sa Majesté le Roi de Prusse ... œuvre XI [Amsterdam, Berlin, Johann Julius Hummel]"	990050674	P 3250; PP 3250	
+"Pleyel, Ignace$d1757-1831$024761"	"Six quartetts for two violins, a tenor and violoncello ... op. 1 [London, Preston]"	990050550	P 3125	
+"Pleyel, Ignace$d1757-1831$024761"	"Six quartetts à deux violons, alte & basse ... œuvre 4, dédiés à Monsieur le Baron de Haysdorf, Chambellan de S. A. S. Msgr. le Duc de Modene, Chef du grand Bureau des Postes Impériales d'Augsbourg [Speyer, Bossler]"	990050593	P 3168; PP 3168	
+"Pleyel, Ignace$d1757-1831$024761"	"Six quartetts for two violins, tenor and violoncello dedicated to His Royal Highness the Prince of Wales ... ([Kopftitel:] Pleyels 7th sett) [London, Preston]"	990050730	P 3306	
+"Pleyel, Ignace$d1757-1831$024761"	"Three quartetts dedicated to His Majesty the King of Prussia ... book 1 [London, Preston]"	990050635	P 3210; PP 3210	
+"Pleyel, Ignace$d1757-1831$024761"	"Three quartetts dedicated to His Majesty the King of Prussia ... book 2 [London, Preston]"	990050660	P 3236	
+"Philidor, François-André$d1726-1795$030002505"	"Thémistocle. Tragédie lyrique en trois actes ... représentée ... le 13 8|b|r|e 1785. [Paris, auteur; aux adresses ordinaires (gravée par Huguet)]"	990049401	P 1906; PP 1906	
+"Piccinni, Niccolò$d1728-1800$017950"	"Iphigénie en Tauride. Tragédie lyrique en quatre actes, représentée pour la première fois ... le mardi 23 janvier 1781. [Paris, ""chez le Suisse de l'Hôtel de Noailles""; aux adresses ordinaires; Lyon, Castaud (gravée par le S|r Huguet, imprimée par Basset)]"	990049615	P 2150; PP 2150	
+"Piccinni, Niccolò$d1728-1800$017950"	"Pénélope. Tragédie lyrique en trois actes, représentée pour la première fois ... le 2 novembre 1785. [Paris, ""chez le Suisse de l'Hôtel de Noailles""; aux adresses ordinaires (gravée par Huguet)]"	990049622	P 2159; PP 2159	
+"Piccinni, Niccolò$d1728-1800$017950"	"Roland. Opéra en trois actes, représenté pour la première fois ... le mardi 27 janvier 1778. [Paris, Des Lauriers]"	990049626	P 2163; PP 2163	
+"Piccinni, Niccolò$d1728-1800$017950"	"[title page, f. 1r:] ATYS | TRAGÉDIE LYRIQUE | en Trois Actes | Représentée pour la première fois par l'Académie | Royale de Musique, le Mardi 22 Février 1780. | Paroles de QUINAULT. | Musique de M. PICCINNI. | Gravé et Corrigé par Huguet Musicien de la Comédie Italienne | en 1781. | Prix 24|l|t. [Livre] | A PARIS | Chez {le Suisse de l'Hotel de Noailles rue Saint Honoré. | De la Chevardiere, rue du Roule. | A Lyon chez Castaud. | Et aux adresses ordinaires. | AVEC PRIVILÉGE DU ROI. | [right side:] Imprimé par Basset."	990049533	P 2051; PP 2051	
+"Piccinni, Niccolò$d1728-1800$017950"	"La buona figliuola. Opéra bouffon ... arrangé par M. Baccelli, représenté pour la première fois ... le 10 juin 1771. [Paris, Houbaut (gravée par le S|r Huguet)]"	990049548	P 2066; PP 2066	
+"Piccinni, Niccolò$d1728-1800$017950"	"Overture ... [hpcd]. [London, Robert Falkener]"	990049560	P 2078	
+"Piccinni, Niccolò$d1728-1800$017950"	"Le faux lord. Comédie en deux actes, représentée ... le 6 décembre 1783. [Paris, Brunet; ""chez le Suisse de l'Hôtel de Noailles""; aux adresses ordinaires (gravée par Huguet, imprimée par Basset)]"	990049603	P 2134; PP 2134	
+"Piccinni, Niccolò$d1728-1800$017950"	"[title page, f. 1r:] DIDON | Tragédie Lyrique | en trois Actes | Representée à Fontainebleau devant leurs Majestés | le 16. Octobre 1783. | Et pour la premiere fois sur le Théatre de l'Académie Royale de Musique | Le Lundy 1.|e|r Décembre de la même Année. | DEDIÈE | A LA REINE | Mis en Musique | PAR M. PICCINI | Prix 24|l|t. [Livre] | Gravée par Huguet Musicien de la Comédie Italienne. | AParis Rue S|t. Honoré, Chez le Suisse de l'Hotel de Noailles. | Et aux adresses ordinaires de Musique | A Lyon chez Castaud place de la Comédie. | A. P. D. R. [right side:] Imprimé par Basset"	990049579	P 2101; PP 2101	
+"Monsigny, Pierre-Alexandre$d1729-1817$030002240"	[title page:] LE CADI | DUPÉ | OPERA BOUFFON | En un Acte | Representé sur le Théatre de l'Opera Comique | Mis en Musique | Par M.|r *** | Prix en blanc 12.|t|t | Y compris les parties gravées separément pour faciliter l'exécution. A PARIS | Chez {M.|r De La Chevardiere rue de la Roule a la Croix d'Or. | Et Aux Adresses Ordinaires. | A LYON | [chez] M.|r|s Les Freres Le Goux Place des Cordeliers. | AVEC PRIVILÉGE DU ROY. | Gravé | par P.L. | Charpentier | 1761. | Imprimé par Bernard.	990041759	M 3159; MM 3159	
+"Monsigny, Pierre-Alexandre$d1729-1817$030002240"	"Le Roy et le fermier. Comédie en trois actes [Paris, Hérissant (Hue)]"	990041859	M 3289; MM 3289	
+"Monsigny, Pierre-Alexandre$d1729-1817$jAscertained$030002240"	"[title page:] ON NE S'AVISE | JAMAIS DE TOUT | Opera Bouffon | EN UN ACTE, | Mis en Musique | PAR MONSIEUR *** | Représentés à Versailles, devant leurs | Majestés, Le Mercredy 2 Decembre 1761. | Prix en blanc 12.|f|f | Gravé par Le s.|r Hue | A PARIS | Chez Le S.|r Hue Graveur Rue S.|t Honoré attenant le | Palais Royal vis-a-vis le Caffé du S.|r Dupuis au 2.|e | Et aux adresses ordinaires de Musique. | Avec Approbation, | ET PRIVILEGE DU ROY. | [at bottom:] Imrprimée par  Monthulay"	990041840	M 3264; MM 3264	
+"Monsigny, Pierre-Alexandre$d1729-1817$030002240"	"Partition de Félix, ou L'enfant trouvé. Comédie en trois actes en vers, et en prose [Paris, Des Lauriers]"	990041818	M 3238; MM 3238	
+"Millico, Giuseppe$d1737-1802$030002218"	"A second sett of six songs with an accompanyment for the great or small harp, forte piano or harpsichord [London, Welcker]"	990041476	M 2818	
+"Monsigny, Pierre-Alexandre$d1729-1817$030002240"	"La belle Arsène. Comédie-féerie, en quatre actes ... représentée ... le 6 novembre 1773, et ... le 14 aoust 1775, et ... le 4 novembre 1775 [Paris, Des Lauriers]"	990041730	M 3112; MM 3112	
+"Koželuh, Leopold$d1747-1818$035531"	"Partie XIII. contenante trois sonates [Es, C, f] pour le clavecin ou piano forte ... œuv. 38 [London, G. Goulding]"	990034557	K 1763	
+"Koželuh, Leopold$d1747-1818$035531"	"Kozeluch's La chasse, pour le harpsichord or piano forte, op. V [London, J. Bland]"	990034569	K 1775	
+"Kreutzer, Rodolphe$d1766-1831$053845"	"The favorite overture ... arranged as a duett for two performers on the piano forte, by T. Haigh [London, Lewis Lavenu]"	990034886	K 2101	
+"Philidor, François-André$d1726-1795$030002505"	"The maid of the mill. A comick opera ... for the voice, harpsichord or violin. [London, Robert Bremner]"	990049420	P 1932; PP 1932	
+"Paisiello, Giovanni$d1740-1816$01874"	"Le barbier de Séville. Opéra comique en quatre actes ... remis en français ... et parodié ... par Mr. Framery. [Paris, Le Duc]"	990047826	P 194; PP 194	
+"Paisiello, Giovanni$d1740-1816$01874"	"La pazza per amore ou La folle par amour. [Paris, Pleyel & fils]"	990048009	P 394; PP 394	
+"Paisiello, Giovanni$d1740-1816$01874"	"... en deux actes ... [Paris, Cousineau père et fils (gravé par Magnian)]"	990048097	P 483; PP 483	
+"Philidor, François-André$d1726-1795$030002505"	"[without title] [Paris, La Chevardière; aux adresses ordinaires (gravé par le S|r Hue, imprimé par le S|r Bernard); Paris, La Chevardière; aux adresses ordinaires (gravé par le S|r Hue, imprimé par le S|r Bernard)]"	990049404	P 1909; PP 1909	
+"Pecci, Tomaso$d1576-1604$030014476"	"... terza impressione. [Venezia, Bartolomeo Magni]"	990048700	P 1117	
+"Pepusch, Johann Christoph$d1667-1752$030002471"	"Songs in the new opera call'd Thomyris ... (57 f.) [London, John Walsh & Peter Randall]"	990048796	P 1227	
+"Pergolesi, Giovanni Battista$d1710-1736$030002483"	"Salve Regina, a due voci. [London, Robert Bremner]"	990048939	P 1388; PP 1388	
+"Philidor, François-André$d1726-1795$030002505"	"[...] [Paris, de La Chevardière; aux adresses ordinaires (gravé par le S|r Hue, imprimé par Montulay)]"	990049394	P 1890; PP 1890	
+"Philidor, François-André$d1726-1795$030002505"	"L'amant déguisé, ou Le jardinier supposé. Comédie en un acte, mêlée d'ariettes ... représentée ... le 2 septembre 1769. [Paris, de La Chevardière; Lyon, Castaud]"	990049313	P 1786; PP 1786	
+"Philidor, François-André$d1726-1795$030002505"	"Le maréchal ferrant. Opéra comique en deux actes, représenté sur le théâtre de l'Opéra comique et de la Comédie italienne. [Paris, Le Duc]"	990049367	P 1856; PP 1856	
+"Mozart, Wolfgang Amadeus$d1756-1791$0115324"	"Sonata IX, from op. 19, with violin and violoncello accompaniments, ad libitum [London, Monzani & Cimador]"	990045436	M 6907	
+"Oswald, James$d1710-1769$030007855"	"The Caledonian pocket companion, containing fifty of the most favourite Scotch tunes, several of them with variations, all set for the german flute [6 vol.] [London, J. Simpson]"	990047564	O 256; OO 256	
+"Nenna, Pomponio$d1556-1618c$030013880"	"Madrigali a cinque voci, quinto libro, novamente stampati."	990046942	N 387	
+"Nenna, Pomponio$d1556-1618c$030013880"	ALTO | DI POMPONIO | NENNA DA BARI | CAVALIER DI CESARE | IL PRIMO LIBRO | De Madrigali à Cinque voci. | Nouamente dati in luce. | [printer's mark] | STAMPA DEL GARDANO | IN VENETIA M DC XVII. | Appresso Bartholomeo Magni.	990046938	N 383; NN 383;	B/I$c1617 18
+"Nenna, Pomponio$d1556-1618c$030013880"	"CANTO. | DI | POMPONIO NENNA | CAVALIER | DI CESARE. | L'OTTAVO LIBRO | DE MADRIGALI | A CINQVE | Nouamente con molta diligenza dati in luce. | DA | FERDINANDO ARCHILEI | DOTTOR DI LEGGE | [printer's mark] | IN ROMA, Appresso Gio. Battista Robletti. 1618. | CON LICENZA DE' SVPERIORI."	990046952	N 397;	B/I$c1618 11
+"Nicolai, Valentin$d1743c-1798c$030002353"	"Six sonatas [C, Es, g, Es, G, F] for the piano-forte or harpsichord with an accompaniment for a violin ... opera III. [London, John Welcker]"	990047164	N 616; NN 616	
+"Rousseau, Jean-Jacques$d1712-1778$067075"	"Fragmens de Daphnis et Chloé, composés du premier acte, de l'esquisse du prologue et de différens morceaux préparés pour le second acte et le divertissement. [Paris, Esprit (Richomme)]"	990056204	R 2897; RR 2897	
+"Rousseau, Jean-Jacques$d1712-1778$067075"	"... avec l'ariette ajoutée par M|r Philidor. [Paris, Le Clerc (imprimé par Courbet)]"	990056209	R 2902; RR 2902	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[title page, f. a1r:] Sabbahtische | Seelenlust/ | Daß ist: | Lehr= Trost= Vermahnung= | und Warnungsreiche Lieder über | alle Sontägliche Evangelien deß | gantzen Jahres/ | Welche / so wol auf bekante / und in rei= | nen Evangelischen Kirchen gebräuchliche/ | alß auch gantz Neue/ | Vom Herren Thoma Sellio/ bei der hoch= | löblichen Statt Hamburg bestaltem Cantore/ wolge= | setzete Melodeien können gesungen und ge= | spielet werden/ | Gott zu Ehren und Christlichen | Hertzen zu nützlicher Erbauung abgefas= | set und herausgegeben | von | Johann Rist. | [round mark of J. & H. Stern, inside monogram, around: MANVS DOMINI PROTEGAT NOS] | Lüneburg/ | Gedrukt und verlegt durch die Sternen. | ANNO M DC LI."	990059164	S 2761; SS 2761	
+"Shepherd, William$d1760c-1812$030014759"	"A second collection of strathspey reels &c. for the piano forte, violin & violoncello. [Edinburgh, Gow & Shepherd]"	990059301	S 2918; SS 2918	
+"Shield, William$d1748-1829$030004470"	"The poor soldier. A comic opera ... selected and compos'd by William Shield. [London, John Bland]"	990059487	S 3108; SS 3108	
+"Shield, William$d1748-1829$030004470"	"The plough boy. Song, sung by Mr. Blanchard. [London, Longman & Broderip]"	990059348	S 2966; SS 2966	
+"Serré de Rieux, Jean de$d17/18$030012196"	"Les dons des enfans de Latone: La musique et la chasse du cerf, poëmes dédiés au Roy. [Paris, Pierre Prault; Jean Dessaint; Jacques Guérin]"	990059230	S 2836; SS 2836	
+"Purcell, Henry$d1659-1695$033668"	"The music of the masque in Oedipus. [[London], [Goodison]]"	990053167	P 5921; PP 5921	
+"Rameau, Jean-Philippe$d1683-1764$0169730"	"... refondu, et remis au théâtre au mois de decembre 1754. [Paris, auteur (gravée par le S|r Hue, imprimée par Monthulay)]"	990053551	R 127; RR 127	
+"Salieri, Antonio$d1750-1825$076967"	Les Danaïdes. Tragédie lirique en cinq actes ... représentée pour la première fois par l'Académie royale (nationale [bei No. 16]) de musique le lundi 19 avril 1784. | A PARIS. | Chez DES LAURIERS [...]	990057011	S 491; SS 491	
+"Scarlatti, Domenico$d1685-1757$030002849"	"Thirty sonatas, for the harpsichord or piano-forte; publish'd (by permission) from manuscripts in the possession of Lord Viscount Fitzwilliam. [London, Robert Birchall]"	990057670	S 1213	
+"Scarlatti, Domenico$d1685-1757$030002849"	"Forty two suits of lessons for the harpsichord. [London, John Johnson]"	990057649	S 1191; SS 1191	
+"Stamitz, Anton$d1750-1809a$030003031"	"Six quatuors concertants, à deux violons, alto et basse ... œuvre première. [Den Haag, Burchard Hummel & fils]"	990060700	S 4376; SS 4376	
+"Stamitz, Anton$d1750-1809a$030003031"	"Six duo, pour un violon et un alto ... œuvre X. [Paris, La Chevardière]"	990060718	S 4393; SS 4393	
+"Stamitz, Anton$d1750-1809a$030003031"	"Six duo concertans [D, G, C, B, G, F] pour violon et alto. [Paris, Mmes Le Menu et Boyer]"	990060724	S 4397; SS 4397	
+"Rameau, Jean-Philippe$d1683-1764$0169730"	"Dardanus. Tragedie ... représentée pour la premiere fois par l'Académie royale de musique, le dix-neuf octobre 1739. [Paris, auteur; Vve Boivin; Le Clair; Mme Monet]"	990053556	R 133; RR 133	
+"Rameau, Jean-Philippe$d1683-1764$0169730"	"[title page:] ACANTE ET CÈPHISE | OU | LA SYMPATHIE. | PASTORALE HÉROÏQUE | A L'OCCASION DE LA NAISSANCE DE MONSEIGNEUR LE DUC DE BOURGOGNE, | MISE EN MUSIQUE | PAR | M. RAMEAU, | Et représentée pour la premiere fois par l'ACADÉMIE ROYALE DE MUSIQUE, | le Jeudi 18 Novembre 1751. | PRIX | Treize livres en blanc & quinze livres rélié. | A PARIS, | Chez {L'AUTEUR, rue de Richelieu, vis-à-vis la Bibliothêque du Roi. | La Veuve BOIVIN, Marchande, rue Saint Honoré, à la Régle d'Or. | M. LECLERC, Marchand, rue du Roule, à la Croix d'Or. | Avec Approbation & Privilége du Roi."	990053547	R 122; RR 122	
+"Rameau, Jean-Philippe$d1683-1764$0169730"	"LES FÊTES D'HÉBÉ | OU | LES TALENTS LIRIQUES, | BALLET, | REPRÉSENTÉ POUR LA PREMIERE FOIS, | PAR L'ACADEMIE ROYALE DE MUSIQUE, au mois de May 1739. | DÉDIÉ | A S. A. S. MADAME LA DUCHESSE DOUAIRIERE, | PAR M. RAMEAU. | Le prix, en blanc, 12 liv. & 14 liv. relié. [I-CRsp] [A PARIS, | Chez L'AUTEUR, ruë des Bon-Enfans, à l'Hôtel d'Effiat. | [Chez] LA VEUVE BOIVIN, ruë S. Honoré, à la Régle d'Or. | [Chez] M. LE CLAIR, ruë du Roule, à la Croix d'Or. | AVEC APPROBATION ET PRIVILEGE DU ROY.]"	990053561	R 138; RR 138	
+"Rameau, Jean-Philippe$d1683-1764$0169730"	"[caption title, p. 341:] LIVRE TROISIÈME | QUINQUE."	990053593	R 172	
+"Steibelt, Daniel$d1765-1823$0331204"	"Le rappel à l'armée. Fantaisie militaire pour piano-forte, œuv.: 65 [London, George Walker]"	990061654	S 5346	
+"Stamitz, Carl$d1745-1801$0121537"	"Trois sonates [G, A, Es] à violon et viole ... œuvre XII [Nr. 3 = op. 1/6]. [Berlin, Johann Julius Hummel; Amsterdam, au grand magazin de musique]"	990060857	S 4529; SS 4529	
+"Stamitz, Johann$d1717-1757$030003032"	"Six grand orchestra trios [C, A, F, D, B, G] proper for small or great concerts ... opera prima. [London, Robert Bremner]"	990060905	S 4577; SS 4577	
+"Stanley, John$d1712-1786$030004420"	"Six solo's [a, e, G, h, D, D] for a german flute, violin or harpsicord, opera quarto [!] [London, John Johnson]"	990060996	S 4678; SS 4678	
+"Shield, William$d1748-1829$030004470"	"The nunnery. A comic opera ... selected & composed by W. Shield. [London, Longman & Broderip]"	990059474	S 3095	
+"Pleyel, Ignace$d1757-1831$024761"	"Three solos for the flute [London, Broderip & Wilkinson]"	991024812	PP 4365a	
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 32:] Ermunterung die Schrift zu lesen."	1001072985		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 38:] Die Güte Gottes."	1001072990		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 40:] In Krankheit."	1001072992		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 41:] Vom Tode."	1001072993		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 42:] Lied am Geburtstage."	1001072994		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 43:] Versicherung der Gnade Gottes."	1001072995		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 48:] Am Communionstage."	1001073000		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 51:] Die Liebe der Feinde."	1001073529		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 52:] Demuth."	1001073530		
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto I. [right side:] Der 149. Psalm.	1001077532		
+"Pleyel, Ignace$d1757-1831$024761"	"Petits airs et rondos d'une exécution facile pour le clavecin ou le piano-forte avec accompagnement d'un violon, ad-libitum ... livre 11 [Paris, Imbault]"	991024872	PP 4608a	
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 45:] Allgemeines Gebet."	1001072997		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 47:] Weihnachtslied."	1001072999		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 50:] Bußlied."	1001073002		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 56:] Vertraun auf Gottes Vorsehung."	1001073536		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 60:] Die Wachsamkeit."	1001073546		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 34:] Warnung vor der Wollust."	1001072987		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 33:] Trost der Erlösung."	1001072986		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 36:] Abendlied."	1001072988		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 37:] Das natürliche Verderben des Menschen."	1001072989		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 49:] Am neuen Jahre."	1001073001		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 53:] Wider den Uebermuth."	1001073533		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 54:] Wider den Aufschub der Bekehrung."	1001073535		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 59:] Wider den Geiz."	1001073542		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 57:] Beständige Erinnerung des Todes."	1001073538		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 58:] Der Kampf der Tugend."	1001073541		
+"Cherubini, Luigi$d1760-1842$050253"	"Lodoïska Comédie Héroïque En Trois Actes Par le C-en. Fillette-Loraux Représentée pour la premier fois sur le Théâtre de la Rue Feÿdeau le 18 Juil-te. 1791. Mise En Musique Par Le C-en Cherubini. - Paris, Chez H. Nadermann, Editeur, Facteur de Harpe, et autres Instruments de Musique, Rue d'Argenteuil, Butte St. Roche, à Apollon Et aux Asresses Ordinaires. (Gravée par Huguet Musicuen Pensionnaire de la Comédie Italienne)."	991015930	"CC 2028 I,311"	
+"Cherubini, Luigi$d1760-1842$050253"	"Eliza ou le voyage aux glaciers du Mont St. Bernard. Opera en deux actes. Représenté ... 1794 [Paris, imprimerie du conservatoire (gravé par le Roy)]"	991015820	"CC 2028 I,201"	
+"Cherubini, Luigi$d1760-1842$050253"	"Médée, Opéra En III Actes. Paroles d'Hoffmann Musique de Cherubini Représenté Sur le Théâtre de la Faydeau le 23 Ventose l'An 5. 13. Mars 1797 vieux style. - Paris: chez Jmbault M-d. de Musique, Rue Honoré No. 200. entre la Rue des Poulies et la Maison d'Aligre, (Gravé par Huguet, L. Aubert scrp.)"	991015979	"CC 2028 I,359"	
+"Cherubini, Luigi$d1760-1842$050253"	"Anacréon ou l'amour fugitif, opéra ballet en deux actes [Paris, Méhul Magasin de musique dirigé par MM. Chérubini, Kreutzer, Rode, Isouard et Boieldieu; Lyon, Garnier]"	991015699	"CC 2028 I,79"	
+"Cherubini, Luigi$d1760-1842$050253"	"Démophoon, tragédie lyrique en trois actes. Représentée pour la première fois ... 1788 [Paris, Le Suisse (gravée par Huguet)]"	991015732	"CC 2028 I,112"	
+"Cherubini, Luigi$d1760-1842$050253"	"... [Paris, Guillaume Gaveaux aîné]"	991015744	"CC 2028 I,124"	
+"Gelinek, Josef$d1758-1825$0477310"	"VIII Variations [F] pour le clavecin ou piano-forte sur un air russe ... No. 22 [London, Robert Birchall]"	991018884	GG 985a	
+"Gerstenberg, Johann Daniel$d1758-1841$030003443"	"Pesennik, ili polnoe sobranie starych i novych rossijskich narodnych i protčich pesen dlja forte-piano. (1.-2. Teil) [St. Petersburg, Gerstenberg & Dittmar]"	991019033	GG 1653a	
+"Cherubini, Luigi$d1760-1842$050253"	"Messe à trois voix et choeurs avec accompagnemens [Paris, Magasin de musique]"	991015620	"CC 2028 I,1"	
+"Lusse, Charles de$d1720c-1774p$030006393"	"Recueil de romances historiques, tendres et burlesques, tant anciennes que modernes avec les airs notés par M. D. L. [vol. I, vol. II nicht von Lusse] [s.l., s.n.]"	992006220	L 3093; LL 3093	
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto II.	1001081289		
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto III.	1001081290		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 7:] Prüfung am Abend."	1001072964		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 11:] Der thätige Glaube."	1001072968		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 13:] Um Ergebung in den göttlichen Willen."	1001072970		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 18:] Trost des ewigen Lebens."	1001072974		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 22:] Das Gebet."	1001072978		
+"Aird, James$d1750-1795$030016993"	"Vol. I-V [Glasgow, J. McFadyen]"	991012435	"AA 549 I,3"	
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 24:] Osterlied."	1001072979		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 25:] Passionslied."	1001072980		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 26:] Trost eines schwermüthigen Christen."	1001072981		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 4:] Vom Worte Gottes."	1001072961		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 8:] Danklied."	1001072965		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 14:] Passionslied."	1001072971		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 20:] Die Liebe des Nächsten."	1001072976		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 28:] Betrachtung des Todes."	1001072982		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 29:] Preis des Schöpfers."	1001072983		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 30:] Von der Quelle der guten Werte."	1001072984		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 39:] Der Weg des Frommen."	1001072991		
+"Fiorillo, Federigo$d1755-1823p$030001073"	"Se al volto mai ti senti; a favorite trio from Mozart's opera of La clemenza di Tito, arranged with ten variations for the piano forte. With an accompaniment for the flute (obligato) [London, Robert Birchall]"	991018384	FF 903a	
+"Kelly, Thomas Alexander Erskine, 6th Earl of$d1732-1781$030014369"	"Two sonatas for the piano forte or harpsichord with accompaniment for a violin or flute oblegato composed by Henry David Erskine aged 14 [Edinburgh, s. n. (G. Walker sculp.)]"	991018019	EE 780a	
+"Boccherini, Luigi$d1743-1805$030000391"	"Six sonates [C, e, Es, D, B, g] en trio pour le clavecin ou pianoforte avec accompagnement de violon et basse ... second livre. [London, J. Dale]"	991014402	BB 3104a	
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 44:] Gelassenheit."	1001072996		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 46:] Osterlied."	1001072998		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 5:] Weihnachtslied."	1001072962		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 9:] Bitten."	1001072966		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 16:] Morgengesang."	1001072972		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 6:] Geduld."	1001072963		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 17:] Gottes Macht und Vorsehung."	1001072973		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 19:] Die Ehre Gottes aus der Natur."	1001072975		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 3:] Das Glück eines guten Gewissens."	1001072960		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 10:] Osterlied."	1001072967		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 12:] Der Schutz der Kirche."	1001072969		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 21:] Auf die Himmelfahrt des Erlösers."	1001072977		
+"Bach, Johann Christian$d1735-1782$02530"	"Four sonatas and two duetts [C, A, D, B, G, C] for the piano forte or harpsichord with accompaniments ... opera XV [London, Longman & Broderip]"	991013375	BB 345a	
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto V.	1001081295		
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto IV.	1001081294		
+"Bach, Johann Sebastian$d1685-1750$jAscertained$02539"	[heading:] [at centre:] Motetto VI.	1001081297		
+"Purcell, Henry$d1659-1695$033668"	"The songs, airs, duetts and chorusses in the masque of King Arthur ... compos'd by Purcel & Dr. Arne. [[London], John Johnston]"	990053149	P 5894; PP 5894	
+"Purcell, Henry$d1659-1695$033668"	"The songs in The Indian queen: as it is now compos'd into an opera. [London, John May; John Hudgbutt (J. Heptinstall)]"	990053145	P 5887	
+"Purcell, Henry$d1659-1695$033668"	"The tempest. [[London], [Goodison]]"	990053181	P 5947; PP 5947	
+"Sacchini, Antonio$d1730-1786$030002777"	"Chimène ou Le Cid. Tragédie lyrique en trois actes, représentée ... le mardy 18 novembre 1783 et pour la première fois sur le théâtre de l'Académie royale de musique le lundi 9 février 1784. [Paris, auteur; Sieber; aux adresses ordinaires de musique (imprimé par Basset)]"	990056682	S 132; SS 132	
+"Rousseau, Jean-Jacques$d1712-1778$067075"	"Les consolations des misères de ma vie, ou Recueil d'airs, romances et duos. [Paris, De Roullède; La Chevardière; Esprit (C. Benazech / Richomme)]"	990056239	R 2938; RR 2938	
+"Paisiello, Giovanni$d1740-1816$01874"	"Chi mi mostra [Arietta]. [London, Longman & Broderip]"	990047935	P 315; PP 315	
+"Purcell, Henry$d1659-1695$033668"	"The Indian queen [opera]. [[London], [B. Goodison]]"	990053144	P 5885; PP 5885	
+"Purcell, Henry$d1659-1695$033668"	"Odes and choral songs [Enthält: 1. The song performed at the Yorkshire Feast; 2. Commemoration ode performed ... in Dublin; 3. Ode on the Queen's birthday. Einige Ausgaben auch mit Werken anderer Komponisten]. [[London], [Goodison]]"	990053225	P 5997; PP 5997	
+"Koželuh, Leopold$d1747-1818$035531"	"Three sonatas for the harpsichord or piano-forte with accompaniments for a german flute or violin, & violoncello ... op. 34 [London, J. Bland]"	990034343	K 1547; KK 1547	
+"Mozart, Wolfgang Amadeus$d1756-1791$jAscertained$0115324"	[title page:] La Clemenza di Tito. Opera seria del Sign: W: A: Mozart aggiustata per il Piano Forte di A: E: Müller.	990043659	M 5111; MM 5111	
+"Lully, Jean-Baptiste$d1632-1687$0132446"	"... représentée par l'Académie royale de musique, en l'an 1686, & remise au théâtre en 1724, nouvelle édition, œuvre XVIII [Paris, Jean-Baptiste-Christophe Ballard]"	990038590	L 2958; LL 2958	
+"Lavaux, Nicolas$d18.sc$030013598"	"Six sonates à deux flûtes traversières et toutes sortes d'instrumens égaux ... œuvre I|e|r [Paris, Mme Boivin; Mlle Monnet]"	990036915	L 1132	
+"Lully, Jean-Baptiste$d1632-1687$0132446"	"... seconde édition [Paris, s.n. (gravée par H. d. Baussen)]"	990038594	L 2962; LL 2962	
+"Lully, Jean-Baptiste$d1632-1687$0132446"	"PERSÉE, | TRAGEDIE | MISE | EN MVSIQVE | Par Monsieur de Lully, Escuyer, Conseiller | Secretaire du Roy, Maison, Couronne de | France & de ses Finances, & Sur-Intendant | de laMusique de Sa Majesté | A PARIS, | Par CHRISTOPHE BALLARD, seul Imprimeur du Roy pour la Musique, | ruë Saint Jean de Beauvais, au Mont-Parnasse. | ET SE VEND | A la Porte de l'Academie Royale de Musique, ruë Saint Honoré. | M. DC. LXXXII. | AVEC PRIVILEGE DE SA MAJESTÉ."	990038621	L 2992; LL 2992	
+"Lully, Jean-Baptiste$d1632-1687$0132446"	"ACHILLE | ET POLIXENE, | TRAGEDIE. | MISE EN MUSIQUE. | Le premier Acte, | Par Feu MONSIEUR DE LULLY, | Le Prologue, & les quatre autres Actes, | Par MONSIEUR COLLASSE, | Maître de la Chapelle du Roi. | Sur la Copie de Paris | A AMSTERDAM, | Chez ANTOINE POINTEL, dans le Kalver-Straat, vis à vis la Chapelle, au Rosier. | Et se trouve, | Chez HENRI DESBORDES, Marchand Libraire, dans le Kalver-Straat. | M.DC.LXXXVIII. [D-Mbs]"	990038564	L 2931; LL 2931;	A/I$cC 3384; CC 3384
+"Lully, Jean-Baptiste$d1632-1687$0132446"	"... représentée pour la première fois par l'Académie royale de musique, le troisième jour de février 1680, troisième édition, de cinq manières différentes de partition générale [Paris, Christophe Ballard]"	990038646	L 3017; LL 3017	
+"Lully, Jean-Baptiste$d1632-1687$0132446"	"... seconde édition [Paris, s.n. (gravée par H. de Baussen)]"	990038657	L 3028; LL 3028	
+"Lully, Jean-Baptiste$d1632-1687$0132446"	"Acis et Galatée. Pastorale héroïque [Paris, Christophe Ballard]"	990038565	L 2932; LL 2932	
+"Lully, Jean-Baptiste$d1632-1687$0132446"	"Phaëton. Tragédie [Paris, Christophe Ballard]"	990038631	L 3002; LL 3002	
+"Lully, Jean-Baptiste$d1632-1687$0132446"	"... seconde édition [Paris, s.n. (gravée par H. de Baussen)]"	990038632	L 3003; LL 3003	
+"Loeillet, Jean-Baptiste$d1688-1720c$030011987"	"Sonatas or solos for a flute with a through bass for the harpsicord or bass violin ... parte prima [London, J. Walsh & J. Hare]"	990038363	L 2713	
+"Lemoyne, Jean Baptiste$d1751-1796$030001924"	"Les prétendus. Comédie lirique, représentée pour la première fois par l'Académie royale de musique le mardi 2 juin 1789 [Paris, auteur (gravée par Huguet)]"	990037678	L 1915; LL 1915	
+"Le Sueur, Jean-François$d1760-1837$096260"	"Télémaque dans l'isle de Calypso, ou Le triomphe de la sagesse. Tragédie lyrique en trois actes, représenté pour la première fois sur le théâtre Faydeau le 11 mai 1796 (vieux style), en floréal année 4|e [Paris, H. Naderman (gravé par Huguet)]"	990037901	L 2149; LL 2149	
+"Lidl, Andreas$d1789a+$030009502"	"Six duettos [D, B, C, F, G, d] for the violin and tenor, with a separate part for the violoncello ... opera 3|d [London, author]"	990038037	L 2372	
+"Locatelli, Pietro Antonio$d1695-1764$030001978"	"L'arte del violino. XII Concerti cioe, violino solo, con XXIV capricci ad libitum ... violino primo, violino secondo, alto, violoncello solo, e basso ... opera terza [Amsterdam, Michel-Charles Le Cène]"	990038257	L 2605; LL 2605	
+"Locatelli, Pietro Antonio$d1695-1764$030001978"	"VI Sonatas for two german flutes or two violins with a thorough bass for the harpsicord or violoncello ... opera terza [Nachdruck der authentischen Ausgabe Opus V] [London, J. Walsh]"	990038264	L 2612; LL 2612	
+"Loeillet, Jean-Baptiste$d1688-1720c$030011987"	"XII Sonatas or solos for a flute with a thorough bass for the harpsicord or bass violin ... opera terza [London, J. Walsh & J. Hare]"	990038368	L 2718	
+"Linley, Thomas$d1733-1795$030004466"	"The gentle shepherd. A pastoral ode ... for the german flute or violin [London, Samuel, Ann & Peter Thompson]"	990038166	L 2508; LL 2508	
+"Linley, Thomas$d1733-1795$030004466"	"In my pleasant native plains. A favourite song [London, Samuel, Ann & Peter Thompson]"	990038116	L 2453	
+"Lampugnani, Giovanni Battista$d1708-1788$030001863"	"Six sonatas [G, A, B, A, D, A] for two violins and a thorough bass [London, Charles & Samuel Thompson]"	990036312	L 521	
+"Leclair, Jean-Marie$d1697-1764$030001905"	"Six Sonatas for two Violins ... [ohne Opuszahl] [London, Walsh]"	990037095	L 1315; LL 1315	
+"Le Jeune, Claude$d1528p-1600$030006876"	"... mis en musique à quatre parties [Paris, Robert Ballard]"	990037456	L 1687	
+"Lehmann, Friedrich Adolph von$d1768-1841$0477309"	"[Zuweisung fraglich:] Des Mädchens Klage. Ein Gedicht von Schiller, in Musik gesetzt [v/hpcd] ... von Adolph von Lehmann [Leipzig, Breitkopf & Härtel]"	990037413	L 1644	
+"Mozart, Wolfgang Amadeus$d1756-1791$0115324"	"Les mistères d'Jsis. Opéra en quatre actes. Représenté à Paris au théâtre des arts. Paroles de E. Morel. Arrangé et mis en scène par Lachnith. Musique de W. A. Mozart [Paris, Sieber père]"	990043339	M 4773; MM 4773	
+"Mozart, Wolfgang Amadeus$d1756-1791$0115324"	"Die Zauberflöte, eine grosse Oper in zwey Aufzügen, fürs Clavier oder Pianoforte von W. A. Mozart. Erstes und Zweites Heft [Leipzig, in Commission der Breitkopfischen Musikhandlung]"	990043351	M 4785; MM 4785	
+"Mozart, Wolfgang Amadeus$d1756-1791$0115324"	"Sei quartetti per due violini, viola, e violoncello. Composti e dedicati al Signor Giuseppe Haydn ... opera X [Wien, Artaria & Co.]"	990044646	M 6110; MM 6110	
+"Mozart, Wolfgang Amadeus$d1756-1791$0115324"	"Three quartettos, for two violins, tenor & violoncello ... op. 18 [London, William Forster]"	990044723	M 6187; MM 6187	
+"Mozart, Wolfgang Amadeus$d1756-1791$0115324"	"Quartetto per flauto o violino primo, violino secondo, viola e basso ... [Satz 2 und 3 von KV 285a] [London, Preston]"	990044735	M 6199	
+"Méhul, Etienne-Nicolas$d1763-1817$0101056"	"Joseph en Egypte. Opéra en III actes. Comp. par F. Méhul. Arrangé pour le Pianoforte à quatre mains par F. de Boyneburgk [Leipzig, F. Hoffmeister]"	990040627	M 1942	
+"Meyer, Philippe-Jacques$d1737-1819$030004468"	"A choice collection of French songs, duetts and trios, selected from the favourite operas, adapted for the harp, piano-forte or harpsichord [London, John Welcker]"	990041184	M 2515	
+"Michele, Joseph$d18/19$030012611"	"His Majesty's review of the Volunteer Corps of London ... in Hyde Park, June 4|t|h, 1799. A sonata for the piano forte ... (op. 2) [London, Goulding, Phipps & D'Almaine]"	990041336	M 2669	
+"Milán, Luis$d1500c-1561p$030013127"	"Libro de musica de vihuela de mano, intitulado El maestro. El qual trahe el mesmo estilo y orden que un maestro traheria con un discipulo principiante [Valencia, Francisco Diaz Romano]"	990041388	M 2724; MM 2724	
+"Mazzinghi, Joseph$d1765-1844$030002148"	"The turnpike gate. A comic opera in two acts [London, Goulding, Phipps & D'Almaine]"	990040268	M 1579; MM 1579	
+"Mazzinghi, Joseph$d1765-1844$030002148"	"L'Amour et Psiché. The favorite grand ballet ... op. 25 [pf] [London, Longman & Broderip]"	990040223	M 1533; MM 1533	
+"Martini, Johann Paul Aegidius$d1741-1816$0477616"	"Sapho. Tragédie en trois actes ... représentée pour la première fois ... le 22 frimaire l'an 3|e de la République [Paris, auteur (Lobry)]"	990039830	M 1113; MM 1113	
+"Mazzinghi, Joseph$d1765-1844$030002148"	"Three duetts for the piano forte, with or without additional keys ... op. 35 [London, Goulding, Phipps & D'Almaine]"	990040332	M 1643	
+"Mazzinghi, Joseph$d1765-1844$030002148"	"Admiral Lord Nelson's victory. A sonata for the piano forte ... in commemoration of the glorious I|s|t of August, 1798 [London, Goulding, Phipps & D'Almaine]"	990040347	M 1658	
+"Méhul, Etienne-Nicolas$d1763-1817$0101056"	"Euphrosine, ou Le tyran corrigé. Comédie en trois actes et en vers par F. Hoffman, représentée ... le samedi, 4 septembre 1790 [Paris, Cousineau père & fils]"	990040497	M 1810; MM 1810	
+"Mouret, Jean-Joseph$d1682-1738$030004590"	"La Provençale. Nouvelle entrée ajoutée aux Festes de Thalie en septembre 1722 [Paris, Jean-Baptiste-Christophe Ballard]"	990042547	M 3969	
+"Mozart, Wolfgang Amadeus$d1756-1791$0115324"	"Die Hochzeit des Figaro ... fürs Klavier eingerichtet von Siegfried Schmiedt. Erster Akt [Leipzig, Breitkopf & Härtel]"	990042918	M 4348	
+"Mozart, Wolfgang Amadeus$d1756-1791$0115324"	"Così fan tutte, o sia La scuola degli amanti, per il cembalo, dal Sign. Volfgango Amadeo Mozart. Raccolta I. II. III. Weibertreue, oder Die Mädchen sind von Flandern. Ein komisches Singspiel in zwey Acten von Herrn Wolfgang Amadeus Mozart Im Klavierauszuge von Siegfried Schmiedt. Erstes, Zweytes, Drittes Heft"	990043265	M 4699; MM 4699	
+"Moulds, John$d18/19$030012622"	"The matchless maid of Morpeth. A legendary tale, written by G. S. Carey, set to music with accompanyments [London, Longman & Broderip]"	990042467	M 3884	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 10:] II. | Uber das Evangelium am Andern | Advents Sontage/ | [...] | Dises Lied kan auch gesungen werden auf die Melo= | dei des Kirchengesanges: | Wacht auf Jhr Christen alle/ u.s.w."	1001067412		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 16:] III. | Uber das Evangelium am dritten | Advents Sontage/ | [...] | Dises Lied kan auch gesungen werden auff die Melo= | dei des überal [!] bekanten Gesanges: | Kompt her zu mir/ spricht GOttes Sohn/ [&]c."	1001067418		
+"Weldon, John$d1676-1736$030004520"	"Divine harmony. Six select anthems for a voice alone with a thorow bass for the organ, harpsicord or arch-lute ... very proper not only in private devotion, but also for choirs, where they may be sung either by a treble or tenor (Divine harmony. The 2|d collection being select anthems ...). [London, John Walsh & J. Hare]"	990068158	W 629; WW 629	
+Anonymus$030004985	"Of noble race was Shenkin. A favourite Welch air with variations for the harp, harpsichord, violin or german flute. [London, S., A. & P. Thompson]"	990072034	AN 2038	
+Anonymus$030004985	"New music for the piano forte or harp, never before published. Being a collection of choice airs, to which the Canadians sing their chansons de voyage, or, Paddling songs, when navigating the lakes & rivers of Canada in their bark canoes [Nr. 1-9; 1. Mon père n'avoit fille que moi] [London, J. Fentum]"	990071937	AN 1929	
+"Woodward, Richard$d1743c-1777$030014117"	"Songs, canons and catches for one, two, three, four, six and eight voices ... opera prima. [London, Peter Welcker; for the author]"	990069266	W 1863	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 348 (recte 346):] LVII. | Uber das Evangelium am sechs und zwantzig= | sten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan gesungen werden auff die Melodei deß | bekanten Lides: | O Welt Jch muß Dich lassen/ u.s.w."	1001068546		
+Anonymus$030004985	"Canzonets for two voices, german flutes or guitars, being a collection of the most favourite French songs. Book. II. No. V. [v/b] [London, I. Walsh]"	990070746	AN 445	
+Anonymus$030004985	"Twenty four Country dances for the year 1772, with proper tunes & directions to each dance, as they are perform'd at Court, Bath & all publick assemblys [1 v] [London, C. & S. Thompson]"	990070918	AN 686	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 302:] L. | Uber das Evangelium am neunzehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan gesungen werden auf die Melodei deß bekanten | Passion=Lides: | O wir arme Sünder/ u.s.w."	1001068534		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 334:] LV. | Uber das Evangelium am vier und zwantzig= | sten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan auch gesungen werden auf die Melodei deß | schönen Gebeht Lides: | Allein zu Dir HErr Jesu Christ/ u.s.w."	1001068542		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 340:] LVI. | Uber das Evangelium am fünf und zwantzig= | sten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan auch gesungen werden auf die Melodei | des bekanten Buhs Lideß: | Erbarm dich mein O HErre Gott/ u.s.w."	1001068543		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 308:] LI. | Uber das Evangelium am zwantzigsten Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei des | geistreichen Lideß: | Wachet auf/ ruffet uns sie Stimme."	1001068536		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 314:] LII. | Uber das Evangelium am ein und zwantzigsten | Sont. nach dem Feste der H. Dreifaltigk. | [...] | Dises kan man singen auff die Melodei des schönen | Kirchengesanges: | Durch Adams Fall ist gantz verderbt/ u.s.w."	1001068537		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 322:] LIII. | Uber das Evangelium am zwei und zwantzig= | sten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan man singen auf die Melodei deß bekandten | Lides: | Komt her zu mir/ spricht Gottes Sohn/ u.s.w."	1001068538		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 328:] LIV. | Uber das Evangelium am drei und zwantzig= | sten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan gesungen werden auff die Melodei deß | schönen Lideß: | Jn Dich hab Jch gehoffet HErr/ u.s.w."	1001068540		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 352:] LVIII. | Uber das Evangelium am sieben und zwan= | zigsten Sontage nach dem Feste der H. | Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei deß | Christlichen Abscheid [!] Liedes: | Hertzlich thut mich verlangen nach einem seligen End."	1001068547		
+Anonymus$030004985	"Les Cantiques sacrés pour les principales solemnités des Chrétiens, et sur divers autres sujets. Nouvelle édition augmentée, avec la musique toute au long. [Amsterdam, ""par la Compagnie des Libraires""]"	990070743	AN 442	
+"Winter, Peter von$d1754-1825$0141907"	"Calipso. Dramma per musica in due atti ... im Klavierauszuge vom Musikdir. M. G. Fischer. [Leipzig, Breitkopf & Härtel]"	990068708	W 1296; WW 1296	
+"Wolf, Ernst Wilhelm$d1735-1792$0146800"	"Trois quatuors [B, Es, D] à deux violons, taille & basse, œuvre premier. [Berlin, Johann Julius Hummel; Amsterdam, au grand magazin de musique]"	990069209	W 1803; WW 1803	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 94:] XVI. | Uber das Evangelium deß Fastnacht Sonta= | ges/ von den Alten Quinquagesima | oder Estomihi genant/ | [...] | Dises kan gesungen werden auf die Melodei deß auß= | führlichen Passion Lideß: | O Mensch bewein dein Sünde groß/ u.s.w."	1001067508		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 1:] Abendlied."	1001070779		
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[heading, p. 2:] Zufriedenheit mit seinem Zustande."	1001070781		
+"Storace, Stephen$d1762-1796$030003060"	"È di matti questo mondo. A favorite air. [London, Birchall & Andrews; for S. Storace]"	990062932	S 6645; SS 6645	
+"Storace, Stephen$d1762-1796$030003060"	"No song, no supper. A comic opera in two acts as performed at the Theatre Royal Drury Lane, the music chiefly composed & adapted for the harpsichord or piano-forte by Stephen Storace. [London, Longman & Broderip]"	990063071	S 6789; SS 6789	
+"Storace, Stephen$d1762-1796$030003060"	"[Einlage-Rondo:] Care donne che bramate ... in the opera of Il Re Teodoro in Venezia. [London, Longman & Broderip]"	990063152	S 6870; SS 6870	
+"Topham, William$d17/18$030014779"	"Six sonata's or solos for the flute, with a through bass for the harpsicord. [London, John Walsh & J. Hare]"	990064474	T 967	
+"Vanhal, Johann Baptist$d1739-1813$0114557"	"A favorite overture [C] for the harpsichord or piano forte ([Kopftitel:] Overture 42 C. Vanhall; viersätzig) [London, Longman & Broderip]"	990065343	V 332	
+"Viotti, Giovanni Battista$d1755-1824$0144451"	"A third grand concerto [a], arranged for the piano forte, with or without additional keys, with accompaniments for violin, alto & bass, &c., by Mr. Dussek. [London, Edinburgh, Corri, Dussek & Co.]"	990066853	V 1865	
+"Wagenseil, Georg Christoph$d1715-1777$030003284"	"Six concertos [F, C, F, D, G, A] for the harpsicord or organ with accompanyments for two violins and a bass. [London, John Walsh]"	990067575	W 16; WW 16	
+"Stuck, Jean-Baptiste$d1680-1755$030003081"	"Cantates françoises à voix seule et bassecontinue avec et sans symphonies ... [livre second] [Paris, Christophe Ballard]"	990063310	S 7033; SS 7033	
+"Storace, Stephen$d1762-1796$030003060"	"Beaux yeux, and jeunes cœurs soyez fidelles. The favorite French air & gavotte. [London, Birchall & Andrews; for S. Storace]"	990062931	S 6644; SS 6644	
+"Tessarini, Carlo$d1690c-1766p$030003123"	"Sinfonie [D, F, G, C, D, F] a due violini e basso o cembalo, opera settima. [Paris, Mme Boivin; Le Clerc; Castagnery; Guersant]"	990064074	T 555; TT 555	
+"Tessarini, Carlo$d1690c-1766p$030003123"	"Sonate da camera e chiesa [D, Es, A, c, F, B] a due violini e basso ... opera nona. [Paris, Mme Boivin; Le Clerc; Castagnery; Guersant]"	990064076	T 557; TT 557	
+"Tessarini, Carlo$d1690c-1766p$030003123"	"Sei trio [G, A, B, C, d, Es] a due violini e basso ... opera sesta. [Paris, aux adresses ordinaires (gravé par Robert)]"	990064073	T 554; TT 554	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 4:] I. | Uber das Evangelium am Ersten | Advents Sontage/ | [...] | Dises Lied kan auch gesungen werden auf die Melo= | dei des sonst bekanten Gesanges: | HErr Christ thu mir verleihen/ u.s.w."	1001066708		
+"Vitali, Filippo$d1599c-1653$030005576"	"Il secondo libro de madrigali a cinque voci. [Firenze, Pietro Cecconcelli]"	990067116	V 2133	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 22:] IV. | Uber das Evangelium am Vierten | Advents Sontage/ | [...] | Dises Lied kan man auch singen auff die Weise deß | schönen Kirchengesanges: | HErr Christ der Einig GOttes Sohn/ [&]c."	1001067419		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 58:] X. | Uber das Evangelium des dritten Sontages | nach dem Feste der H. drei Könige/ | [...] | Dises Lied kan man auch singen auf die Melodei | des schönen Lides: | Von allen Menschen abgewand."	1001067436		
+"Weldon, John$d1676-1736$030004520"	"A collection of aires for two flutes and a bass, compos'd by Mr. J. Weldon, Mr. Henr Simons, and others. [London, John Walsh & J. Hare]"	990068183	W 713	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 46:] VIII. | Uber das Evangelium des ersten Sontages | nach dem Fest der Heiligen drei Könige/ | [...] | Dises kan man singen auff die Melodei des | Morgen Lides: | Aus meines Hertzen Grunde. u.s.w."	1001067431		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 52:] IX. | Uber das Evangelium am andern Sontages | nach dem Fest der H. drei Könige/ | [...] | Dises Lied kan man auch singen nach der Weise | deß bekanten Liedes: | Auff meinen lieben GOTT/ [&]c."	1001067435		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 40:] VII. | Uber das Evangelium am Sontage nach dem | Fest der Beschneidung Christi/ oder | H. Neuen Jahrstage/ | [...] | Dises kan man auch singen auf die Melodei des gahr | wolbekanten Liedes: | Warum betrübst du dich mein Hertz."	1001067430		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 34:] VI. | Uber das Evangelium am Sontage | nach dem H. Christage. | [...] | Dises Lied kan auch gesungen werden auf die Melo= | dei des gahr alten schönen Weihenachtgesanges: | Ein Kindelein so Löbelich. u.s.w."	1001067423		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 28:] V. | Uber das Evangelium am heiligen | Christtage/ | [...] | Dises Lied kan man auch singen auf die ge= | bräuchliche Weise deß schönen Weihnachtliedes: | Gelobet seystu Jesu Christ:"	1001067421		
+"Weiss, Carl$d1738-1795$0131156"	"Six solos [D, G, C, A, d, G] for the german flute and bass ... opera III. [London, John Welcker]"	990068144	W 614	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 64:] XI. | Uber das Evangelium des vierdten Sontages | nach dem Feste der H. drei Könige/ | [...] | Dises kan man singen auf die Melodei des geist= | reichen Kirchen Liedes: | Jch ruff zu Dir HErr JEsu CHrist."	1001067439		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 70:] XII. | Uber das Evangelium des fünften Sontages | nach dem Feste der H. drei Könige/ | [...] | Dises kan man auch singen nach der Weise | des schönen Lideß: | Es wolt uns GOTT genädig sein. u.s.w."	1001067446		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 82:] XIV. | Uber das Evangelium des Sontages/ von den | Alten Septuagesima genant/ | [...] | Dises kan auch gesungen werden auff die Melodei | deß gahr schönen Kirchengesanges: | An Wasserflüssen Babilon/ u.s.w."	1001067455		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 76:] XIII. | Uber das Evangelium des sechsten Sontags | nach dem Feste der Heil. drei Könige/ | [...] | Dises Lied kan man auch singen auf die Melodei des | gahr herlichen und schönen Kirchen gesanges: | Nun freuet Euch liben Christen gemein/ [&]c."	1001067451		
+"Vanhal, Johann Baptist$d1739-1813$0114557"	"The favorite overture ... adapted for the harpsicord or piano forte. [London, J. Bland]"	990065344	V 333; VV 333	
+"Vanhal, Johann Baptist$d1739-1813$0114557"	"The favorite overture ... adapted for the harpsicord or piano forte. [London, J. Bland]"	990065351	V 341	
+"Viotti, Giovanni Battista$d1755-1824$0144451"	"Viotti's celebrated new grand concerto in G ... adapted for the piano forte ... by J. L. Dussek. [London, Corri, Dussek & Co.]"	990066849	V 1860; VV 1860	
+"Sacchini, Antonio$d1730-1786$030002777"	"Six sonatas for the harpsichord, or piano forte, with a violin accompaniment, opera III. [London, Robert Bremner]"	990056816	S 293	
+"Sarti, Giuseppe$d1729-1802$030002832"	"Cari figli un'altro amplesso ... in the opera of Giulio Sabino. [London, Longman & Broderip]"	990057445	S 971; SS 971	
+"Sammartini, Giovanni Battista$d1700c-1775$030002798"	"XII Sonate [F, B, D, A, F, B, A, F, B, Es, F, B] a due e tre violini col basso del Signor Giuseppe San Martini Milanese, opera seconda [die Sonaten II, VI, X und XII wahrscheinlich von Antonio Brioschi]. [Paris, Le Clerc le cadet; Le Clerc; Boivin (gravé par Labassée); Paris, Le Clerc le cadet; Le Clerc; Boivin (gravé par Labassée)]"	990057164	S 665; SS 665	
+"Pleyel, Ignace$d1757-1831$024761"	A favorite overture ... arranged for the piano-forte or harpsichord with an accompaniment for the violin by Francisco Tomich. ([Kopftitel:] N|o II)	990051942	P 4529	
+"Scarlatti, Domenico$d1685-1757$030002849"	"[Erweiterter Nachdruck, u. a. mit einem Stück von Roseingrave und einer Fuge von Alessandro Scarlatti:] XLII Suites de pièces pour le clavecin, en deux volumes. [London, Preston & son]"	990057650	S 1192; SS 1192	
+"Schobert, Johann$d1735c-1767$030002916"	"Trois sinfonies pour le clavecin avec l'accompagnement d'un violon & deux cornes de chasse ad libitum ... œuvre IX. [London, Robert Bremner]"	990058396	S 1963; SS 1963	
+"Schobert, Johann$d1735c-1767$030002916"	Deux sonates pour le clavecin avec accompagnement de violon Violin part... œuvre I. [London: Printed and sold by R. Bremner]	990058353	S 1918; SS 1918	
+"Schobert, Johann$d1735c-1767$030002916"	"CONCERTO I | Pour le | CLAVECIN | Avec accompagnement de deux | VIOLONS ALTO et BASSE | Et deux Cors de Chasse ad Libitum | PAR | M: Schobert | OP. XI [London, Robert Bremner]"	990058413	S 1980; SS 1980	
+"Schröter, Johann Samuel$d1752c-1788$030002927"	"Six sonatas for the piano forte or harpsichord, with an accompanyment for a german flute or violin, opera 4. [London, William Napier]"	990058613	S 2182; SS 2182	
+"Schmid, Balthasar$d1705-1749$030009864"	"... zweyte vermehrte Auflage. [Nürnberg, Johann Michael Schmidt]"	990058132	S 1691; SS 1691	
+"Schobert, Johann$d1735c-1767$030002916"	"Concerto III pastorale pour le clavecin, avec accompagnement de deux violons, alto et basse, deux cors de chasse ad libitum ... op. XIII [London, Robert Bremner]"	990058421	S 1988; SS 1988	
+"Schobert, Johann$d1735c-1767$030002916"	"Deux sonates pour le clavecin ... oeuvre IV. [London, Robert Bremner]"	990058370	S 1937; SS 1937	
+"Schobert, Johann$d1735c-1767$030002916"	"Trois quatuor pour le clavecin avec accompagnement de deux violons et basse ad libitum ... opera VII. [London, Robert Bremner]"	990058385	S 1952; SS 1952	
+"Schobert, Johann$d1735c-1767$030002916"	"Concerto II pour le clavecin avec accompagnement de deux violons, alto et basse (deux oboe, deux cors de chasse ad libitum) ... op. XII [London, Robert Bremner]"	990058417	S 1984	
+"Schobert, Johann$d1735c-1767$030002916"	"Deux sonates pour le clavecin avec accompagnement de violon ... œuvre V. [London, Robert Bremner]"	990058374	S 1941	
+"Schobert, Johann$d1735c-1767$030002916"	"Trois sonatas pour le clavecin avec accompagnements de violon et basse ad libitum ... opera VI. [London, Robert Bremner]"	990058379	S 1946; SS 1946	
+"Schobert, Johann$d1735c-1767$030002916"	"Deux sonates pour le clavecin avec accompagnement de violon ... œuvre VIII. [London, Robert Bremner]"	990058390	S 1957	
+"Schobert, Johann$d1735c-1767$030002916"	"Trois sinfonies pour le clavecin avec l'accompagnement d'un violon & deux cornes de chasse ad libitum ... œuvre X. [London, Robert Bremner]"	990058403	S 1970	
+"Schobert, Johann$d1735c-1767$030002916"	"Six sonates pour le clavecin ... opera XIV. Les parties d'accompagnements sonts ad libitum. [London, Robert Bremner]"	990058427	S 1994	
+"Schobert, Johann$d1735c-1767$030002916"	"Deux sonates pour le clavecin avec accompagnement de violon ... oeuvre II. [London, Robert Bremner]"	990058359	S 1925; SS 1925	
+"Schobert, Johann$d1735c-1767$030002916"	"Deux sonates pour le clavecin avec l'accompagnement de violon ad libitum ... opera III. [London, Robert Bremner]"	990058364	S 1931	
+"Schobert, Johann$d1735c-1767$030002916"	"A complete collection of the works of Mons|r Schobert, for the harpsichord or piano forte [42 Sonaten, 293p., zum Teil mit eigenem Titelblatt] [London, J. Bland]"	990058461	S 2029	
+"Schobert, Johann$d1735c-1767$030002916"	"Concerto IV pour le clavecin avec accompagnement de deux violons, alto et basse, et deux cors de chasse ad libitum ... op. XV [London, Robert Bremner]"	990058434	S 2001	
+"Sacchini, Antonio$d1730-1786$030002777"	"Evelina. Opéra en trois actes ... représenté pour la première fois ... le mardi 29 avril 1788. [Paris, Imbault]"	990056640	S 89; SS 89	
+"Sacchini, Antonio$d1730-1786$030002777"	"[Paris, Le Duc (écrit par Ribière, imprimé par Basset)]"	990056683	S 133; SS 133	
+"Sacchini, Antonio$d1730-1786$jAscertained$030002777"	Evelina. Opéra en trois actes ... représenté pour la première fois ... le mardi 29 avril 1788.	990056638	S 87; SS 87	
+"Sacchini, Antonio$d1730-1786$030002777"	"Chimène, ou Le Cid ... réduite pour piano et chant par Eugène Gigout. [Paris, T. Michaelis]"	990056688	S 138; SS 138	
+"Sacchini, Antonio$d1730-1786$030002777"	"Serba costante costante in petto. The favorite rondo ... for Signora Marchetti. [London, J. Bland]"	990056802	S 279; SS 279	
+"Sammartini, Giuseppe$d1695-1750$030002799"	"XII Sonate a due violini, e violoncello, e cembalo, se piace, opera terza. [London, John Walsh]"	990057221	S 722; SS 722	
+"Sarti, Giuseppe$d1729-1802$030002832"	"[Kopftitel:] Con qual core, oh Dio. Sung ... in the opera of Giulio Sabino. [London, Longman & Broderip]"	990057453	S 981; SS 981	
+"Reeve, William$d1757-1815$030006594"	"The apparition. A musical entertainment. [London, Preston & son]"	990053918	R 522	
+"Rameau, Jean-Philippe$d1683-1764$0169730"	"Additions à l'opera de Zaïs. Nouveau début de l'ouverture. [Paris, auteur; Vve Boivin; Le Clair]"	990053591	R 170	
+"Rameau, Jean-Philippe$d1683-1764$0169730"	"Zoroastre, | Tragedie, | Mise En Musique | Mise En Musique | Par M. Rameau, | Représentée pour la premiere fois par l'Académie Royale de Musique, | le 2. Decembre 1749"	990053592	R 171; RR 171	
+"Marcello, Benedetto$d1686-1739$030002070"	"[vol. 1, f. 3r, title page:] ESTRO | Poetico-Armonico. | PARAFRASI | Sopra li primi | VENTICINQUE SALMI. | POESIA | di | GIROLAMO ASCANIO GIUSTINIANI, | MUSICA | di | BENEDETTO MARCELLO | PATRIZI VENETI. | TOMO PRIMO. [engraving] | VENEZIA MDCCXXIV. [London, Welcker]"	990039175	M 428; MM 428	
+"Lampugnani, Giovanni Battista$d1708-1788$030001863"	"Six sonatas for two violins with a through bass for the harpsicord or violoncello, compos'd by Sigr. Gio. Batista Lampugnani and St. Martini of Milan [London, J. Walsh]"	990036313	L 522	
+"Lappi, Pietro$d1575c-1630c$030013848"	"Sacra omnium solemnitatum vespertina psalmodia, cum tribus Beatae Virginis Mariae canticis, octonis vocibus concinenda [Venezia, Alessandro Raverii]"	990036464	L 674; LL 674	
+"Lidl, Andreas$d1789a+$030009502"	"Six trios [A, C, D, G, E, C] for a violin or flauto, violino secondo, and violoncello obligato ... opera I|m|o [London, Longman, Lukey & Broderip]"	990038032	L 2367	
+"Loeillet, Jean-Baptiste$d1688-1720c$030011987"	"XII Sonatas or solos for a flute with a thorough bass for the harpsicord or bass violin ... opera 2|d|a [London, J. Walsh & J. Hare]"	990038365	L 2715	
+"Marcello, Benedetto$d1686-1739$030002070"	"The first fifty psalms ... adapted to the English version by John Garth [London, John Johnson]"	990039173	M 426; MM 426	
+"Méhul, Etienne-Nicolas$d1763-1817$0101056"	"Les deux aveugles de Tolède. Opéra comique en un acte et en prose ... représenté ... le mardi, 28 janvier 1806 [Paris, magazin de musique]"	990040475	M 1788; MM 1788	
+"Martini, Johann Paul Aegidius$d1741-1816$0477616"	"Le droit du seigneur. Comédie en trois actes ... représentée pour la première fois ... le 17 octobre 1783 [Paris, Brunet, aux adresses ordinaires]"	990039772	M 1045; MM 1045	
+"Koželuh, Leopold$d1747-1818$035531"	"Three sonatas for the piano forte or harpsichord, with accompanyments for a german flute or violin & violoncello ... op. 37 [London, J. Bland]"	990034360	K 1564	
+"Méhul, Etienne-Nicolas$d1763-1817$0101056"	"Le jeune sage et le vieux fou. Comédie en un acte en prose, par Hoffman. Représentée ... le jeudy 28 mars 1793 [Paris, Cousineau père et fils (Huguet)]"	990040611	M 1926; MM 1926	
+"Méhul, Etienne-Nicolas$d1763-1817$0101056"	"Stratonice. Comédie héroïque en un acte et en vers, par Hoffman. Représentée ... le jeudi, 3 mai 1792 [Paris, Cousineau père et fils (Huguet)]"	990040716	M 2033; MM 2033	
+"Martini, Johann Paul Aegidius$d1741-1816$0477616"	"L'amoureux de quinze ans, ou La double fête. Comédie en trois actes ... représentée pour la première fois ... le 18 avril 1771 ... œuvre VII|e [Paris, Bureau d'Abonnement Musical; aux adresses ordinaires (Récoquillée)]"	990039747	M 1017; MM 1017	
+"Lemaire, Louis$d1694c-1750c$030001921"	"... (8|e) cantatille nouvelle ... [Paris, auteur; Boivin; Le Clerc (gravé par Dumont)]"	990037524	L 1755	
+"Leveridge, Richard$d1670-1758$030014069"	"A second book of songs with a through bass to each song [London, J. Walsh; J. Hare; J. Young; s.d.]"	990037930	L 2179; LL 2179	
+"Martín y Soler, Vicente$d1754-1806$030002097"	"VI Ariettes, paroles italiennes et allemandes, accompagnées du piano forte, ou de la guitarre [Heft 1 und 2] [London, Longman & Broderip]"	990039710	M 978	
+"Martini, Johann Paul Aegidius$d1741-1816$0477616"	"Henry IV. Drame lyrique en trois actes ... représenté pour la première fois ... le 14 novembre 1774 [Paris, Sieber (Huguet)]"	990039792	M 1071; MM 1071	
+"Martini, Johann Paul Aegidius$d1741-1816$0477616"	"École d'orgue, divisée en trois parties [Paris, Imbault]"	990039870	M 1164; MM 1164	
+"Pecci, Tomaso$d1576-1604$030014476"	Del Signor Tomaso Pecci. Madrigali a cinque voci. Quarta impressione.	990048691	P 1108;	B/I 1616 16
+"Pepusch, Johann Christoph$d1667-1752$030002471"	"... the fifth edition ... [London, John Watts]"	990048778	P 1198	
+"Persuis, Louis-Luc Loiseau de$d1769-1819$030004798"	"Jérusalem délivrée. Opéra en cinq actes ... représenté pour la première fois sur le Théâtre de l'Académie impériale de musique, le 15 septembre 1812. [Paris, auteur]"	990049027	P 1484; PP 1484	
+"Paradisi, Pietro Domenico$d1707-1791$030004882"	"Sonate [G, B, E, c, F, A, B, e, a, D, F, C] di gravicembalo. [London, Longman & Broderip]"	990048493	P 898	
+"Pleyel, Ignace$d1757-1831$024761"	"Trois quatuors ... arrangés pour clavecin ou piano-forte avec accompagnemens de violon et basse par M|r Lachnitt, 6|e suitte [London, Longman & Broderip]"	990051272	P 3852	
+"Pleyel, Ignace$d1757-1831$024761"	"Three sonatas [C, A, D] for the piano-forte or harpsichord ... humbly dedicated to the King of Naples [London, Preston & son]"	990052033	P 4620; PP 4620	
+"Pleyel, Ignace$d1757-1831$024761"	"Petits airs et rondos d'une exécution facile pour le clavecin ou le piano-forté avec accompagnement d'un violon, ad-libitum ... livre 9 [Paris, Imbault]"	990051958	P 4545	
+"Pleyel, Ignace$d1757-1831$024761"	"Petits airs et rondos d'une exécution facile pour le clavecin ou le piano-forté avec accompagnement d'un violon, ad-libitum ... livre 6 [Paris, Imbault]"	990051976	P 4563; PP 4563	
+"Pleyel, Ignace$d1757-1831$024761"	"Six sonatas for the piano forte or harpsichord with an accompaniment for a flute or violin ... dedicated (by permission) to Her Majesty The Queen of Great Britain [[London], G. Walker]"	990052064	P 4651	
+"Pleyel, Ignace$d1757-1831$024761"	"[Petits airs et rondos d'une exécution facile pour le clavecin ou le piano-forté avec accompagnement d'un violon, ad-libitum ... livre 10] [Paris, Imbault]"	990052021	P 4608	
+"Pleyel, Ignace$d1757-1831$024761"	"Petits airs et rondos d'une exécution facile pour le clavecin ou le piano-forté avec accompagnement d'un violon, ad-libitum ... livre 7 [Paris, Imbault]"	990052037	P 4624; PP 4624	
+"Pleyel, Ignace$d1757-1831$024761"	"Three grand sonatas for the piano-forte or harpsichord in which are introduced for the subjects of the adagios & last movements select Scotish airs with accompanyments for a violin and violoncello ... second set [London, Preston & son ...; for the proprietors [George Thomson]]"	990051159	P 3738; PP 3738	
+"Pleyel, Ignace$d1757-1831$024761"	"Three grand sonatas for the piano-forte with accompaniments for the violin & bass, being the second book of a sett of twelve new sonatas ... op. 31 [London, Edinburgh, Corri, Dussek & Co.]"	990051213	P 3793	
+"Pleyel, Ignace$d1757-1831$024761"	"Trois quatuors ... tirés de l'œuvre dédié à Sa M. Le Roi de Prusse arrangés pour clavecin ou piano-forte avec accompagnemens de violon et basse par M|r Lachnitt, 5|t|h suitte [London, Longman & Broderip]"	990051291	P 3871; PP 3871	
+"Paisiello, Giovanni$d1740-1816$01874"	"Piche, cornacchie e nottole [Duett]. [London, Longman & Broderip]"	990047943	P 324; PP 324	
+"Pleyel, Ignace$d1757-1831$024761"	"Three grand sonatas for the piano-forte or harpsichord in which are introduced for the subjects of the adagios & last movements select Scotish airs with accompaniments for a violin and violoncello 1|s|t set [London, Preston & son ...; for the proprietors [George Thomson] (Paton scripsit, Kirkwood sculp.); London, Preston & son ...; for the proprietors [George Thomson] (Paton scripsit, Kirkwood sculp.); London, Preston & son ...; for the proprietors [George Thomson] (Paton scripsit, Kirkwood sculp.)]"	990051143	P 3722; PP 3722	
+"Pleyel, Ignace$d1757-1831$024761"	"Petits airs et rondos d'une exécution facile pour le clavecin ou le piano-forté avec accompagnement d'un violon, ad-libitum ... livre 8 [Paris, Imbault]"	990051952	P 4539; PP 4539	
+"Pleyel, Ignace$d1757-1831$024761"	"A select collection of original Scotish airs for the voice, to each of which are added introductory & concluding symphonies & accompanyments for the violin & piano forte ... with select & characteristic verses ... many of them entirely new ... 1|s|t set [London, Preston & son ...; for the proprietor G. Thomson (Nesle sculpt.)]"	990050064	P 2635; PP 2635	
+"Pepusch, Johann Christoph$d1667-1752$030002471"	"The beggar's opera. As it is acted at the Theatre-Royal in Lincolns-Inn-Fields, written by Mr. Gay, 2. edition: to which is added the ouverture in score; and the musick prefix'd to each song. [London, John Watts]"	990048774	P 1194; PP 1194	
+"Pergolesi, Giovanni Battista$d1710-1736$030002483"	"La serva padrona ... rappresentato in Parigi nell' autunno 1752. [Paris, éditeur; aux adresses ordinaires (imprimé par Auguste de Lorraine)]"	990048943	P 1393; PP 1393	
+"Peace, James$030012689"	"Divine harmony: a collection of hymn and psalm tunes for one, two, three and four voices, with a thorough bass for the organ, harpsichord, piano-forte. [Dublin, J.M. Calley; for the author; Dublin, J.M. Calley; for the author]"	990048675	P 1091	
+"Paixaõ Ribeiro, Manuel da$d18.sc$030013306"	"Nova arte de viola ... divida em duas partes ... com estampas das posturas ... e com alguns minuettes, e modinhas por musica, e por cifra. [Coimbra, ""na Real Officina da Universidade""]"	990048245	P 647	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 188:] XXXI. | Uber daß Evangelium am Festtage der Heili= | gen Dreifaltigkeit/ | [...] | Dises kan auch gesungen werden auf die Weise Un= | sers wolbekanten Kirchengesanges vom Glauben: | Wir gläuben all an Einen Gott/ u.s.w."	1001068401		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 212:] XXXV. | Uber das Evangelium am Vierten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Melodei deß | schönen Lides: | Auff dich hab ich gehoffet HERR/ u.s.w."	1001068423		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 260:] XLIII. | Uber das Evangelium am zwölfften Sonta= | ge nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei deß | Lides: | Ach Gott thu dich erbarmen/ u.s.w."	1001068456		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 272:] XLV. | Uber das Evangelium am vierzehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan gesungen werden auf die Melodei deß wol= | bekanten Gebeht Lides: | Jch ruff zu dir HErr Jesu Christ."	1001068465		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 296:] XLIX. | Uber das Evangelium am achtzehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei deß | schönen Tauff Lides: | Christ unser HErr zum Jordan kahm."	1001068485		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 194:] XXXII. | Uber das Evangelium am ersten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan gesungen werden auf die Melodei deß | bekanten Lides: | O Wir arme Sünder/ Unser Missethat/ u.s.w."	1001068408		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 254:] XLII. | Uber das Evangelium am Elfften Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan auch gesungen werden auff die Weise des | bekanten BuhßLides: | Aus tieffer Noht schrei Jch zu dir/ u.s.w."	1001068452		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 266:] XLIV. | Uber das Evangelium am dreizehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei deß | bekanten Morgengesanges: | Aus meines Hertzen Grunde/ u.s.w."	1001068459		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 108:] XVIII. | Uber das Evangelium am andern Sontage | in der Fasten/ Reminiscere genant/ | [...] | Dises kan man auch singen auf die Weise des Gesanges. | Hilf Gott/ daß Mir gelinge/ u.s.w."	1001067510		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 150:] XXV. | Uber das Evangelium am andern Sontage | nach Ostern/ Misericordias Domini | genant/ | [...] | Dises kan man auch singen auf die Melodei deß | 23. Psalms: | Waß kan unß kommen an für Noht/ u.s.w."	1001067527		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 156:] XXVI. | Uber das Evangelium am dritten Sontage | nach Ostern/ Jubilate genant: | [...] | Dises kan man auch singen auf die Melodei des herli= | chen Lob Psalmes: | Nun lob meine Seele den HErren/ u.s.w."	1001067529		
+"Zannetti, Francesco$d1737-1788$030003392"	"Sei quintetti [A, D, B, C, Es, e] per tre violini, violoncello obligato e' basso repieno [!], opera seconda. [London, Robert Bremner]"	990069745	Z 56	
+"Wolf, Ernst Wilhelm$d1735-1792$0146800"	"Trois quatuors [C, A, G] à deux violons, taille et basse, œuvre second. [Berlin, Johann Julius Hummel; Amsterdam, au grand magazin de musique]"	990069210	W 1804	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 138:] XXIII. | Uber das Evangelium am Hochheiligen | Ostertage. | [...] | Dises Festlied kan gesungen werden auff die Weise | deß schönen Ostergesanges: | Christ lag in Todes Banden/ u.s.w."	1001067524		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 144:] XXIV. | Uber das Evangelium am ersten Sontage | nach Ostern/ Quasimodogeniti | geheissen/ | [...] | Dises kan man auch singen auf die Melodei des schö= | nen Oster Lideß: | Jesus Christus wahr Gottes Sohn/ u.s.w."	1001067526		
+"Winter, Peter von$d1754-1825$0141907"	"Tamerlan. Opéra en quatre actes, paroles de M|r Morel, représenté pour la 1|e|r|e fois ... le 27 fructidor, an 10 (1802) [Paris, Naderman]"	990068860	W 1447; WW 1447	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 126:] XXI. | Uberdas Evangelium am Fünften Sontage | in der Fasten/ Judica genant/ | [...] | Dises kan man auch singen auf die Weise deß feinen | Lideß: | HErr Christ thu Mir verleihen. u.s.w."	1001067518		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 88:] XV. | Uber das Evangelium des Sontages/ von | den Alten Sexagesima genant/ | [...] | Dises kan auch gesungen werden auf die Weise un= | sers bekanten Gebeth Liedeß: | Vater unser im Himmelreich/ [&]c.u.s.w."	1001067463		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 100:] XVII. | Uber das Evangelium am ersten Sontage in | der Fasten/ sonst Jnvocavit genant/ | [...] | Dises kan man auch singen auff die Melodei des an= | dächtigen Lideß: | Da Jesus an dem Kreutze stund/ u.s.w."	1001067509		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 120:] XX. | Uber das Evangelium am vierten Sontage | in der Fasten/ Lætare genant/ | [...] | Dises kan man singen auf die Melodei deß wolbe= | bekanten Hauß= und KirchenGesanges: | Singen wir auß Hertzen grund/ u.s.w."	1001067514		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 170:] XXVIII. | Uber das Evangelium am Fünften Sontage | nach Ostern/ Vocem Jukunditatis genant/ | [...] | Dises kan man singen auf die Melodei des Tauff= | Liedes: | Christ unser HErr zum Jordan kahm:"	1001067534		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 114:] XIX. | Uber das Evangelium am dritten Sontage | in der Fasten/ Okuli genant/ | [...] | Dises kan gesungen werden auf die Melodei des | bekanten Kirchen Lideß: | Gott der Vatter wohn unß bey/ u.s.w."	1001067512		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 132:] XXII. | Uber das Evangelium am Palmsontage/ | [...] | Dises kan man singen auf die Weise des Lideß: | O Welt/ Jch muß dich lassen/ u.s.w."	1001067523		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 162:] XXVII. | Uber das Evangelium am vierten Sontage | nach Ostern/ Kantate genant. | [...] | Dises kan man auch singen auf die Melodei des be= | kanten Lideß. | Wie Eß Gott gefält/ so gefält mirß auch/ u.s.w."	1001067532		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 176:] XXIX. | Uber das Evangelium am Sechsten Sontage | nach Ostern/ Exaudi genant/ | [...] | Dises kan man auch singen auff die Melodie des | schönen Pfingst Lideß: | Komm Heiliger Geist/ HERRE Gott/ u.s.w."	1001067537		
+"Woldemar, Michel$d1750-1815$030004900"	"Méthode pour le violon à l'usage des jeunes élèves. [Paris, Cochet]"	990069175	W 1768	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 200:] XXXIII. | Uber das Evangelium am andern Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan gesungen werden auf die Melodei deß | schönen Kirchen Liedeß: | Durch Adamß Fall ist gantz verderbt/ u.s.w."	1001068413		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 218:] XXXVI. | Uber das Evangelium am fünften Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Melodei deß | bekanten Kirchen Gesanges: | Allein zu dir HERR JEsu Christ/ u.s.w."	1001068424		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 224:] XXXVII. | Uber daß Evangelium am sechsten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Weise deß gahr | schönen KirchenGesanges: | Eß ist daß Heil Unß kommen her/ u.s.w."	1001068427		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 230:] XXXVIII. | Uber das Evangelium am siebenden Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Weise des überall | bekanten Morgenliedes: | Jch danke dir liber HERRE/ u.s.w."	1001068431		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 242:] XL. | Uber das Evangelium am neunten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Weise des sehr | schönen Buhs Lideß: | O HERRE GOtt begnade mich/ u.s.w."	1001068444		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 278:] XLVI. | Uber das Evangelium am funfzehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan auch gesungen werden auf die Melodei des | bekanten Tischgesanges: | Singen wir aus Hertzen Grund."	1001068468		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 206:] XXXIV. | Uber das Evangelium am dritten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Melodei deß wol= | bekanten Lideß: | Komt her zu Mir/ spricht Gottes Sohn/ u.s.w."	1001068421		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 290:] XLVIII. | Uber das Evangelium am siebenzehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Weise deß be= | kanten Kirchen Lides: | Diß sind die heiligen zehn Gebot."	1001068479		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 248:] XLI. | Uber das Evangelium am zehenden Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Melodei des | schönen Lides: | An Waserflüssen Babilon/ u.s.w."	1001068450		
+"Camidge, Matthew$d1764-1844$030013284"	"Cathedral music. Consisting of a Tedeum, Jubilate, Magnificat, Nunc dimittis, six anthems, a Sanctus & responses, to the commandments, with thirty chants single & double; to the whole is an arranged part for the organ or piano forte [London, Preston; for the author]"	990070308	C 564a; CC 564a	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 284:] XLVII. | Uber das Evangelium am sechszehenden Son= | tage nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auff die Melodei des | bekanten Lideß: | HErr Christ thu mir verleihen."	1001068470		
+Anonymus$030004985	"... [Paris, Mme Boivin; Le Clerc; aux Spectacles]"	990070487	AN 118	
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 182:] XXX. | Uber das Evangelium am Heiligen Pfingst= | Tage/ | [...] | Dises kan auch gesungen werden auf die Melodei deß | schönen Gesangeß: | Es woll Unß Gott genädig sein/ u.s.w."	1001068394		
+"Selle, Thomas$d1599-1663$jAscertained$030006456"	"[heading, p. 236:] XXXIX. | Uber das Evangelium am achten Sontage | nach dem Feste der H. Dreifaltigkeit/ | [...] | Dises kan man auch singen auf die Melodei deß be= | weglichen BuhßLides: | Erbarm dich Mein/ O HErre Gott/ u.s.w."	1001068437		
+"Witt, Christian Friedrich$d1665-1717$0142474"	"Psalmodia sacra; Oder, Andächtige und schöne Gesänge [Sing-St./bc], So wohl des Sel. Lutheri, als anderer Geistreichen Männer. Auf ... Verordnung In dem Fürstenthum Gotha und Altenburg, auf nachfolgende Art zu singen und zu spielen. [Gotha, Christoph Reyher]"	990069108	W 1698; WW 1698	
+"Witt, Christian Friedrich$d1665-1717$0142474"	"Anhang An das Gothaische Cantional Darinnen ... Die in dem Andern Theile des Gothaischen Gesang-Buchs, Mangelnden Melodien, in Alphabetischer Ordnung nach beygefügtem Register zu finden sind. [Gotha, Leipzig, Johann Andreas Reyher]"	990069110	W 1700; WW 1700	
+"Storace, Stephen$d1762-1796$030003060"	"Ah perche di quel ingrato. The favorite quartette sung at the King's Theatre in the Hay Market. [London, Birchall & Andrews; for S. Storace]"	990062930	S 6643; SS 6643	
+"Storace, Stephen$d1762-1796$030003060"	"The haunted tower. A comic opera in three acts as performed at the Theatre Royal Drury Lane, the music selected, adapted & composed by Stephen Storace. [London, Longman & Broderip]"	990062973	S 6687; SS 6687	
+"Storace, Stephen$d1762-1796$jAscertained$030003060"	"The favorite overture ... arranged as a duett, for two performers on the piano forte, by T. Haigh. [London, Lewis Lavenu]"	990063012	S 6728	
+"Storace, Stephen$d1762-1796$030003060"	"The favorite operas of Mahmoud & The iron chest. Adapted for the piano forte or harpsichord by Joseph Mazzinghi. [London, Mrs Storace; J. Dale]"	990063029	S 6746	
+"Storace, Stephen$d1762-1796$030003060"	"The siege of Belgrade. An opera in three acts as performed at the Theatre Royal Drury Lane, the music principally composed by Stephen Storace. [London, J. Dale]"	990063154	S 6872; SS 6872	
+"Urbani, Pietro$d1749-1816$030003194"	"A selection of Scots songs, harmonized, improved with simple and adapted graces [4 vol.]. [Edinburgh, author]"	990064961	U 56; UU 56	
+"Tacet, Joseph$d18.sc$030004717"	"Six divertimentis [C, G, D, C, G, F] ... for the german flute ... with a thorough bass for the harpsichord ... opera 4|t|a. [London, author]"	990063548	T 5; TT 5	
+"Tacet, Joseph$d18.sc$030004717"	"Six solos [D, C, G, A, e, G] for a germanflute or violin, with a thorough bass for the harpsichord or violoncello [op. I] [London, author]"	990063544	T 1; TT 1	
+"Valentine, Robert$d1674-1747$030003205"	"XII | Sonatas |  or | Solos | for a | Flute | with a Through-bass | for the | Harpsicord or Bass Violin | Compos'd by | M|r: Valentine. at Rome | Opera Terza. [London, Printed for J. Walsh at the Harp & Hoboy in | Katherine Street & J. Hare at the Viol & Flute in Cornhill.]"	990065094	V 55	
+"Valentine, Robert$d1674-1747$030003205"	| [frame] | XII | SONATAS | or | SOLOS | for a | FLUTE | with a | THROUGH BASS | for the | HARPSICORD | or | BASS VIOLIN | Compos'd by | M|r: Valentine at Rome | Opera Quinta | [rule] | London Printed for I: Walsh Serv|t. in Ordinary to his Majesty at y|e Harp & Hoboy in Catherine | [Street indecipherable on film] in y|e Strand: & I: Hare at y|e Viol & Flute in Cornhill near y|e Royall Exchange |	990065102	V 63	
+"Vanbrugh, George$d18.sc$030011610"	"Mirth and harmony, consisting of vocal and instrumental musick: as, songs and ariets for one and two voices; and, a cantata; several of the songs on diverting subjects; all fitted for the german flute, common flute, violin, hoboy, harpsichord, or organ, to accompany the voice or to be play'd alone. [London, John Walsh]"	990065223	V 190	
+"Tessarini, Carlo$d1690c-1766p$030003123"	"Il piacer del amator di musica; facile sonatine da camera a due violini e basso, con canone [C] al fine, nuovamente ristampate e ricorette, opera quinta. [Paris, aux adresses ordinaires]"	990064072	T 553	
+"Shield, William$d1748-1829$030004470"	"Rosina. A comic opera ... composed and selected by William Shield. [London, J. Dale]"	990059551	S 3174; SS 3174	
+"Shield, William$d1748-1829$030004470"	"The travellers in Switzerland. A comic opera ... selected & composed by W. Shield. [London, Longman & Broderip]"	990059619	S 3244	
+"Shield, William$d1748-1829$030004470"	"The woodman. A comic opera ... composed chiefly by Will|m Shield. [London, Longman & Broderip]"	990059630	S 3255; SS 3255	
+"Vanhal, Johann Baptist$d1739-1813$0114557"	"Six quartettos [B, F, E, G, B, Es] for two violins, a tenor and bass, selected from the different works of C. Vanhall [!]. [London, William Napier]"	990065398	V 387	
+"Mozart, Wolfgang Amadeus$d1756-1791$0115324"	"Three sonatas for the pianoforte. Two [-one] with accompaniments for a violin and violoncello. Op. 19 [London, Preston]"	990045327	M 6796; MM 6796	
+"Mozart, Wolfgang Amadeus$d1756-1791$0115324"	"Œuvres complettes de Wolfgang Amadeus Mozart. [Cah.] I-XVII [Leipzig, Breitkopf & Härtel]"	990045827	M 7301; MM 7301	
+"Mozart, Leopold$d1719-1787$0115317"	"[title page:] Leopold Mozarts | Hochfürstl. Salzburgischen Vice-Capellmeisters | gründliche Violinschule, | mit vier Kupfertafeln | und | einer Tabelle. | Zweyte vermehrte Auflage | Auf Kosten des Verfassers. | Augsburg, | gedruckt bey Johann Jacob Lotter. 1770"	990042613	M 4037; MM 4037	
+"Jommelli, Niccolò$d1714-1774$jAscertained$0118329"	[title page:] La | Passione | di | nostro Signore | GIESU CRISTO | Oratorio | Musica del | SIGNOR JOMELLI | Poesia del | SIGNOR METASTASIO.	990032626	J 568; JJ 568	
+"Just, Johann August$d1750c-1791$030001643"	"[Six divertimentos, op. 1. no. 1:] Justs favorite lesson [D]. [[London], J. Bland]"	990032793	J 745	
+"Just, Johann August$d1750c-1791$030001643"	"The second divertimento [B] for the harpsichord or piano forte, with a flute accompanyment ... op.: I|s|t. [[London], J. Bland]"	990032794	J 746	
+"Just, Johann August$d1750c-1791$030001643"	"The fifth divertimento [C] for harpsichord or piano forte, with a flute accompanyment ... op: I|s|t. [[London], J. Bland]"	990032795	J 747	
+"Jones, Edward$d1752-1824$030010619"	"... a new edition, doubly augmented and improved. [London, for the author]"	990032665	J 608; JJ 608	
+"Kammel, Antonín$d1730-1784$03661"	"Six sonates [F, B, D, G, C, A], quatre à deux violons, deux à violon et alto viola ... œuvre XV [Berlin, Johann Julius Hummel; Amsterdam, au grand magazin de musique]"	990032996	K 152; KK 152	
+"Lampugnani, Giovanni Battista$d1708-1788$030001863"	"Six sonatas [G, A, B, A (= Nr. 6, 3, 2, 1 der vorausgehenden Ausgaben) D, A] for two violins and a thorough bass ... opera prima [[London], John Simpson]"	990036311	L 520; LL 520	
+"Kuhnau, Johann$d1660-1722$0477141"	[title:] Musicalische Vorstellung | Einiger | Biblischer Historien/ | In 6. Sonaten/ | Auff dem Claviere zu spielen/ | Allen Liebhabern zum Vergnügen | versuchet | von | Johann Kuhnauen. | Leipzig/ | Gedruckt bey Immanuel Tietzen/ | Anno MDCC.	990035758	K 2997	
+"Kreutzer, Rodolphe$d1766-1831$053845"	"... par les Comédiens Italiens, mise en musique par M. Kreutzer [Paris, Rodolphe Kreutzer; Sieber (Nicolas-Antoine Huguet)]"	990034860	K 2074; KK 2074	
+"Hook, James$d1746-1827$098817"	"Three grand concertos [B, C, D] for the organ, harpsichord or piano forte with accompaniments for violins, oboes, flutes, french-horns, trumpets, bassoons and violoncellos [op. 20] [London, S., A. & P. Thompson]"	990031345	H 7330	
+"Kelly, Michael$d1762-1826$0276999"	"The grand dramatic romance of Blue Beard, or Female curiosity, as now performing at the Theatre-Royal Drury Lane [London, Corri, Dussek & Co.]"	990033128	K 291; KK 291	
+"Le Sueur, Jean-François$d1760-1837$096260"	"La caverne. Drame lyrique en trois actes, représenté pour la première fois sur le Théâtre de la rue Feydeau le 16 février 1793 [Paris, Naderman (gravé par Huguet)]"	990037869	L 2111; LL 2111	
+"Keller, Gottfried$d1704+$030011387"	"A compleat method for attaining to play a thorough bass upon either organ, harpsicord, or theorbo-lute ... with variety of proper lessons and fuges, explaining the several rules throughout the whole work [London, J. Cullen; J. Young]"	990033095	K 258	
+"Arne, Thomas Augustine$d1710-1778$034778"	"Six favourite songs for the voice and piano forte. [London, Harrison]"	990002017	A 2016	
+"Arnold, Samuel$d1740-1802$0167367"	"The mountaineers ... the music selected and composed by Dr. Arnold, opera 34 [London, Preston & son]"	990002293	A 2292; AA 2292	
+"Arnold, Samuel$d1740-1802$0167367"	"Peeping Tom of Coventry. A comick opera in two acts ... for the voice, harpsichord and violin, opera XXV [London, Harrison & Co.; for the author]"	990002318	A 2317; AA 2317	
+"Arnold, Samuel$d1740-1802$0167367"	"The maid of the mill. A comick opera ... for the voice, harpsichord or violin [London, Robert Bremner]"	990002287	A 2286; AA 2286	
+"Arnold, Samuel$d1740-1802$0167367"	"Gretna Green. A comic opera ... consisting of Italian, French, Irish, English & Scotch music, the overture by Dr. Arnold ... opera XXII [London, John Preston]"	990002255	A 2254; AA 2254	
+"Arnold, Samuel$d1740-1802$0167367"	"The shipwreck. A comic opera in two acts. ... op. 40 [London, Longman & Broderip]"	990002328	A 2327; AA 2327	
+"Agrell, Johan Joachim$d1701-1765$030000042"	"A collection of easy genteel lessons for the harpsicord ... book II, to which is added Vivaldi's celebrated 5th concerto set for the harpsicord. [London, Randall & Abell]"	990000430	A 429	
+"Abel, Carl Friedrich$d1723-1787$0222"	"Six sonatas for the piano forte with an accompaniment for a violin [London, Harrison & Co.]"	990000123	A 122; AA 122	
+"Abel, Carl Friedrich$d1723-1787$0222"	"Six sonates [C, F, D, B, G, Es] for the harpsicord with accompanyments for a violin or german flute, and violoncello ... opera II [London, author]"	990000106	A 105; AA 105	
+"Arne, Michael$d1740c-1786$030004433"	"Cymon. A dramatic romance [London, author; Michael Arne]"	990001437	A 1436; AA 1436	
+"Arne, Thomas Augustine$d1710-1778$034778"	"Overture in Artaxerxes. [London, Robert Falkener]"	990001648	A 1647	
+"Arne, Thomas Augustine$d1710-1778$034778"	"Comus. A masque ... for the voice, harpsichord and violin [London, Harrison & Co.]"	990001750	A 1749; AA 1749	
+"Arne, Thomas Augustine$d1710-1778$034778"	"The music in the masque of Comus, adapted for the german flute [London, Straight & Skillern]"	990001762	A 1761; AA 1761	
+"Bach, Johann Christian$d1735-1782$02530"	"A second Sett of | Six | Concertos | For the | HARPSICHORD | or | PIANO FORTE | WITH ACCOMPANYMENTS | For two Violins & a Violoncello | Humbly dedicated  TO HER MAJESTY | Charlotta | QUEEN OF GREAT BRITIAN &c. &c. &c. | BY | Johann Christian Bach | Opera VII [...] [US-CAe] [London, John Welcker; London, John Welcker]"	990003240	B 281; BB 281	
+"Bach, Johann Christian$d1735-1782$02530"	"Six sonatas [B, C, G, E, F, D] for the harpsichord or piano forte: with an accompagnement for a violin ... opera X [London, John Welcker]"	990003292	B 333; BB 333	
+"Bach, Johann Christian$d1735-1782$02530"	"Six canzonets ... [op. 6] [London, Welcker]"	990003182	B 221; BB 221	
+"Bach, Johann Christian$d1735-1782$02530"	"SIX | CONCERTI | pour le | CLAVECIN | Deux | Violons & une Violoncelle | Très humblement dediés | A SA MAJESTE | CHARLOTTE | REINE e la Grande Bretagne &&& | Composés par | Jean Bach | Oevre [!] Premier | LONDON Printed by WELCKER in Gerrard Street S.|t Ann's Soho | where may he had by Sig.|r Bach Six Sonatas for Harpsichord, 6 Overtures in 8 Parts, Six | Canzonets, and 3 Collection of Songs in Adriano in Siria."	990003227	B 268; BB 268	
+"Bach, Johann Christian$d1735-1782$02530"	"Six sonatas [D, G, C, A, D, F] for the harpsichord or piano forte with an accompaniment for a german flute or violin ... opera XVI [London, John Welcker]"	990003308	B 350; BB 350	
+"Bach, Johann Sebastian$d1685-1750$02539"	"[book 1, title:] Joh. Seb. Bach's  MOTETTEN | in Partitur | Erstes Heft | enthaltend | drey achtstimmige Motetten | Singet dem Herrn ein neues Lied, etc. | Fürchte dich nicht, ich bin bey dir, etc. | Ich lasse dich nicht, du segnest mich etc. | Preis 1 Rthlr. 8 Gr. | LEIPZIG | bey Breitkopf und Härtel."	990003401	B 447; BB 447	
+"Burton, John$d1730-1782$030012063"	"[No. 2 (A):] Sonata [for harpsichord] [London, J. Dale]"	990007663	B 5082	
+"Bianchi, Francesco$d1752c-1810$01718122"	"Per pietà padron mio. Sung ... in the opera of Gli Schiavi per Amore. [[London], Longman & Broderip]"	990005328	B 2555	
+"Besozzi, Alessandro$d1702-1793$015639"	"VI sonatas in three parts for a german flute, a violin, with a thorough bass for the harpsichord or violoncello [von verschiedenen Komponisten?] [London, John Walsh]"	990005237	B 2458; BB 2458	
+"Boccherini, Luigi$d1743-1805$030000391"	"Six conversation pieces or trios [c, D, Es, A, B, F] for two violins and a violoncello dedicated to all the lovers of music ... opera VII [London, W. Napier]"	990005816	B 3074; BB 3074	
+"Borghese, Antonio D. R.$d1755c-1810p$030009305"	"Six sonatas for the harpsichord & 2 violins. [Edinburgh, s.n. (J. Johnson)]"	990006369	B 3688	
+"Bowie, John$d1759-1815$030012053"	"[...] [Edinburgh, Neil Stewart & Co.; for the author]"	990006709	B 4032	
+"Boyce, William$d1711-1779$030004115"	"Solomon. A serenata, taken from the Canticles [London, John Walsh; for the author]"	990006740	B 4074; BB 4074	
+"Bach, Johann Christian$d1735-1782$02530"	"Six sonates [F, G, D, C, D, Es] pour le clavecin, accompagnées d'un violon ou flûte traversière et d'un violoncelle ... œuvre II [London, Welcker]"	990003280	B 321; BB 321	
+"Bach, Johann Christian$d1735-1782$02530"	"[6 symphonies, op. 3; arr.] Six overtures ... adapted for the harpsichord [London, Welcker]"	990003358	B 404; BB 404	
+"Bach, Carl Philipp Emanuel$d1714-1788$02561"	"[title page with ornamental frame, f. 1r:] Herrn Professor Gellerts | Geistliche Oden und Lieder | mit Melodien | von | Carl Philipp Emanuel Bach. | Dritte Auflage. | [engraving] | Berlin, 1764. | Gedruckt und zu finden bey George Ludewig Winter."	990003092	B 124; BB 124	
+"Abel, Carl Friedrich$d1723-1787$0222"	"Six overtures ... adapted for the harpsichord or piano forte by the author [London, Robert Bremner]"	990000056	A 55; AA 55	
+"Abel, Carl Friedrich$d1723-1787$0222"	"Six concerts [F, B, Es, D, G, C] pour le clavecin ou piano forte, avec l'accompagnement de deux violons et violoncelle ... œuvre XI [London, Robert Bremner; pour l'auteur]"	990000087	A 86; AA 86	
+"Anfossi, Pasquale$d1727-1797$01368"	"L'inconnue persécutée; comédie-opéra en trois actes ... représentée pour la première fois, par l'Académie royale de musique, le vendredi, 21. septembre 1781, et remise au théâtre le dimanche, 14. decembre 1783, donnée depuis en province ... sans récitatif [Paris, Jean-Pierre De Roullède; Lawalle L'Ecuyer; Houbaut (Basset)]"	990001175	A 1174; AA 1174	
+"Arnold, Samuel$d1740-1802$0167367"	"The agreeable surprise. A comic opera in two acts ... for the voice, harpsichord, or violin, op. XVI [London, John Bland]"	990002195	A 2194; AA 2194	
+"Arnold, Samuel$d1740-1802$0167367"	"The agreeable surprise... a comick opera in two acts [London, Harrison & Co.]"	990002196	A 2195; AA 2195	
+"Arne, Thomas Augustine$d1710-1778$034778"	"... song of Ariel, in the Tempest [London, G. Walker]"	990001919	A 1918; AA 1918	
+"Arne, Thomas Augustine$d1710-1778$034778"	"The music in The trip to Portsmouth ... the overture and dances composed by Dr. Arne, and the songs by Charles Dibdin, with transpositions for the german flute & guitar [London, Longman, Lukey & John Johnston]"	990001966	A 1965; AA 1965	
+"Arnold, Samuel$d1740-1802$0167367"	"The overture, songs, chorusses ... opera XXXII [London, Longman & Broderip]"	990002211	A 2210; AA 2210	
+"Besozzi, Alessandro$d1702-1793$015639"	"Six solos [D, G, D, G, D, C] for the german-flute, hautboy, or violin, with a thorough bass for the harpsichord [London, Edmund Chapman]"	990005239	B 2460; BB 2460	
+"Callcott, John Wall$d1766-1821$030004565"	"You gentleman of England. The New Mariners. A favorite glee for three voices ... introduced in the ... opera of The Travellers in Switzerland [by W. Shield] [London, J. Dale]"	990008005	C 238; CC 238	
+"Brown, John$d1715-1766$jConjectural$030012060"	"A Dissertation on the Rise, Union, and Power, The Progressions, Separations, and Corruptions, of Poetry and Music. To which is prefixed. The cure of Saul. A sacred ode [London, L. Davis & C. Reymers; London, L. Davis & C. Reymers; London, L. Davis & C. Reymers]"	990007224	B 4614; BB 4614	
+"Burton, John$d1730-1782$030012063"	"Ten sonatas [D, A, F, G, D, B, C, G, A, F] for the harpsichord, organ, or piano forte [London, author]"	990007657	B 5076; BB 5076	
+"Bononcini, Giovanni$d1670-1747$020000426"	"Aires for two flutes and bass or two flutes without a bass ... consisting of allemands, sarabands, corants, preludes, gavots and jiggs, with a through bass for the harpsicord or bass violin [London, John Walsh & Joseph Hare]"	990006336	B 3622; BB 3622	
+"Burney, Charles$d1726-1814$0118331"	"Six sonatas for two violins, with a bass for the violoncello or harpsichord ... opera prima. [London, William Smith; for the author]"	990007636	B 5054	
+"Boccherini, Luigi$d1743-1805$030000391"	"Sei sonate [B, C, B, D, g, Es] di cembalo e violino obligato ... mis au jour par M. Boyer ... plusieurs de ces pièces peuvent s'exécuter sur la harpe ... opera V [Paris, Naderman (Boyer); Lyon, Castaud (gravée par M|m|e la V|v|e Leclair / imprimée par Richomme)]"	990005772	B 3031; BB 3031	
+"Campra, André$d1660-1744$030000563"	"... seconde édition, conforme aux dernières représentations [Paris, Christophe Ballard]"	990008491	C 731; CC 731	
+"Cimarosa, Domenico$d1749-1801$052222"	"Gli Orazi e i Curiazi. Opera seria ... paroles françaises de Moline [Paris, Imbault (gravé par L' Aubert)]"	990009841	C 2396; CC 2396	
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO I	1001094038		
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO III	1001097031		
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO IV	1001097032		
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO V	1001097033		
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO VI	1001097034		
+"Haydn, Joseph$d1732-1809$jAscertained$055803"	[left before accolade:] QUARTETTO II	1001097030		
+"Bach, Johann Sebastian$d1685-1750$02539"	"[caption title:] Motetto I. | Der 149. Psalm.$c[Bach, Johann Sebastian] | 1685-1750"	403008806		
+"Bach, Johann Sebastian$d1685-1750$02539"	"[caption title:] Motetto II.$c[Bach, Johann Sebastian] | 1685-1750"	403008807		
+"Bach, Johann Christoph$d1642-1703$jDoubtful$020000414"	"[caption title:] Motetto III.$c?Bach, Johann Christoph? | 1642-1703"	403008808		
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Largo con Sordini | Sonata. VII."	406002248		
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Il Terremoto | Presto e con tutta | la forza."	406002249		
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] L'Introduzione | Maestoso | ed Adagio"	406002241		
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Grave e Cantabile | Sonata. II."	406002243		
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Grave | Sonata. III."	406002244		
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Largo. | Sonata. IV."	406002245		
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Adagio | Sonata V."	406002246		
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Lento | Sonata. VI."	406002247		
+"Haydn, Joseph$d1732-1809$055803"	"[vl 1, left before accolade:] Largo | Sonata. I."	406002242		
+"Zingarelli, Niccolò Antonio$d1752-1837$jAscertained$0100966"	"[title:] ANTIGONE | OPERA EN TROIS ACTES | Représenté pour la 1.|r|e fois par l'Académie | Royale de Musique le 30. Avril 1790. | PAROLES | de M.|r Marmontel. | MUSIQUE | de M.|r Zingarelli. | Prix 24 |t|t | A PARIS Chez Imbault, Rue S. Honoré près l'Hôtel d'Aligre, au mont d'Or N.|o 627."	990069923	Z 242; ZZ 242	
+"Arne, Thomas Augustine$d1710-1778$034778"	"A new edition of Artaxerxes, a serious opera as performed at the Theatres Royal Covent Garden and Drury Lane for the voice, harpsichord and violin [London, S.A. & P. Thompson]"	990001633	A 1632; AA 1632	
+"Stumpff, Johann Christian$d1737-1801$030003083"	"Sei duetti [C, D, F, G, a, B] per due viole o per una viola e violoncello o sia per due violoncelli o due bassoni, opera VI. [Paris, Bureau d'Abonnement Musical; Lyon, Castaud (gravés par Mme Vendôme et Mlle sa fille); Paris, Bureau d'Abonnement Musical; Lyon, Castaud (gravés par Mme Vendôme et Mlle sa fille)]"	990063343	S 7066	
+"Pleyel, Ignace$d1757-1831$024761"	"Petits airs et rondos d'une exécution facile pour le clavecin ou le piano-forté avec accompagnement d'un violon, ad-libitum ... livre 5 [Paris, Imbault]"	990051896	P 4485	
+"Huber, Pancratius$d18.sc$030001574"	"Six duettes à un violon et alto viola ... opera prima. [Amsterdam, Johann Julius Hummel]"	990031550	H 7598	
+"Pleyel, Ignace$d1757-1831$024761"	"Petits airs et rondos d'une exécution facile pour le clavecin ou le piano-forté avec accompagnement d'un violon, ad-libitum ... livre 3 [Paris, Imbault]"	990051997	P 4584	
+"Pleyel, Ignace$d1757-1831$024761"	"Deux grandes sonates pour le clavecin ou le piano forte avec accompagnement d'un violon ad libitum ... œuvre VII [London, Birchall & Andrews]"	990051808	P 4396	
+"Pleyel, Ignace$d1757-1831$024761"	"A favorite sonata for the harpsichord or piano forte with an accompaniment for a violin [London, Preston & son]"	990051832	P 4420	
+"Pleyel, Ignace$d1757-1831$024761"	"Petits airs et rondos d'une exécution facile pour le clavecin ou le piano-forté avec accompagnement d'un violon, ad-libitum ... livre 4 [Paris, Imbault]"	990052097	P 4684	
+"Pleyel, Ignace$d1757-1831$024761"	"Petits airs et rondos d'une exécution facile pour le clavecin ou le piano-forté avec accompagnement d'un violon, ad-libitum ... livre 2 [Paris, Imbault]"	990052013	P 4600	
+"Arnold, Samuel$d1740-1802$0167367"	"The | CASTLE of ANDALUSIA | A COMIC OPERA | as it is Performed, with Universal Applause, at the | THEATRE ROYAL in COVENT GARDEN: | the Selected Airs by | Handel, Giordani, Giardini, | Vento, Bertoni, D.|r Arne, | and Carolan the Irish Bard. | THE OVERTURE, CHORUSSES, NEW AIRS &c, COMPOSED, BY | Op XX DOCTOR ARNOLD. Pr 10.6. | London Printed for John Bland, at his Music Warehouse N.|o 45 Holborn | where may be had, all the above Composer's Works. Enter'd at Stationer's Hall."	990002221	A 2220; AA 2220	
+"Pleyel, Ignace$d1757-1831$024761"	"Petits airs et rondos d'une exécution facile pour le clavecin ou le piano-forte avec accompagnement d'un violon, ad-libitum ... livre 1 [Paris, Imbault]"	991024867	PP 4591a	
+"Arne, Thomas Augustine$d1710-1778$034778"	"The overture to Thomas and Sally in 8 parts. [s.l., s.n.]"	992005065	A 1940; AA 1940	
+"Corri, Domenico$d1746-1825$030004734"	"My ain kind dearie. With variations ... a Scotch air [for the pianoforte] [ [s.l., s.n.]"	992005501	C 4121	
+"Bréval, Jean-Baptiste$d1753-1823$030000482"	"Six duetts for a violin and violoncello ... opera 19 [London, Longman & Broderip]"	990007000	B 4383; BB 4383	
+"Paisible, James$d1650c-1721$030002420"	"Six sonatas of two parts for two flutes ... opera prima. [London, J. Walsh & J. Hare]"	990047714	P 80	
+"Tacet, Joseph$d18.sc$030004717"	"Second collection of Italian, French and English favorite airs and minuets with variations adapted for two german flutes ... by J. Tacet. [London, Tacet]"	990063551	T 9; TT 9	
+"Courteville, Raphael$d1735c+$030014039"	"Sonatas [F, c, a, G, g, F] of two parts, compos'd and purposly [!] contrived for two flutes [London, s.n.]"	990011698	C 4345; CC 4345	
+"Tacet, Joseph$d18.sc$030004717"	"A collection of Italian, French, and English favourite airs and minuets with variations, adapted for two german flutes or two violins or two guittars by Mr. Tacet. [London, Tacet]"	990063550	T 8; TT 8	
+"Croft, William$d1678-1727$030004123"	"Six sonatas of two parts, ... for two flutes. To which is added an excellent solo for a flute and a bass by Papus [= Pepusch] [London, John Walsh & John Hare]"	991016701	CC 4534a	
+"Stamitz, Carl$d1745-1801$0121537"	"Six duos à un violon et alto viola ... œuvre premier [Nr. 6 = op. 12/3]. [Berlin, Johann Julius Hummel; Amsterdam, au grand magazin de musique]"	990060852	S 4524; SS 4524	
+"Hasse, Johann Adolf$d1699-1783$051928"	"Twelve DUETS | or | CANZONETS | FOR TWO | GERMAN FLUTES or VOICES | Compos'd by Sig:|r Hasse &c. | To which is added | The favourite Song of Sig.|ra Galli | London.Printed for I. Walsh, in Catharine Street, in the Strand. | ... |"	990026489	H 2305; HH 2305	
+"Storace, Stephen$d1762-1796$030003060"	"THE PIRATES , | an | Opera | in Three Acts , | As Performed at the | Theatre Royal Drury Lane | the Music | Composed | By STEPHEN STORACE. | Price, 12.|s | Entered at Stationers Hall. | LONDON Printed & Sold by J. DALE, N,,|o 19, Cornhill & N,,|o 132, Oxford Street opposite Hanover Square."	990063096	S 6814; SS 6814	
+"Shield, William$d1748-1829$030004470"	"THE CHOLERIC FATHERS, | A | Comic Opera | performed with universal applause at the | Theatre Royal Covent Garden | Composed by W,|.|m SHIELD. | Opera.  4. | Entered at Stationers Hall. | London Printed by Longman & Broderip N.|o 26 Cheapside & 13 Haymarket"	990059314	S 2931; SS 2931	
